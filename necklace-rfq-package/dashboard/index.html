@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Compare five StarsGem necklaces, choose the gold, and prepare a measurable lab-diamond necklace quote.">
+    <title>Necklace Research — StarsGem Comparison & RFQ</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Document navigation">
+        <a class="brand" href="#top" aria-label="Chain Notes home">
+          <span class="brand-mark" aria-hidden="true">CN</span>
+          <span><strong>Chain Notes</strong><small>Sourcing notebook</small></span>
+        </a>
+
+        <div class="project-card">
+          <img src="assets/reference-necklace.png" alt="Reference two-stone necklace">
+          <div>
+            <span class="status-dot">Active research</span>
+            <strong>Two-stone drop</strong>
+            <small>Compare · choose · request quote</small>
+          </div>
+        </div>
+
+        <nav id="documentNav" class="document-nav" aria-label="Research sections"></nav>
+
+        <div class="sidebar-footer">
+          <p>Saved privately in this browser.</p>
+          <button id="resetDocument" class="text-button" type="button">Restore original</button>
+        </div>
+      </aside>
+
+      <main id="top" class="workspace">
+        <header class="topbar">
+          <div class="mobile-brand">
+            <span class="brand-mark" aria-hidden="true">CN</span>
+            <strong>Chain Notes</strong>
+          </div>
+          <div class="search-wrap">
+            <span aria-hidden="true">⌕</span>
+            <input id="searchInput" type="search" placeholder="Search this research…" aria-label="Search this research">
+            <kbd>⌘ K</kbd>
+          </div>
+          <div class="toolbar">
+            <div class="view-switch" aria-label="Document mode">
+              <button class="mode-button active" data-mode="read" type="button">Read</button>
+              <button class="mode-button" data-mode="edit" type="button">Edit</button>
+            </div>
+            <button id="addSupplier" class="button secondary" type="button">+ Supplier</button>
+            <button id="exportMarkdown" class="button primary" type="button">Export .md</button>
+          </div>
+        </header>
+
+        <section class="quick-start" aria-labelledby="quickStartTitle">
+          <div class="quick-start-copy">
+            <span class="eyebrow">Recommended path</span>
+            <h1 id="quickStartTitle">Compare → choose gold → request the quote</h1>
+            <p>Start with the five StarsGem listings, then lock the metal and measurable construction before contacting the supplier.</p>
+          </div>
+          <div class="quick-start-actions" aria-label="Quick research actions">
+            <button class="quick-action primary" data-open-document="starsgem" type="button">
+              <span>1 · Compare StarsGem</span><small>Five listings and currency</small>
+            </button>
+            <button class="quick-action" data-open-document="gold" type="button">
+              <span>2 · Choose the gold</span><small>14K/18K · yellow/white</small>
+            </button>
+            <button class="quick-action" data-open-document="product" type="button">
+              <span>3 · Lock the specification</span><small>Chain, stones, CAD, QC</small>
+            </button>
+          </div>
+        </section>
+
+        <div id="documentTabs" class="document-tabs" aria-label="Research documents">
+          <div class="document-tab-buttons" role="tablist" aria-label="Core documents">
+            <button class="document-tab active" id="tab-start" role="tab" aria-selected="true" aria-controls="documentPreview" data-document="start" type="button">
+              <span>Start here</span><small>Recommended path</small>
+            </button>
+            <button class="document-tab" id="tab-starsgem" role="tab" aria-selected="false" aria-controls="documentPreview" data-document="starsgem" type="button">
+              <span>StarsGem</span><small>Compare 5 listings</small>
+            </button>
+            <button class="document-tab" id="tab-gold" role="tab" aria-selected="false" aria-controls="documentPreview" data-document="gold" type="button">
+              <span>Gold choice</span><small>14K/18K · color</small>
+            </button>
+            <button class="document-tab" id="tab-product" role="tab" aria-selected="false" aria-controls="documentPreview" data-document="product" type="button">
+              <span>Product specification</span><small>What to order</small>
+            </button>
+            <button class="document-tab" id="tab-research" role="tab" aria-selected="false" aria-controls="documentPreview" data-document="research" type="button">
+              <span>Supplier guide</span><small>Main research</small>
+            </button>
+            <button class="document-tab" id="tab-alibaba" role="tab" aria-selected="false" aria-controls="documentPreview" data-document="alibaba" type="button">
+              <span>Alibaba comparisons</span><small>Closest prices</small>
+            </button>
+          </div>
+          <label class="supplier-picker" for="supplierDocumentSelect">
+            <span>Ranked supplier page</span>
+            <select id="supplierDocumentSelect" aria-label="Open a ranked supplier page"></select>
+          </label>
+        </div>
+
+        <section class="document-stage" aria-label="Research document">
+          <div class="document-meta">
+            <span id="saveStatus"><i></i> All changes saved</span>
+            <span id="documentStats">—</span>
+          </div>
+
+          <article id="documentPreview" class="paper markdown-body" aria-label="Rendered research document"></article>
+          <div id="editorWrap" class="editor-wrap" hidden>
+            <div class="editor-label">
+              <span>MARKDOWN</span>
+              <span>Autosaves as you type · ⌘ S to save now</span>
+            </div>
+            <textarea id="markdownEditor" spellcheck="true" aria-label="Markdown research editor"></textarea>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="site-router.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

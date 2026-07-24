@@ -1,0 +1,58 @@
+name: Deploy necklace research to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate dashboard JavaScript and required files
+        run: |
+          node --check necklace-rfq-package/dashboard/app.js
+          test -f necklace-rfq-package/index.html
+          test -f necklace-rfq-package/dashboard/index.html
+          test -f necklace-rfq-package/dashboard/styles.css
+          test -f necklace-rfq-package/dashboard/favicon.svg
+
+      - name: Assemble public site
+        run: |
+          mkdir -p _site
+          cp necklace-rfq-package/index.html _site/index.html
+          cp necklace-rfq-package/.nojekyll _site/.nojekyll
+          cp -R necklace-rfq-package/dashboard _site/dashboard
+          cp -R necklace-rfq-package/assets _site/assets
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload static research package
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
