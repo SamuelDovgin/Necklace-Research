@@ -6,6 +6,18 @@ const STARSGEM_STORAGE_KEY = "chain-notes-starsgem-comparison-v1";
 const GOLD_STORAGE_KEY = "chain-notes-gold-guide-v1";
 const ACTIVE_DOCUMENT_KEY = "chain-notes-active-document-v3";
 
+const STARSGEM_LISTING_GALLERY_MARKDOWN = `## Listing images
+
+These saved listing captures keep the product, metal, and construction differences visible beside the price comparison. Select a SKU below to open its live StarsGem listing.
+
+![AuDP0000190Y-P2 · exact 14K yellow two-stone target](../assets/starsgem/listing-AuDP0000190Y-P2-2026-07-24.png)
+![AuDP1033281Y-12 · certified 10K yellow round solitaire](../assets/starsgem/listing-AuDP1033281Y-12-2026-07-24.jpg)
+![AuDP0003441-1 · certified 10K white pear solitaire](../assets/starsgem/listing-AuDP0003441-1-2026-07-24.jpg)
+![AuDP0003421-5 · certified 10K yellow floating pear](../assets/starsgem/listing-AuDP0003421-5-2026-07-24.jpg)
+![AuDP4011413(p1) · heavier 18K white two-stone benchmark](../assets/starsgem/listing-AuDP4011413-p1-2026-07-24.jpg)
+
+[AuDP0000190Y-P2](https://starsgemmall.com/#/detail?=25751_14K+Yellow+Gold+Lab+Diamond+Necklace+1.095ct+AuDP0000190Y-P2.html) · [AuDP1033281Y-12](https://starsgemmall.com/#/detail?=21313_10K+Yellow+Lab+Diamond+Necklace+1.105ct+AuDP1033281Y-12.html) · [AuDP0003441-1](https://starsgemmall.com/#/detail?=23401_10K+White+Gold+Lab+Diamond+Necklace+0.487ct+AuDP0003441-1.html) · [AuDP0003421-5](https://starsgemmall.com/#/detail?=22908_10K+Yellow+Gold+Lab+Diamond+Necklace++0.647ct+AuDP0003421-5.html) · [AuDP4011413(p1)](https://starsgemmall.com/#/detail?=22081_18K+White+Gold+Lab+Diamond+Necklace+1.12ct+AuDP4011413%28p1%29.html)`;
+
 const INITIAL_START_MARKDOWN = `# Start here
 The shortest path from research to a clear, comparable StarsGem quote.
 
@@ -47,6 +59,8 @@ const INITIAL_STARSGEM_MARKDOWN = `# Compare the five StarsGem necklaces
 The listings are useful for different questions. Only one is the exact visual target; the others test certification cost, stone size, chain construction, or metal choice.
 
 > **Best approach:** keep AuDP0000190Y-P2 as the visual reference, but use AuDP4011413(p1) as leverage for a heavier build. Ask for that 2.79 g architecture in unplated 14K yellow gold with the original 0.16 ct round.
+
+${STARSGEM_LISTING_GALLERY_MARKDOWN}
 
 ## Quick comparison
 
@@ -988,6 +1002,20 @@ SUPPLIER_RANKING.forEach(record => {
   };
 });
 
+function loadDocumentMarkdown(documentId) {
+  const documentRecord = DOCUMENTS[documentId];
+  const saved = localStorage.getItem(documentRecord.storageKey);
+  if (!saved) return documentRecord.initial;
+  if (documentId !== "starsgem" || saved.includes("listing-AuDP0000190Y-P2-2026-07-24")) return saved;
+
+  const anchor = "\n## Quick comparison";
+  const migrated = saved.includes(anchor)
+    ? saved.replace(anchor, `\n${STARSGEM_LISTING_GALLERY_MARKDOWN}\n${anchor}`)
+    : `${saved.trim()}\n\n${STARSGEM_LISTING_GALLERY_MARKDOWN}\n`;
+  localStorage.setItem(documentRecord.storageKey, migrated);
+  return migrated;
+}
+
 const editor = document.getElementById("markdownEditor");
 const preview = document.getElementById("documentPreview");
 const editorWrap = document.getElementById("editorWrap");
@@ -1001,7 +1029,7 @@ const supplierDocumentSelect = document.getElementById("supplierDocumentSelect")
 supplierDocumentSelect.innerHTML = `<option value="">Choose ranked supplier…</option>${SUPPLIER_RANKING.map(record => `<option value="supplier-${record.id}">#${record.rank} · ${record.name}</option>`).join("")}`;
 let activeDocument = localStorage.getItem(ACTIVE_DOCUMENT_KEY) || "start";
 if (!DOCUMENTS[activeDocument]) activeDocument = "start";
-let markdown = localStorage.getItem(DOCUMENTS[activeDocument].storageKey) || DOCUMENTS[activeDocument].initial;
+let markdown = loadDocumentMarkdown(activeDocument);
 let saveTimer;
 let toastTimer;
 
@@ -1079,6 +1107,23 @@ function renderMarkdown(source, query = "") {
       continue;
     }
     if (/^---+$/.test(line.trim())) { html.push("<hr>"); i += 1; continue; }
+    const standaloneImage = line.trim().match(/^!\[([^\]]*)\]\((((?:https?:\/\/|\.{1,2}\/|\/)[^\s)]+))\)$/);
+    if (standaloneImage) {
+      const images = [];
+      while (i < lines.length) {
+        const match = lines[i].trim().match(/^!\[([^\]]*)\]\((((?:https?:\/\/|\.{1,2}\/|\/)[^\s)]+))\)$/);
+        if (!match) break;
+        images.push({ alt: match[1], src: match[2] });
+        i += 1;
+      }
+      if (images.length > 1) {
+        html.push(`<div class="listing-gallery">${images.map(item => `<figure><img src="${escapeHtml(item.src)}" alt="${escapeHtml(item.alt)}" loading="lazy"><figcaption>${inline(item.alt, query)}</figcaption></figure>`).join("")}</div>`);
+      } else {
+        const item = images[0];
+        html.push(`<p><img src="${escapeHtml(item.src)}" alt="${escapeHtml(item.alt)}" loading="lazy"></p>`);
+      }
+      continue;
+    }
     if (/^>\s?/.test(line)) {
       const quoted = [];
       while (i < lines.length && /^>/.test(lines[i])) quoted.push(lines[i++].replace(/^>\s?/, ""));
@@ -1196,7 +1241,7 @@ function switchDocument(nextDocument) {
   save();
   activeDocument = nextDocument;
   localStorage.setItem(ACTIVE_DOCUMENT_KEY, activeDocument);
-  markdown = localStorage.getItem(DOCUMENTS[activeDocument].storageKey) || DOCUMENTS[activeDocument].initial;
+  markdown = loadDocumentMarkdown(activeDocument);
   editor.value = markdown;
   searchInput.value = "";
   updateDocumentTabs();
