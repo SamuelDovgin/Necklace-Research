@@ -8,7 +8,7 @@ After GitHub Pages is enabled, the dashboard is published at:
 
 https://samueldovgin.github.io/Necklace-Research/
 
-Every push to `main` automatically validates and republishes the site through `.github/workflows/pages.yml`. The public artifact contains the dashboard and its image assets; the editable research files remain in the repository.
+GitHub Pages publishes from the repository root on `main`. Every push to `main` automatically republishes the site, and the root `index.html` opens the dashboard.
 
 ## Repository layout
 
