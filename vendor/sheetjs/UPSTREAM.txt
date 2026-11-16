@@ -1,0 +1,5 @@
+# SheetJS Community Edition
+
+`xlsx.mini.min.js` is the unmodified standalone build of SheetJS CE 0.20.3, distributed under the Apache License, Version 2.0.
+
+[Upstream release asset](https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.mini.min.js) · [License](LICENSE)

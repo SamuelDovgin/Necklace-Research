@@ -1,0 +1,134 @@
+.preview-header .viewer-actions {
+  flex-wrap: wrap;
+  width: auto;
+}
+
+.preview-main {
+  width: min(1440px, calc(100% - 36px));
+  margin: clamp(22px, 4vw, 55px) auto 60px;
+}
+
+.preview-main h1 {
+  margin: 0 0 24px;
+  font: 500 clamp(1.8rem, 4vw, 3.55rem)/1.05 var(--serif);
+  letter-spacing: -.03em;
+  overflow-wrap: anywhere;
+}
+
+.sheet-controls, .sheet-pages {
+  display: flex;
+  align-items: end;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.sheet-controls {
+  margin-bottom: 14px;
+}
+
+.sheet-controls label {
+  color: var(--muted);
+  font-size: .77rem;
+  font-weight: 700;
+}
+
+.sheet-controls input, .sheet-controls select, .sheet-pages button {
+  min-height: 40px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  color: var(--ink);
+  background: var(--paper);
+  font: inherit;
+  padding: 8px 12px;
+}
+
+.sheet-controls input, .sheet-controls select {
+  display: block;
+  margin-top: 4px;
+  width: min(100%, 260px);
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.sheet-scroll {
+  max-height: min(58dvh, 760px);
+  overflow: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+}
+
+.sheet-scroll table {
+  min-width: 100%;
+  border-spacing: 0;
+  font-size: .83rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.sheet-scroll :is(th, td) {
+  min-width: 4em;
+  max-width: 32em;
+  padding: .66em .84em;
+  border-bottom: 1px solid var(--soft-line);
+  border-right: 1px solid var(--soft-line);
+  text-align: left;
+  vertical-align: top;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.sheet-scroll thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  color: var(--sidebar);
+  border-bottom-color: var(--line);
+  background: #e8ede6;
+}
+
+.sheet-scroll :is(th[scope="row"], thead th:first-child) {
+  position: sticky;
+  left: 0;
+  min-width: 0;
+  text-align: right;
+}
+
+.sheet-scroll thead th:first-child { z-index: 2; }
+.sheet-scroll tbody th { color: var(--muted); background: #f0f0e8; }
+.sheet-scroll tbody tr:nth-child(even) td { background: #f8f7f1; }
+.sheet-scroll a { color: var(--accent-dark); }
+
+.sheet-pages {
+  align-items: center;
+  margin-top: 13px;
+  font-size: .85rem;
+}
+
+.sheet-pages button:enabled { cursor: pointer; }
+.sheet-pages button:disabled { opacity: .5; }
+.sheet-pages output { color: var(--muted); }
+
+.pdf-preview {
+  display: block;
+  width: 100%;
+  height: max(60vh, calc(100dvh - 170px));
+  border: 1px solid var(--line);
+  background: var(--paper);
+}
+
+.text-preview {
+  padding: clamp(12px, 3vw, 36px);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+  font: .85rem/1.6 var(--mono);
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 640px) {
+  .preview-main { width: calc(100% - 24px); }
+  .sheet-controls label { flex: 1 1 140px; min-width: 0; }
+  .sheet-scroll :is(th, td) { min-width: 6.5rem; max-width: 18em; }
+  .sheet-scroll :is(th[scope="row"], thead th:first-child) { min-width: 3.25rem; }
+}
