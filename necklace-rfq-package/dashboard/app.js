@@ -4,6 +4,7 @@ const PRODUCT_STORAGE_KEY = "chain-notes-product-specification-v1";
 const START_STORAGE_KEY = "chain-notes-start-here-v1";
 const STARSGEM_STORAGE_KEY = "chain-notes-starsgem-comparison-v1";
 const GOLD_STORAGE_KEY = "chain-notes-gold-guide-v1";
+const GENERAL_STORAGE_KEY = "chain-notes-general-research-v1";
 const ACTIVE_DOCUMENT_KEY = "chain-notes-active-document-v3";
 
 const STARSGEM_LISTING_GALLERY_MARKDOWN = `## Listing images
@@ -15,8 +16,104 @@ These saved listing captures keep the product, metal, and construction differenc
 ![AuDP0003441-1 · certified 10K white pear solitaire](../assets/starsgem/listing-AuDP0003441-1-2026-07-24.jpg)
 ![AuDP0003421-5 · certified 10K yellow floating pear](../assets/starsgem/listing-AuDP0003421-5-2026-07-24.jpg)
 ![AuDP4011413(p1) · heavier 18K white two-stone benchmark](../assets/starsgem/listing-AuDP4011413-p1-2026-07-24.jpg)
+![AuDP1033395-2 · certified 10K white pear pendant](../assets/starsgem/listing-AuDP1033395-2-2026-07-29.jpg)
 
-[AuDP0000190Y-P2](https://starsgemmall.com/#/detail?=25751_14K+Yellow+Gold+Lab+Diamond+Necklace+1.095ct+AuDP0000190Y-P2.html) · [AuDP1033281Y-12](https://starsgemmall.com/#/detail?=21313_10K+Yellow+Lab+Diamond+Necklace+1.105ct+AuDP1033281Y-12.html) · [AuDP0003441-1](https://starsgemmall.com/#/detail?=23401_10K+White+Gold+Lab+Diamond+Necklace+0.487ct+AuDP0003441-1.html) · [AuDP0003421-5](https://starsgemmall.com/#/detail?=22908_10K+Yellow+Gold+Lab+Diamond+Necklace++0.647ct+AuDP0003421-5.html) · [AuDP4011413(p1)](https://starsgemmall.com/#/detail?=22081_18K+White+Gold+Lab+Diamond+Necklace+1.12ct+AuDP4011413%28p1%29.html)`;
+[AuDP0000190Y-P2](https://starsgemmall.com/#/detail?=25751_14K+Yellow+Gold+Lab+Diamond+Necklace+1.095ct+AuDP0000190Y-P2.html) · [AuDP1033281Y-12](https://starsgemmall.com/#/detail?=21313_10K+Yellow+Lab+Diamond+Necklace+1.105ct+AuDP1033281Y-12.html) · [AuDP0003441-1](https://starsgemmall.com/#/detail?=23401_10K+White+Gold+Lab+Diamond+Necklace+0.487ct+AuDP0003441-1.html) · [AuDP0003421-5](https://starsgemmall.com/#/detail?=22908_10K+Yellow+Gold+Lab+Diamond+Necklace++0.647ct+AuDP0003421-5.html) · [AuDP4011413(p1)](https://starsgemmall.com/#/detail?=22081_18K+White+Gold+Lab+Diamond+Necklace+1.12ct+AuDP4011413%28p1%29.html) · [AuDP1033395-2](https://starsgemmall.com/#/detail?=24178_10K+White+Gold+Lab+Diamond+Pendant+1.031ct+AuDP1033395-2.html)`;
+
+const INITIAL_GENERAL_MARKDOWN = `# General necklace research notebook
+A flexible home for collecting necklace links, noticing preference patterns, and narrowing the field without committing too early.
+
+> **How to use this page:** add every interesting find first. Record the immediate reaction, then compare only the candidates that survive a second look. Use **Edit** to change this notebook; it saves privately in this browser, and **Export .md** creates a portable copy.
+
+## Current direction
+
+I am pivoting from one tightly specified necklace toward broader discovery. The immediate goal is to learn what I consistently like across silhouettes, stone layouts, metals, chain styles, proportions, and price levels.
+
+## What I seem to like
+
+| Preference area | Current signal | Confidence | What to test next |
+|---|---|---|---|
+| Silhouette | Delicate pendant or drop necklace | Medium | Compare solitaire, two-stone, and asymmetric forms |
+| Stones | Pear shapes and mixed-shape compositions keep standing out | High | Test pear size and elongation preferences |
+| Metal | White and yellow gold are both still live options | Low | Compare identical designs in both colors |
+| Scale | Visually delicate, but not flimsy | Medium | Record chain gauge and finished weight |
+| Value | Price should make sense from gold, stone, certification, and construction | High | Normalize each serious candidate before judging price |
+
+## Link inbox
+
+| Status | Candidate | Immediate reaction | Listed facts | Next question |
+|---|---|---|---|---|
+| Interested | [StarsGem AuDP1033395-2](https://starsgemmall.com/#/detail?=24178_10K+White+Gold+Lab+Diamond+Pendant+1.031ct+AuDP1033395-2.html) | Clean pear pendant; useful value reference | 10K white gold; 1.031 ct; pendant | Chain included? Actual stone dimensions and certificate? |
+| Investigating price | [StarsGem AUDP0008894](https://starsgemmall.com/#/detail?=14295_18K+White+Gold+Lab+Diamond+Pendant+Necklace+AUDP0008894.html) | Attractive two-stone layout, but $1,413.85 looks unusually high | 18K white gold; 2.941 g; 2.28 ct pear + 0.25 ct round; 2.53 ctw | Is the premium mainly the much larger stones, or is the quote padded? |
+| Interested | [StarsGem AuDP1033291-1](https://starsgemmall.com/#/detail?=22975_10K+White+Gold+Lab+Diamond+Pendant+1.07ct+AuDP1033291-1.html) | Another useful pear-solitaire comparison | 10K white gold; 1.07 ct | Compare weight, dimensions, certification, and price with AuDP1033395-2 |
+| Add next | Paste link here | First reaction | Metal, stones, weight, length, price | What must be verified? |
+
+## Shortlist
+
+| Rank | Candidate | Why it remains | Main concern | Next action |
+|---:|---|---|---|---|
+| 1 | — | — | — | — |
+| 2 | — | — | — | — |
+| 3 | — | — | — | — |
+
+## Candidate note template
+
+Copy this block whenever a link deserves more than one line in the inbox.
+
+### Candidate name or SKU
+
+- Link: —
+- Price and currency: —
+- Metal and stated weight: —
+- Stone shapes, carats, dimensions, and certification: —
+- Chain length, style, width, thickness, and clasp: —
+- What I like immediately: —
+- What gives me pause: —
+- Closest comparison: —
+- Questions for the seller: —
+- Status: inbox / shortlist / rejected / purchased
+
+## Preference tests
+
+- [ ] Compare solitaire pear versus round-over-pear drop.
+- [ ] Compare the same silhouette in yellow and white gold.
+- [ ] Find the minimum chain gauge that still feels substantial.
+- [ ] Decide whether an IGI report matters for a roughly 1 ct pendant.
+- [ ] Record whether I prefer a visible bail, hidden bail, or floating setting.
+- [ ] Compare 16–18 inch and 18–20 inch wearing lengths.
+
+## Comparison rules
+
+1. Separate necklace, pendant-only, and loose-stone prices.
+2. Record total carat weight and each stone separately.
+3. Treat certificates as unverified until the report number matches the stone shipped.
+4. Record finished weight, chain dimensions, clasp, and length before calling two pieces equivalent.
+5. Compare the final payable total in one currency, including shipping, duties, and fees.
+6. Label seller claims as seller-stated until independently verified.
+
+## Decision log
+
+| Date | Decision or new signal | Why it matters | Revisit when |
+|---|---|---|---|
+| 2026-07-29 | Broaden research beyond one exact two-stone specification | The project now needs to discover preferences, not merely source a predetermined design | A clear pattern emerges from at least five strong candidates |
+
+## Research queue
+
+- [ ] Add every saved necklace link from messages, bookmarks, screenshots, and open tabs.
+- [ ] Add one-sentence first reactions before researching details.
+- [ ] Normalize the serious candidates into one comparison table.
+- [ ] Investigate why StarsGem AUDP0008894 costs $1,413.85.
+- [ ] Compare AuDP1033291-1 directly with AuDP1033395-2.
+- [ ] Promote no more than five candidates into the shortlist.
+
+## Existing deep dives
+
+The durable Markdown files remain in the package's \`docs\` folder:
+
+- \`09_starsgem_AUDP0008894_price_audit.md\`
+- \`10_starsgem_AuDP1033291-1_pendant_audit.md\`
+- \`11_general_necklace_research_notebook.md\`
+`;
 
 const INITIAL_START_MARKDOWN = `# Start here
 The shortest path from research to a clear, comparable StarsGem quote.
@@ -25,7 +122,7 @@ The shortest path from research to a clear, comparable StarsGem quote.
 
 ## Your four-step path
 
-1. **Compare the five StarsGem listings.** Use the StarsGem tab to understand which product is the exact design, which is the strongest construction, and which listings are only price benchmarks.
+1. **Compare the six StarsGem listings.** Use the StarsGem tab to understand which product is the exact design, which is the strongest construction, and which listings are only price benchmarks.
 2. **Choose the gold.** Use the Gold choice tab. The practical default is unplated 14K yellow gold; 18K yellow is the richer-color upgrade; white gold adds rhodium-plating maintenance.
 3. **Lock the measurable specification.** Confirm stone sizes, minimum finished weight, chain width and thickness, clasp, certificate identity, and QC evidence in the Product spec tab.
 4. **Send one controlled RFQ.** Ask for stock, upgraded-chain, and IGI versions separately. Compare final landed totals, not headline prices.
@@ -55,7 +152,7 @@ The shortest path from research to a clear, comparable StarsGem quote.
 > I am comparing StarsGem SKUs AuDP0000190Y-P2 and AuDP4011413(p1). Please quote the heavier AuDP4011413(p1) construction in unplated solid 14K yellow gold, with a 0.935–1.02 ct pear near the listed dimensions and the original 0.16 ct / 3.4 mm round. State minimum finished weight, chain measurements, certificate status, CNY price, USD price, exchange rate, shipping, duties, fees, lead time, and final landed total.
 `;
 
-const INITIAL_STARSGEM_MARKDOWN = `# Compare the five StarsGem necklaces
+const INITIAL_STARSGEM_MARKDOWN = `# Compare the six StarsGem pieces
 The listings are useful for different questions. Only one is the exact visual target; the others test certification cost, stone size, chain construction, or metal choice.
 
 > **Best approach:** keep AuDP0000190Y-P2 as the visual reference, but use AuDP4011413(p1) as leverage for a heavier build. Ask for that 2.79 g architecture in unplated 14K yellow gold with the original 0.16 ct round.
@@ -71,6 +168,7 @@ ${STARSGEM_LISTING_GALLERY_MARKDOWN}
 | AuDP0003441-1 | 10K white/rhodium; 0.487 ct certified pear; 1.36 g | ¥1,450.96 / ¥1,421.94 | $234.40 / $229.72 | $214.31 / $210.03 | Small white-gold pear benchmark |
 | AuDP0003421-5 | 10K yellow; 0.647 ct drilled floating pear; 1.09 g | ¥1,608.42 / ¥1,576.25 | $259.84 / $254.64 | $237.57 / $232.82 | Lightweight floating-design benchmark |
 | AuDP4011413(p1) | 18K white/rhodium; 1.02 ct pear + 0.10 ct round; 2.79 g | ¥4,214.08 / ¥4,129.79 | $680.79 / $667.17 | $622.44 / $609.99 | **Best construction benchmark** |
+| AuDP1033395-2 | 10K white/rhodium; 1.031 ct certified pear; pendant only; 0.93 g | ¥1,552.89 / ¥1,521.83 | $250.87 / $245.85 | $229.37 / $224.78 | **Target-size certified pear benchmark** |
 
 ## How to read the prices
 
@@ -90,7 +188,13 @@ StarsGem uses approximately **6.19 CNY per USD**. The latest available IMF repre
 - 2.79 g gross, 1.02 ct pear at 5.5 × 9 mm, and a 1.2 mm-class chain note.
 - Main mismatch: 18K rhodium-plated white gold and a smaller 0.10 ct round.
 
-### The three 10K solitaires — benchmark, do not substitute
+### AuDP1033395-2 — isolate the pear pendant
+
+- 1.031 ct CVD pear at 5.6 × 8.5 mm, DEF/VS, with supplier-stated IGI 34J773422604.
+- 0.93 g gross in rhodium-plated 10K white gold at ¥1,552.89 retail.
+- Main limitation: this is **pendant only**. Its price and inferred 0.724 g non-stone mass exclude the chain.
+
+### The other three 10K solitaires — benchmark, do not substitute
 
 - They show how StarsGem prices certified stones in lighter, simpler settings.
 - Printed IGI numbers remain supplier-stated until matched to the exact shipping stones.
@@ -101,12 +205,13 @@ StarsGem uses approximately **6.19 CNY per USD**. The latest available IMF repre
 1. Can AuDP4011413(p1) be made in unplated 14K yellow gold with the original 0.16 ct round and at least 2.79 g gross weight?
 2. What are the chain's measured width, thickness, link dimensions, chain-only weight, clasp, and guaranteed finished minimum?
 3. Quote the exact stock piece, heavier 14K version, and actual-IGI-pear version separately.
-4. Provide each printed IGI report and confirm it belongs to the exact stone that will ship.
+4. Provide each printed IGI report, including 34J773422604, and confirm it belongs to the exact stone that will ship.
 5. Quote CNY and USD totals, the exchange rate used, shipping, DAP duties, payment fee, and final landed price.
+6. For AuDP1033395-2, confirm the pendant-only price and weight, provide the bail dimensions, and quote a compatible chain separately.
 
 ## Evidence boundary
 
-Specifications and prices are supplier-stated from live listings accessed July 24, 2026. Inferred non-stone mass, market-rate conversions, and design recommendations are research calculations—not supplier guarantees.
+Specifications and prices are supplier-stated from live listings accessed July 24 and July 29, 2026. Inferred non-stone mass, market-rate conversions, and design recommendations are research calculations—not supplier guarantees.
 `;
 
 const INITIAL_GOLD_MARKDOWN = `# Choose the gold
@@ -432,7 +537,7 @@ Send exactly the same RFQ used for Tianyu and Paston. Do not simplify it for pri
 
 ### Direct StarsGem listing set — added July 24, 2026
 
-The four additional listings are comparison evidence, not interchangeable substitutes. Prices below use the live CNY listings. StarsGem's USD selector uses **6.19 CNY/USD**; the IMF's latest available representative rate was **6.7703 CNY/USD on July 23**, so the site USD display is approximately **9.37% above** a straight representative-rate conversion.
+The five additional listings are comparison evidence, not interchangeable substitutes. Prices below use the live CNY listings. StarsGem's USD selector uses **6.19 CNY/USD**; the IMF representative rate retained for this comparison is **6.7703 CNY/USD on July 23**, so the site USD display is approximately **9.37% above** a straight representative-rate conversion.
 
 | SKU | Build | Stones | Gross / inferred non-stone mass | Certificate shown | CNY retail / VIP1 | StarsGem USD | Market-rate USD | Decision use |
 |---|---|---|---:|---|---:|---:|---:|---|
@@ -441,10 +546,11 @@ The four additional listings are comparison evidence, not interchangeable substi
 | AuDP0003441-1 | 10K white, rhodium, 40+5 cm | 0.487 ct pear, 4.5 × 6.5 mm | 1.36 g / 1.263 g | IGI 77J062772510 | ¥1,450.96 / ¥1,421.94 | $234.40 / $229.72 | $214.31 / $210.03 | Small certified pear benchmark |
 | AuDP0003421-5 | 10K yellow, no plating, to 19 in | 0.647 ct drilled floating pear, 5 × 7 mm | 1.09 g / 0.961 g | IGI 59J521952508 | ¥1,608.42 / ¥1,576.25 | $259.84 / $254.64 | $237.57 / $232.82 | Lightweight floating-design benchmark |
 | AuDP4011413(p1) | 18K white, rhodium, 40+5 cm | 1.02 ct pear + 0.10 ct round | 2.79 g / 2.566 g | None stated | ¥4,214.08 / ¥4,129.79 | $680.79 / $667.17 | $622.44 / $609.99 | Closest heavier architecture |
+| AuDP1033395-2 | 10K white, rhodium, pendant only | 1.031 ct CVD pear, 5.6 × 8.5 mm | 0.93 g / 0.724 g | IGI 34J773422604 | ¥1,552.89 / ¥1,521.83 | $250.87 / $245.85 | $229.37 / $224.78 | Certified target-size pear; chain excluded |
 
-**Best new leverage:** ask StarsGem to make the 2.79 g AuDP4011413(p1) construction in unplated 14K yellow gold while restoring the original 0.16 ct round. The three printed IGI numbers are supplier-stated and still need to be matched on [IGI's official lookup](https://lookup.igi.org/) before purchase. “Inferred non-stone mass” is gross weight minus listed stone weight, not guaranteed net gold.
+**Best new leverage:** ask StarsGem to make the 2.79 g AuDP4011413(p1) construction in unplated 14K yellow gold while restoring the original 0.16 ct round. AuDP1033395-2 separately anchors a certified near-1 ct pear pendant at ¥1,552.89, but it excludes a chain. The four printed IGI numbers are supplier-stated and still need to be matched on [IGI's official lookup](https://lookup.igi.org/) before purchase. “Inferred non-stone mass” is gross weight minus listed stone weight, not guaranteed net gold.
 
-[10K yellow 1.105 ct round](https://starsgemmall.com/#/detail?=21313_10K+Yellow+Lab+Diamond+Necklace+1.105ct+AuDP1033281Y-12.html) · [10K white 0.487 ct pear](https://starsgemmall.com/#/detail?=23401_10K+White+Gold+Lab+Diamond+Necklace+0.487ct+AuDP0003441-1.html) · [10K yellow 0.647 ct floating pear](https://starsgemmall.com/#/detail?=22908_10K+Yellow+Gold+Lab+Diamond+Necklace++0.647ct+AuDP0003421-5.html) · [18K white 1.12 ct two-stone](https://starsgemmall.com/#/detail?=22081_18K+White+Gold+Lab+Diamond+Necklace+1.12ct+AuDP4011413%28p1%29.html) · [IMF July 2026 representative rates](https://www.imf.org/external/np/fin/data/rms_mth.aspx?reporttype=rep)
+[10K yellow 1.105 ct round](https://starsgemmall.com/#/detail?=21313_10K+Yellow+Lab+Diamond+Necklace+1.105ct+AuDP1033281Y-12.html) · [10K white 0.487 ct pear](https://starsgemmall.com/#/detail?=23401_10K+White+Gold+Lab+Diamond+Necklace+0.487ct+AuDP0003441-1.html) · [10K yellow 0.647 ct floating pear](https://starsgemmall.com/#/detail?=22908_10K+Yellow+Gold+Lab+Diamond+Necklace++0.647ct+AuDP0003421-5.html) · [18K white 1.12 ct two-stone](https://starsgemmall.com/#/detail?=22081_18K+White+Gold+Lab+Diamond+Necklace+1.12ct+AuDP4011413%28p1%29.html) · [10K white 1.031 ct pear pendant](https://starsgemmall.com/#/detail?=24178_10K+White+Gold+Lab+Diamond+Pendant+1.031ct+AuDP1033395-2.html) · [IMF July 2026 representative rates](https://www.imf.org/external/np/fin/data/rms_mth.aspx?reporttype=rep)
 
 ### Comparable pricing
 
@@ -923,7 +1029,7 @@ The pre-purchase notice says the default international term is **DAP**: delivery
 `;
 
 const SUPPLIER_RANKING = [
-  { id: "starsgem", name: "StarsGem", section: "StarsGem", rank: 1, tier: "Best overall fit", estimate: "$500–$750", verdict: "Exact design, strongest price evidence, and least reproduction risk.", links: [["Exact two-stone listing", "https://starsgemmall.com/#/detail?=25751_14K+Yellow+Gold+Lab+Diamond+Necklace+1.095ct+AuDP0000190Y-P2.html"], ["10K yellow 1.105 ct round", "https://starsgemmall.com/#/detail?=21313_10K+Yellow+Lab+Diamond+Necklace+1.105ct+AuDP1033281Y-12.html"], ["10K white 0.487 ct pear", "https://starsgemmall.com/#/detail?=23401_10K+White+Gold+Lab+Diamond+Necklace+0.487ct+AuDP0003441-1.html"], ["10K yellow 0.647 ct floating pear", "https://starsgemmall.com/#/detail?=22908_10K+Yellow+Gold+Lab+Diamond+Necklace++0.647ct+AuDP0003421-5.html"], ["18K white 1.12 ct two-stone", "https://starsgemmall.com/#/detail?=22081_18K+White+Gold+Lab+Diamond+Necklace+1.12ct+AuDP4011413%28p1%29.html"], ["Alibaba pear solitaire", "https://www.alibaba.com/product-detail/Starsgem-Fine-Jewelry-Solitaire-1ct-Pear_1601378797481.html"], ["IGI pear loose-diamond listing", "https://www.alibaba.com/product-detail/Factory-IGI-certified-fancy-lab-diamond_1601031154962.html"]] },
+  { id: "starsgem", name: "StarsGem", section: "StarsGem", rank: 1, tier: "Best overall fit", estimate: "$500–$750", verdict: "Exact design, strongest price evidence, and least reproduction risk.", links: [["Exact two-stone listing", "https://starsgemmall.com/#/detail?=25751_14K+Yellow+Gold+Lab+Diamond+Necklace+1.095ct+AuDP0000190Y-P2.html"], ["10K yellow 1.105 ct round", "https://starsgemmall.com/#/detail?=21313_10K+Yellow+Lab+Diamond+Necklace+1.105ct+AuDP1033281Y-12.html"], ["10K white 0.487 ct pear", "https://starsgemmall.com/#/detail?=23401_10K+White+Gold+Lab+Diamond+Necklace+0.487ct+AuDP0003441-1.html"], ["10K yellow 0.647 ct floating pear", "https://starsgemmall.com/#/detail?=22908_10K+Yellow+Gold+Lab+Diamond+Necklace++0.647ct+AuDP0003421-5.html"], ["18K white 1.12 ct two-stone", "https://starsgemmall.com/#/detail?=22081_18K+White+Gold+Lab+Diamond+Necklace+1.12ct+AuDP4011413%28p1%29.html"], ["10K white 1.031 ct pear pendant", "https://starsgemmall.com/#/detail?=24178_10K+White+Gold+Lab+Diamond+Pendant+1.031ct+AuDP1033395-2.html"], ["Alibaba pear solitaire", "https://www.alibaba.com/product-detail/Starsgem-Fine-Jewelry-Solitaire-1ct-Pear_1601378797481.html"], ["IGI pear loose-diamond listing", "https://www.alibaba.com/product-detail/Factory-IGI-certified-fancy-lab-diamond_1601031154962.html"]] },
   { id: "provence", name: "Provence Gems", section: "Provence Gems", rank: 2, tier: "Best established alternative", estimate: "$700–$1,100", verdict: "Good Alibaba workflow and heavier/IGI comparison; must justify its premium.", links: [["Alibaba pear lab-diamond necklace", "https://www.alibaba.com/product-detail/Fine-Jewelry-18k-14k-10k-Gold_1601581553072.html"], ["Pear-and-round choker", "https://provencegems.com/product/pear-shape-lab-diamond-necklace-18k-gold-lab-diamond-choker-with-19-bead-accents/"]] },
   { id: "tianyu", name: "Tianyu Gems", section: "Tianyu Gems", rank: 3, tier: "Quality baseline", estimate: "$1,000–$1,350", verdict: "Strong design/CAD comparator when finish matters more than lowest price.", links: [["Tianyu home", "https://www.tygems.net/"], ["Pear-and-round necklace promotion", "https://www.reddit.com/r/TianyuGemsOfficial/comments/1u4mhs4/stock_jewelry_promotion_worldwide_shipping14k/"], ["Alibaba pear-necklace results including Tianyu", "https://www.alibaba.com/countrysearch/CN/pear-necklace.html"]] },
   { id: "anster", name: "Anster Fine Jewelry", rank: 4, tier: "Aggressive price challenger", estimate: "$325–$450 before shipping", verdict: "Closest low public price, but the exact 14k variant and weight are unverified.", links: [["Alibaba solitaire results", "https://www.alibaba.com/countrysearch/CN/diamond-pendant-solitaire.html"], ["Alibaba lab-diamond necklace results", "https://www.alibaba.com/countrysearch/CN/lab-diamonds-necklace.html"], ["Pear-necklace results", "https://www.alibaba.com/countrysearch/CN/pear-necklace.html"]], custom: "Alibaba publicly shows a 1 ct pear 10k/14k necklace at $250–$300, MOQ 1, and other Anster lab-diamond necklace variants. The range may mix metals and configurations. No order-specific promises have been recorded." },
@@ -958,6 +1064,12 @@ const DOCUMENTS = {
     storageKey: START_STORAGE_KEY,
     initial: INITIAL_START_MARKDOWN,
     filename: "necklace-start-here.md"
+  },
+  general: {
+    title: "General research",
+    storageKey: GENERAL_STORAGE_KEY,
+    initial: INITIAL_GENERAL_MARKDOWN,
+    filename: "general-necklace-research-notebook.md"
   },
   starsgem: {
     title: "StarsGem comparison",
@@ -1027,7 +1139,8 @@ const addSupplierButton = document.getElementById("addSupplier");
 const documentTabs = document.getElementById("documentTabs");
 const supplierDocumentSelect = document.getElementById("supplierDocumentSelect");
 supplierDocumentSelect.innerHTML = `<option value="">Choose ranked supplier…</option>${SUPPLIER_RANKING.map(record => `<option value="supplier-${record.id}">#${record.rank} · ${record.name}</option>`).join("")}`;
-let activeDocument = localStorage.getItem(ACTIVE_DOCUMENT_KEY) || "start";
+const requestedDocument = new URLSearchParams(window.location.search).get("document");
+let activeDocument = requestedDocument || localStorage.getItem(ACTIVE_DOCUMENT_KEY) || "start";
 if (!DOCUMENTS[activeDocument]) activeDocument = "start";
 let markdown = loadDocumentMarkdown(activeDocument);
 let saveTimer;
@@ -1174,7 +1287,8 @@ function updateStats() {
   const words = markdown.trim().split(/\s+/).filter(Boolean).length;
   const suppliers = (markdown.match(/^## Supplier:/gm) || []).length;
   if (activeDocument === "start") stats.textContent = `${words.toLocaleString()} words · recommended path`;
-  else if (activeDocument === "starsgem") stats.textContent = `${words.toLocaleString()} words · 5 live listings`;
+  else if (activeDocument === "general") stats.textContent = `${words.toLocaleString()} words · link and preference notebook`;
+  else if (activeDocument === "starsgem") stats.textContent = `${words.toLocaleString()} words · 6 live listings`;
   else if (activeDocument === "gold") stats.textContent = `${words.toLocaleString()} words · metal decision guide`;
   else if (activeDocument === "alibaba") stats.textContent = `${words.toLocaleString()} words · comparison sheet`;
   else if (activeDocument === "product") stats.textContent = `${words.toLocaleString()} words · order specification`;
@@ -1223,8 +1337,10 @@ function updateDocumentTabs() {
     ? `Search ${DOCUMENTS[activeDocument].title}…`
     : activeDocument === "start"
       ? "Search the recommended path…"
+      : activeDocument === "general"
+        ? "Search links, likes, and questions…"
       : activeDocument === "starsgem"
-        ? "Search the five StarsGem listings…"
+        ? "Search the six StarsGem listings…"
         : activeDocument === "gold"
           ? "Search gold choices…"
     : activeDocument === "alibaba"
@@ -1246,7 +1362,9 @@ function switchDocument(nextDocument) {
   searchInput.value = "";
   updateDocumentTabs();
   setMode("read");
-  history.replaceState(null, "", window.location.pathname + window.location.search);
+  const url = new URL(window.location.href);
+  url.searchParams.set("document", activeDocument);
+  history.replaceState(null, "", `${url.pathname}${url.search}`);
   window.scrollTo({ top: 0, behavior: "smooth" });
   showToast(`${DOCUMENTS[activeDocument].title} opened`);
 }

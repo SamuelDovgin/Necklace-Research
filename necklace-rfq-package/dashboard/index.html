@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Compare five StarsGem necklaces, choose the gold, and prepare a measurable lab-diamond necklace quote.">
+    <meta name="description" content="Compare six StarsGem necklace and pendant listings, choose the gold, and prepare a measurable lab-diamond necklace quote.">
     <title>Necklace Research — StarsGem Comparison & RFQ</title>
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="styles.css">
@@ -11,7 +11,7 @@
   <body>
     <div class="app-shell">
       <aside class="sidebar" aria-label="Document navigation">
-        <a class="brand" href="#top" aria-label="Chain Notes home">
+        <a class="brand" href="../../" aria-label="Back to research hub">
           <span class="brand-mark" aria-hidden="true">CN</span>
           <span><strong>Chain Notes</strong><small>Sourcing notebook</small></span>
         </a>
@@ -35,10 +35,10 @@
 
       <main id="top" class="workspace">
         <header class="topbar">
-          <div class="mobile-brand">
+          <a class="mobile-brand" href="../../" aria-label="Back to research hub">
             <span class="brand-mark" aria-hidden="true">CN</span>
             <strong>Chain Notes</strong>
-          </div>
+          </a>
           <div class="search-wrap">
             <span aria-hidden="true">⌕</span>
             <input id="searchInput" type="search" placeholder="Search this research…" aria-label="Search this research">
@@ -57,18 +57,19 @@
         <section class="quick-start" aria-labelledby="quickStartTitle">
           <div class="quick-start-copy">
             <span class="eyebrow">Recommended path</span>
-            <h1 id="quickStartTitle">Compare → choose gold → request the quote</h1>
-            <p>Start with the five StarsGem listings, then lock the metal and measurable construction before contacting the supplier.</p>
+            <h1 id="quickStartTitle">Collect → compare → discover what you like</h1>
+            <p>Use the general notebook as the home for every new link, preference signal, shortlist change, and open question.</p>
+            <p><a href="../../research/supplier-directory.html">Supplier directory</a> · <a href="../../research/wholesale-diamond-prices.html">Wholesale prices</a> · <a href="../../research/district-sourcing.html">China district RFQs</a></p>
           </div>
           <div class="quick-start-actions" aria-label="Quick research actions">
-            <button class="quick-action primary" data-open-document="starsgem" type="button">
-              <span>1 · Compare StarsGem</span><small>Five listings and currency</small>
+            <button class="quick-action primary" data-open-document="general" type="button">
+              <span>1 · General research</span><small>Links, likes, shortlist, questions</small>
             </button>
-            <button class="quick-action" data-open-document="gold" type="button">
-              <span>2 · Choose the gold</span><small>14K/18K · yellow/white</small>
+            <button class="quick-action" data-open-document="starsgem" type="button">
+              <span>2 · Compare StarsGem</span><small>Six listings and currency</small>
             </button>
             <button class="quick-action" data-open-document="product" type="button">
-              <span>3 · Lock the specification</span><small>Chain, stones, CAD, QC</small>
+              <span>3 · Current specification</span><small>Chain, stones, CAD, QC</small>
             </button>
           </div>
         </section>
@@ -78,8 +79,11 @@
             <button class="document-tab active" id="tab-start" role="tab" aria-selected="true" aria-controls="documentPreview" data-document="start" type="button">
               <span>Start here</span><small>Recommended path</small>
             </button>
+            <button class="document-tab" id="tab-general" role="tab" aria-selected="false" aria-controls="documentPreview" data-document="general" type="button">
+              <span>General research</span><small>Links, likes, shortlist</small>
+            </button>
             <button class="document-tab" id="tab-starsgem" role="tab" aria-selected="false" aria-controls="documentPreview" data-document="starsgem" type="button">
-              <span>StarsGem</span><small>Compare 5 listings</small>
+              <span>StarsGem</span><small>Compare 6 listings</small>
             </button>
             <button class="document-tab" id="tab-gold" role="tab" aria-selected="false" aria-controls="documentPreview" data-document="gold" type="button">
               <span>Gold choice</span><small>14K/18K · color</small>
@@ -119,7 +123,7 @@
     </div>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script src="site-router.js"></script>
+    <script src="../../site-router.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

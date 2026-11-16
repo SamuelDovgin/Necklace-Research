@@ -1,0 +1,72 @@
+.research-app { background: #f7f5ef; }
+.research-main { padding-top: 30px; padding-bottom: 55px; }
+.research-heading { margin-bottom: 22px; padding: clamp(22px, 4vw, 44px); border-radius: 12px; background: #182a21; color: #fffefa; }
+.research-heading h1 { max-width: none; font-size: clamp(2.35rem, 6vw, 4rem); }
+.research-heading p { max-width: 68ch; margin: 13px 0 0; color: #dce5dd; }
+.research-links { display: flex; flex-wrap: wrap; gap: 8px 20px; margin-top: 15px; font-size: .9rem; }
+.research-links a { color: inherit; font-weight: 700; }
+.research-panel { min-width: 0; padding: clamp(14px, 2.5vw, 26px); border: 1px solid #dfdbcf; border-radius: 10px; background: #fffefa; }
+.research-panel + .research-panel { margin-top: 16px; }
+.research-panel p { max-width: 78ch; }
+.research-panel h3 { margin-bottom: 6px; }
+.research-app .viewer-actions { flex-wrap: wrap; }
+.research-app .viewer-actions a { white-space: nowrap; }
+.register-controls { display: flex; flex-wrap: wrap; align-items: end; gap: 10px 14px; }
+.register-controls label { flex: 1 1 210px; min-width: 0; color: #20382d; font-size: .84rem; font-weight: 700; }
+.register-controls label + label { flex-grow: 2; }
+.register-controls select, .register-controls input, .register-controls button {
+  min-height: 42px; min-width: 0; max-width: 100%; padding: 7px 10px;
+  border: 1px solid #b7b6a8; border-radius: 6px; background: white; color: #202923; font: inherit;
+}
+.register-controls select, .register-controls input { display: block; width: 100%; margin-top: 4px; }
+.register-controls button { cursor: pointer; color: #20382d; font-size: .83rem; font-weight: 700; }
+.research-app :is(button, input, select, summary, [tabindex]):focus-visible { outline: 2px solid #8d6525; outline-offset: 2px; }
+#register-help, #register-status { margin: 10px 0 0; color: #556158; font-size: .875rem; }
+#register-status { font-variant-numeric: tabular-nums; }
+.register-scroll { margin: 12px 0 0; }
+.register-table { width: 100%; min-width: 870px; border-collapse: collapse; font-size: .88rem; line-height: 1.45; }
+.register-table :is(th, td) { padding: 10px 12px; border-bottom: 1px solid #e8e5dc; vertical-align: top; text-align: left; }
+.register-table th { background: #f1efe7; color: #35473c; font-size: .79rem; }
+.register-table tr:last-child td { border-bottom: 0; }
+.register-table tbody tr:nth-child(even) { background: #f8f7f2; }
+.register-table td { min-width: 98px; overflow-wrap: anywhere; }
+.register-table a { color: #20382d; font-weight: 650; }
+.register-table summary, .record-toc summary { cursor: pointer; }
+.register-table details p { margin: 5px 0 0; }
+.record-toc { padding: 12px 18px; border: 1px solid #dfdbcf; border-radius: 8px; background: #f7f5ef; }
+.record-toc ul { margin-bottom: 3px; }
+.source-figure { color: #556158; font-style: italic; }
+.markdown-body :is(h2, h3, h4)[id] { scroll-margin-top: 105px; }
+.markdown-body td, .markdown-body th { overflow-wrap: anywhere; }
+.archive-list { list-style: none; margin: 0; padding: 0; }
+.archive-list li { padding: 13px 0; }
+.archive-list li + li { border-top: 1px solid #dfdbcf; }
+.archive-list p { margin: 4px 0; }
+.archive-list a { overflow-wrap: anywhere; color: #20382d; }
+.price-bars { max-width: 740px; }
+.price-bar { display: grid; grid-template-columns: minmax(125px, 1.1fr) minmax(110px, 2fr) 70px; align-items: center; gap: 12px; margin-block: 9px; }
+.price-bar meter { width: 100%; height: 24px; accent-color: #37634c; }
+.price-bar strong { text-align: right; font-variant-numeric: tabular-nums; }
+.price-table { min-width: 530px; }
+@media (max-width: 580px) {
+  .research-main { padding-top: 16px; }
+  .research-heading { padding: 19px; }
+  .register-controls { gap: 8px; }
+  .register-controls label { flex-basis: 100%; }
+  .price-bar { gap: 7px; grid-template-columns: minmax(96px, 1.2fr) minmax(70px, 1.5fr) 61px; font-size: .85rem; }
+}
+
+.district-section, .quote-shortlist li { scroll-margin-top: 100px; }
+.quote-shortlist { padding-left: 25px; }
+.quote-shortlist li { padding: 7px 0 14px 4px; }
+.quote-shortlist li + li { border-top: 1px solid #dfdbcf; }
+.quote-shortlist p { margin: 4px 0; }
+.quote-shortlist .research-links { margin-top: 7px; }
+.rfq-template { margin: 10px 0; padding: 10px 14px; border: 1px solid #dfdbcf; border-radius: 7px; }
+.rfq-template summary { cursor: pointer; font-weight: 700; color: #20382d; }
+.rfq-template pre { white-space: pre-wrap; overflow-wrap: anywhere; max-width: 85ch; font: inherit; font-size: .89rem; }
+.rfq-template button { padding: 8px 12px; border: 1px solid #b7b6a8; border-radius: 6px; background: #f7f5ef; color: #20382d; cursor: pointer; font: inherit; font-size: .875rem; font-weight: 700; }
+.district-hint, .district-status { font-size: .875rem; }
+.district-hint { margin: 6px 0; color: #556158; }
+.district-status { display: block; margin: 10px 0; color: #20382d; font-weight: 650; }
+.district-status:empty { display: none; }

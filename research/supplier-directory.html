@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Supplier Directory · Jewelry Research Hub</title>
+  <link rel="icon" href="../necklace-rfq-package/dashboard/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../hub.css">
+  <link rel="stylesheet" href="../markdown-viewer.css">
+  <link rel="stylesheet" href="research-tools.css">
+  <script src="supplier-directory.js" defer></script>
+</head>
+<body class="research-app">
+  <header class="viewer-header">
+    <a class="back-link" href="../">← Research hub</a>
+    <div class="viewer-actions"><a href="archive.html">Source archive</a><a href="wholesale-diamond-prices.html">Wholesale prices</a></div>
+  </header>
+  <main class="frame research-main">
+    <header class="research-heading">
+      <h1>Supplier directory</h1>
+      <p>Search company names, reps, metal, stone sizes, quote IDs, or a design such as “14K oval” or “marquise tennis.” Prices are historical records with their original terms.</p>
+      <div class="research-links">
+        <a href="../markdown-viewer.html?file=research/oval-pendant-sourcing.md">Compare 2 ct oval pendant quotes →</a>
+        <a href="../markdown-viewer.html?file=research/marquise-tennis-necklace.md">Marquise tennis buying brief →</a>
+        <a href="../markdown-viewer.html?file=research/suppliers-and-manufacturers.md">Source a new piece →</a>
+        <a href="district-sourcing.html">China district quote shortlist →</a>
+      </div>
+    </header>
+    <section class="research-panel" aria-labelledby="register-title">
+      <h2 id="register-title">Research registers</h2>
+      <div class="register-controls" id="register-controls" hidden>
+        <label for="register-view">View<select id="register-view"></select></label>
+        <label for="register-search">Search<input id="register-search" type="search" placeholder="Company, design, stone, quote ID…"></label>
+        <button type="button" id="clear-search">Clear search</button>
+      </div>
+      <p id="register-help">Loading the registers. Browse the <a href="records/sourcing.html">section-by-section sourcing record</a> for the full evidence.</p>
+      <p id="register-status" role="status"></p>
+      <div class="table-scroll register-scroll" role="region" aria-label="Scrollable supplier research table" tabindex="0" id="register-table" hidden>
+        <table class="register-table"><thead></thead><tbody></tbody></table>
+      </div>
+      <noscript><p>The searchable table needs JavaScript. All original sections are available in the <a href="archive.html">research archive</a>.</p></noscript>
+    </section>
+  </main>
+  <script src="../site-router.js"></script>
+</body>
+</html>

@@ -32,7 +32,8 @@ Send the same RFQ to Tianyu, Paston, Fiorese, LGG, Provence, and StarsGem first.
 - [StarsGem 10K white 0.487 ct pear solitaire](https://starsgemmall.com/#/detail?=23401_10K+White+Gold+Lab+Diamond+Necklace+0.487ct+AuDP0003441-1.html) - Live smaller-pear benchmark with printed IGI report number 77J062772510.
 - [StarsGem 10K yellow 0.647 ct floating pear](https://starsgemmall.com/#/detail?=22908_10K+Yellow+Gold+Lab+Diamond+Necklace++0.647ct+AuDP0003421-5.html) - Live drilled floating-diamond benchmark with printed IGI report number 59J521952508.
 - [StarsGem 18K white 1.12 ct pear-and-round necklace](<https://starsgemmall.com/#/detail?=22081_18K+White+Gold+Lab+Diamond+Necklace+1.12ct+AuDP4011413(p1).html>) - Closest heavier two-stone construction benchmark; no report stated.
-- [StarsGem five-listing comparison and currency audit](07_starsgem_listing_comparison.md) - Consolidated specification, pricing, conversion, construction, and evidence-gap analysis.
+- [StarsGem 10K white 1.031 ct pear pendant](https://starsgemmall.com/#/detail?=24178_10K+White+Gold+Lab+Diamond+Pendant+1.031ct+AuDP1033395-2.html) - Certified pendant-only benchmark with supplier-stated IGI report 34J773422604; no chain is included.
+- [StarsGem six-listing comparison and currency audit](07_starsgem_listing_comparison.md) - Consolidated specification, pricing, conversion, construction, and evidence-gap analysis.
 - [r/Moissanite vendor list](https://www.reddit.com/r/Moissanite/wiki/list/) - Community vendor directory used to validate which overseas/custom vendors are commonly tracked by buyers.
 - [r/Moissanite FAQ](https://www.reddit.com/r/Moissanite/wiki/index/) - Community guidance and overseas-vendor context; use as directional sentiment, not a guarantee.
 - [Tianyu Gems](https://www.tygems.net/) - Custom jewelry and lab-grown gemstone/jewelry manufacturer reference.

@@ -1,0 +1,55 @@
+{
+  "archived_on": "2026-10-15",
+  "files": [
+    {
+      "path": "messi-jewelry/MESSI JEWELRY 202603-(OCR).pdf",
+      "kind": "jewelry-design-catalog",
+      "original_filename": "MESSI JEWELRY 202603-(OCR).pdf",
+      "source_directory": "~/Downloads",
+      "archived_on": "2026-10-15",
+      "bytes": 99261885,
+      "sha256": "c14ccf3b993b560a5be10d1a87074416e8c5a902b4d5a7deb0cbbd6159c39823"
+    },
+    {
+      "path": "messi-jewelry/2026.05.11MESSIGEMS COLORS LAB DIAMONDS LIST.xlsx",
+      "kind": "diamond-inventory",
+      "original_filename": "2026.05.11MESSIGEMS COLORS LAB DIAMONDS LIST.xlsx",
+      "source_directory": "~/Downloads",
+      "archived_on": "2026-10-15",
+      "bytes": 230331,
+      "sha256": "e770ec11c096f1c5db44b8aeef8f37ba89e39f73023f7ae84c15d4d17dc60d36"
+    },
+    {
+      "path": "guangzhou-mishang-jewelry/IGI Lab Grown Diamond List.2026.05.18_guangzhou_mishang_jewelry.xlsx",
+      "kind": "diamond-inventory",
+      "original_filename": "IGI Lab Grown Diamond List.2026.05.18_guangzhou_mishang_jewelry.xlsx",
+      "source_directory": "~/Downloads",
+      "archived_on": "2026-10-15",
+      "bytes": 2183115,
+      "sha256": "8edecd3d149e4a24de6254dc86242cba270f507fc0ee61bc1f5c33a2369b5568"
+    },
+    {
+      "path": "henan-eco-superhard/IGI钻石 197粒_Henan_Eco_Superhard.xlsx",
+      "kind": "diamond-inventory",
+      "original_filename": "IGI钻石 197粒_Henan_Eco_Superhard.xlsx",
+      "source_directory": "~/Downloads",
+      "archived_on": "2026-10-15",
+      "bytes": 27755,
+      "sha256": "55397496c42b8e9cbad2fbf6541c5fe4c40c8193fa351cfd22d30c163576bf04"
+    },
+    {
+      "path": "supplier-unconfirmed/IGI Lab Grown Diamond List.2026.05.18xls.xlsx",
+      "kind": "diamond-inventory",
+      "original_filename": "IGI Lab Grown Diamond List.2026.05.18xls.xlsx",
+      "source_directory": "~/Downloads",
+      "archived_on": "2026-10-15",
+      "bytes": 2346566,
+      "sha256": "48d83a0ae550d53235bfc81730edd42950a672f8c9342b3f34e65dfef88dfd23"
+    }
+  ],
+  "duplicate_omitted": {
+    "filename": "MESSI JEWELRY 202603-(OCR) (1).pdf",
+    "identical_to": "messi-jewelry/MESSI JEWELRY 202603-(OCR).pdf",
+    "sha256": "c14ccf3b993b560a5be10d1a87074416e8c5a902b4d5a7deb0cbbd6159c39823"
+  }
+}

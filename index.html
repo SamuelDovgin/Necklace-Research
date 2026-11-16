@@ -3,12 +3,122 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Open the Necklace Research comparison and RFQ dashboard.">
-    <meta http-equiv="refresh" content="0; url=necklace-rfq-package/dashboard/">
-    <title>Necklace Research</title>
+    <meta name="description" content="A personal research hub for diamonds, jewelry suppliers, manufacturing, and deal value.">
+    <title>Jewelry Research Hub</title>
     <link rel="icon" href="necklace-rfq-package/dashboard/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="hub.css">
+    <script src="hub.js" defer></script>
   </head>
   <body>
-    <p><a href="necklace-rfq-package/dashboard/">Open the Necklace Research dashboard</a>.</p>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="masthead">
+      <div class="frame masthead-inner">
+        <a class="wordmark" href="./" aria-label="Chain Notes home">
+          <img src="necklace-rfq-package/dashboard/favicon.svg" alt="" width="36" height="36">
+          <span>Chain Notes</span>
+        </a>
+        <nav aria-label="Hub navigation">
+          <a href="#topics">Topics</a>
+          <a href="#journal">Journal</a>
+          <a href="#sources">Sources</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="frame">
+      <section class="intro" aria-labelledby="hub-title">
+        <div class="intro-copy">
+          <h1 id="hub-title">Jewelry Research Hub</h1>
+          <p>A working notebook for sourcing diamonds, studying suppliers and manufacturers, and comparing what a deal actually includes.</p>
+          <div class="intro-actions">
+            <a class="button" href="#topics">Browse research <span aria-hidden="true">↓</span></a>
+            <a class="intro-link" href="markdown-viewer.html?file=research/journal.md">Read the journal <span aria-hidden="true">→</span></a>
+          </div>
+        </div>
+        <a class="reference" href="necklace-rfq-package/dashboard/?document=general">
+          <img src="necklace-rfq-package/assets/reference-necklace.png" alt="Yellow gold necklace with a round diamond above a pear diamond" width="556" height="730">
+          <span>Two-stone necklace project <b aria-hidden="true">↗</b></span>
+        </a>
+      </section>
+
+      <div class="overview">
+        <section id="topics" aria-labelledby="topics-title">
+          <h2 id="topics-title">Research topics</h2>
+          <div class="topic-grid">
+            <a class="topic" href="markdown-viewer.html?file=research/diamond-sourcing.md">
+              <h3>Diamond sourcing</h3>
+              <p>Loose-stone inventories, grading reports, and how to compare individual stones.</p>
+              <span class="topic-action">Browse inventories <b aria-hidden="true">→</b></span>
+            </a>
+            <a class="topic" href="research/supplier-directory.html">
+              <h3>Suppliers &amp; manufacturers</h3>
+              <p>Search vendor names, reps, archived quotes, market leads, and feedback.</p>
+              <span class="topic-action">Open supplier directory <b aria-hidden="true">→</b></span>
+            </a>
+            <a class="topic" href="markdown-viewer.html?file=research/deals-and-value.md">
+              <h3>Deals &amp; value</h3>
+              <p>Compare listings and quotes by currency, construction, and the cost of a complete piece.</p>
+              <span class="topic-action">Read price audits <b aria-hidden="true">→</b></span>
+            </a>
+            <a class="topic" href="necklace-rfq-package/dashboard/?document=start">
+              <h3>Necklace sourcing</h3>
+              <p>The original two-stone project, from design preferences to quote requests and quality checks.</p>
+              <span class="topic-action">Open project dashboard <b aria-hidden="true">→</b></span>
+            </a>
+            <a class="topic" href="research/wholesale-diamond-prices.html">
+              <h3>Wholesale diamond prices</h3>
+              <p>Checked 2026 benchmarks by shape, carat and grade, with export and retail context.</p>
+              <span class="topic-action">View price chart <b aria-hidden="true">→</b></span>
+            </a>
+            <a class="topic" href="markdown-viewer.html?file=research/marquise-tennis-necklace.md">
+              <h3>Marquise tennis necklace</h3>
+              <p>Adjustable-chain design, matched quote specifications, and historical purchase prices.</p>
+              <span class="topic-action">Open buying brief <b aria-hidden="true">→</b></span>
+            </a>
+            <a class="topic" href="research/district-sourcing.html">
+              <h3>China district quote shortlist</h3>
+              <p>Quote contacts in Panyu and Wuzhou, bilingual requests, and a setting budget comparison.</p>
+              <span class="topic-action">Get comparable quotes <b aria-hidden="true">→</b></span>
+            </a>
+          </div>
+        </section>
+
+        <section id="journal" aria-labelledby="journal-title">
+          <div class="section-heading">
+            <h2 id="journal-title">Research journal</h2>
+            <a href="markdown-viewer.html?file=research/journal.md">All entries <span aria-hidden="true">→</span></a>
+          </div>
+          <div class="journal-panel">
+            <ol id="recent-entries" class="timeline" hidden></ol>
+            <p id="journal-fallback">Open the journal for dated research notes, decisions, and open questions.</p>
+            <details class="journal-guide">
+              <summary>How to add an entry</summary>
+              <p>Add a dated note to <code>research/journal.md</code> with what you learned, the evidence, and the next open question. The journal includes a copyable template.</p>
+            </details>
+          </div>
+        </section>
+      </div>
+
+      <section id="sources" class="sources" aria-labelledby="sources-title">
+        <div class="section-heading">
+          <h2 id="sources-title">Source library</h2>
+          <a href="markdown-viewer.html?file=supplier-catalogs/README.md">Catalog archive <span aria-hidden="true">→</span></a>
+        </div>
+        <ul class="source-list">
+          <li><a href="research/archive.html#district-sources"><strong>China jewelry district research</strong><span>Workbook and notes <b aria-hidden="true">→</b></span></a></li>
+          <li><a href="research/archive.html"><strong>November 2026 research dossiers</strong><span>4 originals <b aria-hidden="true">→</b></span></a></li>
+          <li><a href="supplier-catalogs/messi-jewelry/MESSI%20JEWELRY%20202603-%28OCR%29.pdf"><strong>Messi Jewelry design catalog</strong><span>PDF · 99 MB <b aria-hidden="true">↗</b></span></a></li>
+          <li><a href="markdown-viewer.html?file=supplier-catalogs/README.md"><strong>Lab-grown diamond inventory files</strong><span>4 spreadsheets <b aria-hidden="true">→</b></span></a></li>
+          <li><a href="necklace-rfq-package/data/starsgem_listings.csv"><strong>StarsGem listing and currency comparison</strong><span>CSV <b aria-hidden="true">↗</b></span></a></li>
+          <li><a href="necklace-rfq-package/outputs/necklace-rfq/Necklace_RFQ_Tracker.xlsx"><strong>Necklace request-for-quote tracker</strong><span>XLSX <b aria-hidden="true">↗</b></span></a></li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="frame site-footer">
+      <a href="markdown-viewer.html?file=README.md">About this archive</a>
+      <a href="markdown-viewer.html?file=necklace-rfq-package/README.md">Necklace project files</a>
+    </footer>
+    <script src="site-router.js"></script>
   </body>
 </html>

@@ -1,19 +1,19 @@
 # 07 - StarsGem Listing Comparison and Currency Audit
 
-Compiled: 2026-07-24
+Compiled: 2026-07-29
 
 ## Bottom line
 
-Five StarsGem necklaces now form the direct supplier comparison set. The original 14K yellow-gold pear-and-round necklace remains the exact design reference. The strongest new design comparator is **AuDP4011413(p1)** because it repeats the pear-and-round layout with more finished weight, although it changes the metal to rhodium-plated 18K white gold and does not state an IGI report. The three certified 10K listings are useful price, chain, and stone-size benchmarks, but they are not like-for-like substitutes for the original 14K two-stone necklace. [1][2][3][4][5]
+Six StarsGem pieces now form the direct supplier comparison set. The original 14K yellow-gold pear-and-round necklace remains the exact design reference. The strongest construction comparator is **AuDP4011413(p1)** because it repeats the pear-and-round layout with more finished weight, although it changes the metal to rhodium-plated 18K white gold and does not state an IGI report. The newly added **AuDP1033395-2** is a certified 1.031 ct pear pendant without a chain, so it is useful for isolating the cost and construction of a near-1 ct pear pendant but is not a complete-necklace substitute. [1][2][3][4][5][6]
 
-StarsGem is not performing a live CNY-to-USD conversion. Its currency selector uses approximately **6.19 CNY per USD**. The latest available IMF representative rate on 2026-07-23 was **6.7703 CNY per USD**, making the site's USD display approximately **9.37% higher** than a straight representative-rate conversion. [6]
+StarsGem is not performing a live CNY-to-USD conversion. Its currency selector uses approximately **6.19 CNY per USD**. The IMF representative rate used for this comparison was **6.7703 CNY per USD** on 2026-07-23, making the site's USD display approximately **9.37% higher** than a straight representative-rate conversion. [7]
 
 ## Price and conversion comparison
 
 Method:
 
 - **StarsGem USD** = listed CNY price divided by 6.19, the rate verified from the site's CNY and USD views.
-- **Market-rate USD estimate** = listed CNY price divided by 6.7703, the IMF representative rate for 2026-07-23. [6]
+- **Market-rate USD estimate** = listed CNY price divided by 6.7703, the IMF representative rate for 2026-07-23. [7]
 - These figures exclude shipping, DAP duties/taxes, card or bank fees, certificate changes, CAD, and customization.
 
 Machine-readable data: [starsgem_listings.csv](../data/starsgem_listings.csv).
@@ -27,6 +27,7 @@ Related decision guide: [14K vs 18K and Yellow vs White Gold](08_gold_alloy_colo
 | AuDP0003441-1 | ¥1,450.96 / ¥1,421.94 | $234.40 / $229.72 | $214.31 / $210.03 | 9.37% |
 | AuDP0003421-5 | ¥1,608.42 / ¥1,576.25 | $259.84 / $254.64 | $237.57 / $232.82 | 9.37% |
 | AuDP4011413(p1) | ¥4,214.08 / ¥4,129.79 | $680.79 / $667.17 | $622.44 / $609.99 | 9.37% |
+| AuDP1033395-2 | ¥1,552.89 / ¥1,521.83 | $250.87 / $245.85 | $229.37 / $224.78 | 9.37% |
 
 The repeated uplift shows a configured exchange-rate policy rather than rounding error. Ask StarsGem to state the final payable amount in both currencies and identify which currency the payment processor will actually charge.
 
@@ -41,6 +42,7 @@ All specifications below are supplier-stated on the live listings as accessed 20
 | AuDP0003441-1 | Pear solitaire | 10K white / rhodium plated | 40+5 cm | 0.487 ct pear, 4.5 × 6.5 mm, DEF/VS | 1.36 g | 1.263 g | Listing states IGI 77J062772510 | Small certified pear and white-gold benchmark |
 | AuDP0003421-5 | Drilled floating pear | 10K yellow / no plating | Adjustable to 19 in / 48.26 cm | 0.647 ct pear, 5 × 7 mm, DEF/VS | 1.09 g | 0.961 g | Listing states IGI 59J521952508 | Lowest-metal, longest-chain comparison; specialized drilled construction |
 | AuDP4011413(p1) | Round over pear | 18K white / rhodium plated | 40+5 cm | 1.02 ct pear + 0.10 ct round; 1.12 ctw | 2.79 g | 2.566 g | No report stated | Closest architecture and heaviest build; different color/karat and uncertified |
+| AuDP1033395-2 | Pear solitaire pendant | 10K white / rhodium plated | Pendant only; no chain | 1.031 ct CVD pear, 5.6 × 8.5 mm, DEF/VS | 0.93 g | 0.724 g | Listing states IGI 34J773422604 | Near-1 ct certified pear pendant benchmark; chain cost and weight excluded |
 
 ## Listing notes
 
@@ -95,19 +97,31 @@ All specifications below are supplier-stated on the live listings as accessed 20
 - “圆1.2mm” likely relates to a round 1.2 mm chain, but it remains a translation/caliper question.
 - Decision use: this is the strongest construction and price comparator for the original design. It has 0.73 g more gross weight and a larger pear than the 14K reference, but changes to 18K rhodium-plated white gold and uses a smaller accent round. Ask StarsGem to quote this build in 14K yellow gold before assuming that the ¥4,214.08 price applies to a yellow-gold version. [5]
 
+### AuDP1033395-2 — certified 1.031 ct pear pendant
+
+![StarsGem AuDP1033395-2 listing](../assets/starsgem/listing-AuDP1033395-2-2026-07-29.jpg)
+
+- Supplier-stated: pendant only, 10K white gold, rhodium plated, solitaire series, and 0.93 g gross.
+- Diamond: one 1.031 ct CVD pear, 5.6 × 8.5 mm, DEF/VS.
+- Product abstract states **IGI report 34J773422604**.
+- At ¥1,552.89 retail, it is only ¥56.53 cheaper than the 0.647 ct floating-pear necklace, despite the larger certified stone; the missing chain and different setting explain why this is not a like-for-like value comparison.
+- Decision use: it is the cleanest StarsGem benchmark for a certified pear close to the target size, but its inferred 0.724 g non-stone mass covers only the pendant hardware. A separate chain quote must be added before comparing it with a finished necklace. [6]
+
 ## Comparative conclusions
 
 1. **Best exact match:** AuDP0000190Y-P2 remains the target because it alone matches 14K yellow gold plus the 0.935 ct pear and 0.160 ct round layout.
 2. **Best construction benchmark:** AuDP4011413(p1) provides the strongest evidence that StarsGem can make the same architecture with a 1.2 mm-class chain note and 2.79 g gross weight. It is the most useful basis for requesting a heavier 14K yellow-gold version.
-3. **Best certification-price benchmark:** AuDP1033281Y-12 shows a supplier-stated IGI number on a 1.105 ct CVD round at a lower CNY price than the uncertified original. Shape, setting complexity, and metal weight prevent a direct value conclusion, but it weakens any claim that certification alone must add several hundred dollars.
-4. **Best smaller-pear benchmarks:** AuDP0003441-1 and AuDP0003421-5 show how StarsGem prices certified 0.487–0.647 ct pears in light 10K builds. They should not anchor a quote for the heavier 14K two-stone necklace.
-5. **Currency recommendation:** negotiate from the CNY figures, ask for the merchant's USD rate and payment currency in writing, and compare the final processor total rather than trusting the site's currency toggle.
+3. **Best target-size certified pear benchmark:** AuDP1033395-2 is close to the target pear dimensions and states an IGI number, but excludes the chain and uses 10K rhodium-plated white gold.
+4. **Best certification-price cross-check:** AuDP1033281Y-12 shows a supplier-stated IGI number on a 1.105 ct CVD round at a lower CNY price than the uncertified original. Shape, setting complexity, and metal weight prevent a direct value conclusion.
+5. **Best smaller-pear benchmarks:** AuDP0003441-1 and AuDP0003421-5 show how StarsGem prices certified 0.487–0.647 ct pears in light 10K builds. They should not anchor a quote for the heavier 14K two-stone necklace.
+6. **Currency recommendation:** negotiate from the CNY figures, ask for the merchant's USD rate and payment currency in writing, and compare the final processor total rather than trusting the site's currency toggle.
 
 ## Questions to add to the StarsGem RFQ
 
-- Please quote all five SKUs in both CNY and USD and state the exchange rate used.
+- Please quote all six SKUs in both CNY and USD and state the exchange rate used.
 - Can AuDP4011413(p1) be made in unplated 14K yellow gold with the original 0.16 ct round, while keeping at least 2.79 g gross weight and the stated 1.2 mm chain?
-- For the three listings that print IGI numbers, please provide the digital reports and confirm that each number belongs to the exact stone that will ship—not a sample or prior unit.
+- For the four listings that print IGI numbers, please provide the digital reports and confirm that each number belongs to the exact stone that will ship—not a sample or prior unit.
+- For AuDP1033395-2, confirm that the listed price and 0.93 g weight cover the pendant only, state the bail's internal dimensions, and quote compatible 10K and 14K chains separately.
 - Are the printed IGI numbers loose-diamond reports or finished-jewelry reports, and can the inscription be shown in a pre-shipment video?
 - Translate “方1.0mm,” “圆O 1.0mm,” “方0.95mm,” and “圆1.2mm” into the factory chain code, measured width, measured thickness, link dimensions, and chain-only weight.
 - Confirm whether the listed gross weights are guaranteed minimums or sample/average weights.
@@ -116,7 +130,7 @@ All specifications below are supplier-stated on the live listings as accessed 20
 
 ## Evidence gaps
 
-- The three printed IGI numbers were observed on StarsGem's listings but were not independently matched to digital reports during this research pass. Verify them through IGI before purchase. [7]
+- The four printed IGI numbers were observed on StarsGem's listings but were not independently matched to digital reports during this research pass. Verify them through IGI before purchase. [8]
 - “Approx. non-stone mass” is a calculation, not a supplier declaration of net gold weight.
 - Site prices and availability can change; recheck them immediately before requesting or approving an invoice.
 - The representative-rate USD amounts are analytical comparisons, not executable bank or card quotes.
@@ -129,5 +143,6 @@ All specifications below are supplier-stated on the live listings as accessed 20
 3. StarsGem, AuDP0003441-1 live listing, accessed 2026-07-24. <https://starsgemmall.com/#/detail?=23401_10K+White+Gold+Lab+Diamond+Necklace+0.487ct+AuDP0003441-1.html> — primary supplier source for the 10K white pear-solitaire specification, price, and printed IGI number.
 4. StarsGem, AuDP0003421-5 live listing, accessed 2026-07-24. <https://starsgemmall.com/#/detail?=22908_10K+Yellow+Gold+Lab+Diamond+Necklace++0.647ct+AuDP0003421-5.html> — primary supplier source for the drilled floating-pear specification, price, and printed IGI number.
 5. StarsGem, AuDP4011413(p1) live listing, accessed 2026-07-24. <https://starsgemmall.com/#/detail?=22081_18K+White+Gold+Lab+Diamond+Necklace+1.12ct+AuDP4011413(p1).html> — primary supplier source for the 18K white two-stone specification and price.
-6. International Monetary Fund, Representative Exchange Rates for Selected Currencies for July 2026. <https://www.imf.org/external/np/fin/data/rms_mth.aspx?reporttype=rep> — reports 6.7703 Chinese yuan per U.S. dollar for 2026-07-23; 2026-07-24 was not yet populated when accessed.
-7. International Gemological Institute, report lookup. <https://lookup.igi.org/> — official destination for independently checking the printed report numbers.
+6. StarsGem, AuDP1033395-2 live listing, accessed 2026-07-29. <https://starsgemmall.com/#/detail?=24178_10K+White+Gold+Lab+Diamond+Pendant+1.031ct+AuDP1033395-2.html> — primary supplier source for the 10K white pendant-only specification, CNY price, stone dimensions, and printed IGI number.
+7. International Monetary Fund, Representative Exchange Rates for Selected Currencies for July 2026. <https://www.imf.org/external/np/fin/data/rms_mth.aspx?reporttype=rep> — reports 6.7703 Chinese yuan per U.S. dollar for 2026-07-23; this fixed comparison rate is retained for consistency across all six listings.
+8. International Gemological Institute, report lookup. <https://lookup.igi.org/> — official destination for independently checking the printed report numbers.

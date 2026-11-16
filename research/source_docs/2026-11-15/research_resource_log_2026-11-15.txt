@@ -1,0 +1,262 @@
+RESEARCH SOURCE LOG
+Checked 2026-11-15, America/Chicago. Publish dates and data periods are stated where relevant.
+Public pages below were consulted for the listed findings. The originals contain additional
+historical source leads. A direct seller website supports the claim it makes. A marketplace
+profile supports what the platform displays. Private facts are indexed to the user-provided archive.
+
+[A01] Chinese Jewelry Sourcing Complete Research Record, November 15
+Source: user attachment; DOCX and 67-page PDF, both copied byte for byte on 2026-11-15.
+Class: local archive; tracker exports, seller messages, quotes, payment status, marketplace and buyer records.
+Used in: supplier directory, oval sourcing, pink pear, journal, searchable sourcing record.
+Supports: 31 profiles, 34 base quote rows, 10 later/historical records, 35 prior activity records,
+28 evidence-index items, 73 earlier leads, 28 listings, 94 variants and 17 sections.
+Limits: quotations, badges, and reviews reflect the archive. Embedded screenshots are selected exhibits.
+Local: Chinese_Jewelry_Sourcing_Complete_Research_Record_2026-11-15.docx and .pdf. See SHA256SUMS.
+
+[A02] The Wholesale Diamond Market, November 2026
+Source: user attachment; class: local archive of Golan grids, retail snapshots, market reports and calculations.
+Used in: wholesale benchmarks, pendant estimates, source comparison and historical table.
+Supports: market periods and context, selected transaction data, original $716 Ritani snapshot, estimate inputs.
+Limits: source-era and historical prices, production and valuation figures have different units and methods.
+Local: Diamond_Wholesale_Market_Complete_Research_Report_Nov_2026.docx. See SHA256SUMS.
+
+[A03] Marquise Tennis Necklace Research and Custom Buying Guide
+Source: user attachment; class: local archive of design photos, product specs, pricing, buyer and seller posts.
+Used in: tennis register, buying brief, fit and design decision, primary and alternate RFQs.
+Supports: 12 sections, references, 8 pricing cases, 7 group buys, two custom product briefs.
+Limits: photo sizing is estimated. Buyer reports and past promotions preserve dated terms.
+Local: Marquise_Tennis_Necklace_Research_and_Custom_Buying_Guide.docx. See SHA256SUMS.
+
+[W01] Edahn Golan, LGD Wholesale Price List, Q3 2026
+URL: https://www.edahngolan.com/Docs/Edahn%20Golan%20-%20Wholsale%20LGD-Price-list-Q3-2026.pdf
+Status: live PDF; class: primary wholesale dataset; used in: wholesale chart and pendant stone benchmark.
+Supports: 2 ct E–F/VS fancy $92 and E–F/VVS $98 per ct; adjacent grades and sizes in chart.
+Limits: category-level Mumbai/Surat cash trades of IGI-graded stocks; excludes logistics and taxes.
+Preservation: URL-only — publisher reserves republication rights.
+
+[W02] Edahn Golan, Q2 2025 grid
+URL: https://www.edahngolan.com/Docs/LGD-Price-list-Q2-2025-Edahn-Golan.pdf
+Status: live PDF; class: primary wholesale dataset; used in: wholesale price history.
+Supports: 2 ct E–F/VS fancy $105/ct. Limits: historical, small-volume IGI cohort.
+Preservation: URL-only — publisher reserves republication rights.
+
+[W03] Edahn Golan, Q2 2026 grid
+URL: https://www.edahngolan.com/Docs/LGD-Price-list-Q2-2026-Edahn-Golan.pdf
+Status: live PDF; class: primary wholesale dataset; used in: wholesale price history.
+Supports: 2 ct E–F/VS fancy $82/ct; same-cell rise to $92 = 12.2% rounded.
+Limits: category averages. Preservation: URL-only — publisher reserves republication rights.
+
+[W04] Edahn Golan, Lab-Grown Diamond Wholesale Price List website
+URL: https://www.labgrownpricelist.com/
+Status: live; class: primary index; used in: wholesale chart and verification notes.
+Supports: Q3 2026 index −93% since July 2018 and −15% year over year.
+Limits: index differs from any one 2 ct fancy cell; changes over time. Preservation: URL-only.
+
+[W05] Edahn Golan, Q3 2026 analysis, 2026-10-07
+URL: https://www.edahngolan.com/lab-grown-diamond-wholesale-prices-q3-2026/
+Status: live; class: primary interpretation; used in: directional market context.
+Supports: 2 ct rounds +2.3% quarterly and −20% annually, 1.5 ct rounds −3% quarterly.
+Limits: selective gains do not establish a price floor. Preservation: URL-only.
+
+[W06] Edahn Golan, Lab-Grown Diamond Statistics and broader Diamond Statistics
+URLs: https://www.edahngolan.com/lab-grown-diamond-statistics/ and https://www.edahngolan.com/diamond-statistics/
+Status: live; class: publisher methodology; used in: index and comparison notes.
+Supports: mid-2024 shift from small stones and fresh manufacturer parcels to smaller certified transactions.
+September 28 page gives Tenoris 2,500-store US panel, 5.5% of US jewelry demand.
+Limits: series break, retail panel and international customs tables have distinct scopes. Preservation: URL-only.
+
+[W07] CaratWatch monthly trade compilation
+URL: https://caratwatch.com/prices/
+Status: live; class: compiler's series derived from India Ministry of Commerce DGCI&S TRADESTAT.
+Used in: wholesale price context; supports August 2026 polished export unit value $67.17/ct, code 71049120.
+Limits: heterogeneous customs basket; direct customs transactions not independently audited. Preservation: URL-only.
+
+[W08] Ritani D-3S59OMQ8FR / LG848639287
+URL: https://www.ritani.com/products/2-02-carat-oval-lab-diamond-good-cut-e-color-vs2-clarity-igi-lg848639287-sku-d-3s59omq8fr
+Status: live; class: retailer listing; used in: wholesale vs retail.
+Supports: 2.02 ct E/VS2 oval shown at $705 with $213.76 / $163.13 / $328.11 components.
+Limits: self-report; not dealer invoice, completed sale or same stone as Tonglin. Recheck at purchase. URL-only.
+
+[W09] StoneAlgo 2 ct oval diamond retail index
+URL: https://www.stonealgo.com/lab-grown-diamond-prices/2-carat-oval-cut-lab-grown-diamond-prices/
+Status: live; class: listing-platform aggregation; used in: wholesale vs retail and natural comparator.
+Supports: November 14 averages $1,131 lab (58,179) and $19,410 natural (6,254).
+Limits: mix of grades and advertised prices; volatile. Preservation: URL-only.
+
+[W10] Edahn Golan Diamond Research & Data/Eyal Axelrod, Lab-Grown Diamond Value Chain 2025
+URLs: https://www.edahngolan.com/lab-grown-diamond-value-chain/
+https://www.edahngolan.com/Docs/2025-Lab-Grown-Diamond-Value-Chain-Edahn-Golan.pdf
+Status: live; class: primary model. Used in: wholesale dossier context and source archive.
+Supports: $1.13B rough value, $2.36B polished production, $4.25B wholesale to retailers, $23.78B jewelry retail.
+Limits: estimated gem-quality global stage values, not quotes or additive revenues.
+Local: 2025-Lab-Grown-Diamond-Value-Chain-Edahn-Golan.pdf, copied 2026-11-15.
+SHA-256 4bd7507dbb261c5175e78dd359594b2706181a2b2f3227a369e43c168a3ff412. Graphic CC BY 4.0. Article excluded.
+
+[W11] De Beers Group, Lightbox announcement, 2025-05-08
+URL: https://www.debeersgroup.com/news-insights/latest-group-news/2025/de-beers-group-announces-intention-to-close-lightbox-business
+Status: live; class: company announcement; used in: wholesale history cross-check.
+Supports: $800/ct 2018 brand launch and company statement of 90% sector wholesale decline by announcement.
+Limits: company interpretation and intention at the time. Preservation: URL-only.
+
+[W12] GIA Laboratory-Grown Diamond Services
+URL: https://www.gia.edu/gem-lab-service/laboratory-grown-diamond
+Status: live; class: issuer guidance; used in: grading comparison.
+Supports: Premium/Standard for eligible loose colorless-to-near-colorless LGD, distinct colored report.
+Limits: no inference to specific IGI grades for a given stone. Preservation: URL-only.
+
+[W13] Edahn Golan Q1 2025 wholesale grid on third-party mirror
+URL: https://russianjeweller.ru/uploads/2025/04/11/%D0%BB%D0%B0%D0%B1%D1%8B/LGD-Price-list-Q1-2025-EG.pdf
+Status: readable mirror; class: original publisher's grid, mirrored; used in: verification notes.
+Supports: $114/ct 2 ct E–F/VS fancy cell. Limits: not retrieved from publisher site. Preservation: URL-only.
+
+[S01] Guangzhou Tonglin Jewelry, company website
+URL: https://tonglinjewel.com/
+Status: live; class: company website; used in: public vendor identity cross-check.
+Supports: Panyu mailing/shop details, OEM/ODM and gold applications, plus advertised silver/plated lines.
+Limits: HK invoicing relationship, contact authority and item composition require private evidence. URL-only.
+
+[S02] Zhengzhou Better Star Trade, Alibaba and Made-in-China
+URLs: https://suppliers.alibaba.com/zhengzhou-better-star-trade-co-ltd_2659398708
+https://betterstar2020.en.made-in-china.com/
+Status: live; class: platform profile and company storefront. Used in: vendor identity cross-check.
+Supports: marketplace legal string, Alibaba SGS report 478998280_T and advertised loose/custom capabilities.
+Limits: badge, alternate storefront claims and product certificates cover different things.
+Preservation: URL-only.
+
+[S03] Wuzhou Qianao Alibaba profile
+URL: https://suppliers.alibaba.com/wuzhou-qianao-jewelry-co-ltd_2206672450802
+Status: live; class: platform profile; used in: Qianao record.
+Supports: Qianao legal string and public platform verification badge. Limits: affiliation and exact offer unresolved.
+Preservation: URL-only.
+
+[S04] Provence Jewellery
+URL: https://www.provencejewellery.com/
+Status: live; class: company website; used in: supplier identity and quoting starting point.
+Supports: public custom jewelry catalog and contacts. Limits: manufacturer and capabilities are company claims.
+Preservation: URL-only.
+
+[S05] Guangxi Wuzhou Starsgem
+URL: https://www.starsgem.com/
+Status: live; class: company website; used in: source and project matching.
+Supports: public custom service across silver, 9K, 10K, 14K, 18K and platinum, including necklaces.
+Limits: links and materials advertised are not assurance of the received order. URL-only.
+
+[S06] LGG Jewelry
+URL: https://www.lggjewelry.com/
+Status: live; class: company website; used in: public vendor check.
+Supports: published custom jewelry, lab stones and gold price variability notice.
+Limits: November quote reversal comes from A01. URL-only.
+
+[S07] Brilliance LG46467570
+URL: https://www.brilliance.com/lab-grown-diamonds/oval/2-02-carat-e-color-super-ideal-make-vs2-clarity-igi-certified-SKU-LG46467570
+Status: live; class: retailer listing; used in: D001 independent listing match.
+Supports: indexed title IGI 849652581, matching 2.02 ct E/VS2 and dimensions, $1,509 ask with Contact Us.
+Limits: pricing/availability volatile, independent from supplier chat rather than issuer confirmation. URL-only.
+
+[S08] IGI public report lookup
+URLs: https://lookup.igi.org/index.php/verify-your-report/ and https://www.igi.org/Verify-Your-Report/?r=LG849652581
+Status: general lookup readable; exact result not retrievable during check.
+Class: issuer site. Limits: D001 issuer verification remains open. URL-only.
+
+[S09] Alibaba Trade Assurance
+URLs: https://tradeassurance.alibaba.com/ and https://helpcenter.alibaba.com/s/buyer/knowledge?categoryId=275875447&m_station=buyer&questionId=740804f84ea34811b7eb572838430920sgvpc278077001
+Status: live; class: platform policy. Supports: eligible orders and approved payment process matter for coverage.
+Limits: does not resolve an off-platform order, claim or legal protection. Preservation: URL-only.
+
+[S10] US Customs and Border Protection, commercial invoice value
+URL: https://www.help.cbp.gov/s/article/Article-1162?language=en_US
+Status: live; class: agency guidance. Supports: price buyer paid as declared value basis, with applicable adjustments.
+Limits: actual classification, exposure, origin and duty rate require item-specific facts. URL-only.
+
+[S11] Hanchen, Good Century Diamond and PDM archived storefront references
+URLs: https://szhcjewelry.en.alibaba.com/ ; https://www.goodcenturydiamond.com/ ; https://im103100860.trustpass.alibaba.com/
+Status: Hanchen returned no readable content; Good Century and PDM inaccessible in this check.
+Class: supplier storefront references; used in: unresolved identity/offer matrix. Preservation: URL-only.
+
+[S12] TongLin buyer posts for Suky
+URLs: https://www.reddit.com/r/labdiamond/comments/1j9wpoc/ and https://www.reddit.com/r/labdiamond/comments/1j28qnu/
+Status: public first-person account, two stages of same reported purchase.
+Supports: buyer identifies TongLin/Sun Star and Suky for a separate completed pink diamond ring.
+Limits: single buyer, different rep and product. Used in: Tonglin vendor note. URL-only.
+
+[M01] StarsGem Rose delivered marquise tennis necklace
+URL: https://www.reddit.com/r/labdiamond/comments/1kqr8vs/first_tennis_necklace/
+Status: live archived Reddit post; class: firsthand buyer account. Supports 16 in, 10K YG, 5 x 2.5 mm, approx. 19.5 ctw.
+Limits: self-reported specifications, 2025 purchase. Used in: marquise brief. URL-only.
+
+[M02] Same StarsGem Rose customer's price disclosure
+URL: https://www.reddit.com/r/labdiamond/comments/1k9iw3n/first_purchase_from_mureta_co/
+Status: live comment; class: firsthand buyer account. Supports roughly USD $3,400 for 20 ctw, 10K YG, 16 in.
+Limits: dated report by same account; no invoice audit. Used in: marquise brief. URL-only.
+
+[M03] Kay item 582162703
+URL: https://www.kay.com/neil-lane-artistry-marquise-roundcut-certified-labgrown-diamond-necklace-4-ct-tw-14k-white-gold-18/p/V-582162703
+Status: live; class: retail product. Supports: 14K WG, 4 ctw alternating shapes, 18 in adjustable cable and lobster, $4,999.99.
+Limits: price can change, exact minimum fit not stated, the historic $3,249.99 promotion is A03. URL-only.
+
+[M04] Blue Nile item 297592
+URL: https://www.bluenile.com/jewelry/necklaces/east-west-bezel-tennis-necklace-with-7-ctw-marquise-cut-lab-grown-diamonds-in-14k-white-gold-item-297592
+Status: live; class: retailer specification. Supports: 80 marquise stones, 4.4 x 2.2 mm, 7 ctw.
+Limits: fixed 18 in bezel example, different setting and coverage. URL-only.
+
+[M05] Blue Nile item 297594
+URL: https://www.bluenile.com/jewelry/necklaces/east-west-bezel-tennis-necklace-with-15-ctw-marquise-cut-lab-grown-diamonds-in-14k-white-gold-item-297594
+Status: live; class: retailer specification. Supports: 62 marquise stones, 6.1 x 3.05 mm, 15 ctw.
+Limits: scale example rather than desired design. URL-only.
+
+[M06] Blue Nile item 297595
+URL: https://www.bluenile.com/jewelry/necklaces/east-west-bezel-tennis-necklace-with-20-ctw-marquise-cut-lab-grown-diamonds-in-14k-white-gold-item-297595
+Status: live; class: retailer specification. Supports: 55 marquise stones, 7 x 3.5 mm, 20 ctw.
+Limits: scale example rather than custom quote. URL-only.
+
+[M07] Provence Daisy half tennis group buy
+URL: https://www.reddit.com/r/ProvenceJewelry/comments/1ul40si/
+Status: live archival seller post for July 2–12, 2026. Supports from $387 across mixed materials.
+Limits: photo and offer scope, 67 mm comes from supplied archive; no current matching quote. URL-only.
+
+[M08] StarsGem Demi tennis group buy
+URL: https://www.reddit.com/r/LabGroupSales/comments/1vbe4le/
+Status: live, marked closed; class: dated seller promotion and buyer comments.
+Supports: August 1–15, 2026, $930–$4,380 with 10K/14K/silver and configuration-specific flipping reports.
+Limits: price range spans unlike designs and personal reports do not prove overall mechanical performance. URL-only.
+
+[M09] StarsGem marquise tennis bracelet, April 2025
+URL: https://www.reddit.com/r/labdiamond/comments/1k7n1qc/
+Status: live archived Reddit post; class: firsthand buyer account.
+Supports: reported delivered white-gold bracelet and helpful CAD and communication.
+Limits: individual bracelet, historical buyer quote and carat estimates with no invoice audit. URL-only.
+
+[S13] Provence “Alibaba pay” firsthand discussion, August 2026
+URL: https://www.reddit.com/r/ProvenceJewelry/comments/1vq5b4q/alibaba_pay/
+Status: live; class: firsthand community claims about prior transactions.
+Supports: several commenters recall Wuzhou Qianao appearing as the vendor/payee for Provence.
+Limits: one thread; corporate ownership, current rep authority, and quote inclusions remain open. URL-only.
+
+[S14] Good Century / Hanchen and PDM marketplace index results
+URLs: https://www.alibaba.com/pla/Good-Century-18K-Gold-Round-Cut_1601912810129.html
+https://in103100860.m.trustpass.alibaba.com/company_profile.html?wx_navbar_transparent=true
+Status: Alibaba's indexed product result maps Good Century to Hanchen for a ring; canonical product blocked.
+The alternate PDM lookup exposes its company name in the index but no readable profile.
+Limits: cannot infer Hanchen's relationship to Scott, nor verify PDM's oval quote. URL-only.
+
+[S15] Guangxi Wuzhou Brilliant product IDs 1601585951576 and 1601600195964
+URLs: https://www.alibaba.com/product-detail/Custom-IGI-Certified-1-2-3_1601585951576.html
+https://www.alibaba.com/product-detail/2025-Hot-Sale-1ct-2ct-3ct_1601600195964.html
+Status: unavailable during the web recheck. Used in: flagged catalog conflict.
+Supports: previous captured variants and conflict remain in A01. Exact public price or composition still open. URL-only.
+
+Follow-up to M07: seller reply on the same thread states 67 mm diamond-front coverage.
+Follow-up to M09: buyer comment reports just under $1,600, 7 in and 58 stones at 5 x 2.5 mm.
+The approx. 8 ctw is a buyer estimate. Both are historical observations.
+
+[A04] Tonglin 2.04 ct Oval Pendant — Pricing Problem & Improvement Plan
+Local source: Tonglin_Pendant_Pricing_Optimization.md. SHA-256 recorded in SHA256SUMS.
+Class: supplied note summarizing a Nov 13 pro forma invoice and supplier discussions.
+Supports: itemized $474.49 pendant subtotal, $45 DAP freight, and reported $519.49 quote.
+Limits: underlying PI, exact new IGI report, CAD, final repricing and deposit receipt pending.
+Used in: quote Q035, Tonglin pricing review, oval sourcing, wholesale comparison and district shortlist.
+
+[S16] ICC Academy, DAP & DDP Incoterms 2020 explained
+URL: https://academy.iccwbo.org/incoterms/article/incoterms-2020-dap-or-ddp/
+Status: public ICC rule explainer checked Nov 15. Supports: named DAP destination and buyer import clearance and cost responsibility.
+Limits: coverage, carrier fees and buyer-specific import costs depend on the order. URL-only.

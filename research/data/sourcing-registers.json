@@ -1,0 +1,4853 @@
+{
+  "suppliers": {
+    "label": "Suppliers",
+    "columns": [
+      "Company / profile",
+      "Brand / rep",
+      "Stage or specialty",
+      "Recorded figures",
+      "Notes",
+      "Evidence and next check"
+    ],
+    "note": "31 tracked profiles, 73 marketplace leads, and related references. Repeated names reflect separate records or legal strings. Figures can cover different items, stages, currencies, or fee terms.",
+    "rows": [
+      [
+        {
+          "text": "StarsGem / Starsgem (V001)",
+          "href": "records/sourcing.html#v001"
+        },
+        "StarsGem · Annie Liao; Happy; Demi; Vivi Wei (Alibaba)",
+        "Order received · High",
+        {
+          "text": "$462.00 · $359.00 · $284.00 · $344.00 · $330.00 · $446.82 · $217.42 · $207.08 · $860.00 · $401.58",
+          "href": "?view=quotes&q=V001"
+        },
+        "StarsGem Annie quote history includes 10K $359 and 14K $462 1.5 ct pendant. Received a separate gold necklace; $446.82 checkout displayed and other history suggests ~$401.58 paid (reconcile receipt). Arrival documented Nov 9. Customs declaration reportedly described a $5 silver-plated sample, not proof of actual metal. Separate IGI jewelry report no. 59J523052508 for a 0.647 ct pear 10K catalog necklace was discussed; not equivalent to the received 1.095 ct necklace without matching evidence.",
+        "China  |  Not recorded · Established vendor · Not recorded; reorder Not recorded. Verify received necklace's metal and customs declaration"
+      ],
+      [
+        {
+          "text": "Provence Jewelry (V002)",
+          "href": "records/sourcing.html#v002"
+        },
+        "Provence · Yuki; Daisy; Jason",
+        "Quoted · High",
+        {
+          "text": "$409.00 · $635.00 · $468.00 · $696.00 · $400.00 · $952.00 · $560",
+          "href": "?view=quotes&q=V002"
+        },
+        "Includes distinct reps Yuki, Daisy, Jason and multiple quotes: Yuki 1.5 ct $409 + $40 freight; 2 ct $635 + $40. Daisy 2 ct F VS1 with chain $696 shipped; prior 1.5 ct $468 and $560 1.5 ct F VS1 IGI necklace quoted in other discussions; exact different configurations need reconciliation. Qianao payment association from Reddit does not mean Wuzhou Qianao is the same legal entity as Provence.",
+        "China  |  Not recorded · Established vendor · Not recorded; reorder Not recorded. Request chosen IGI and final shipping/chain specs"
+      ],
+      [
+        {
+          "text": "LGG Jewelry (V003)",
+          "href": "records/sourcing.html#v003"
+        },
+        "LGG Jewelry · Lynn; Romy",
+        "Price corrected · High",
+        {
+          "text": "$629.00 · $499.00 · $749.00 · $819.00",
+          "href": "?view=quotes&q=V003"
+        },
+        "LGG original 2 ct $499 + $35 shipping was explicitly corrected to 2 ct $629. 1.5 ct changed to $499 plus $35 shipping. User explicitly chose 2 ct before the correction. Current seller representative Lynn uses +86 177 7748 0280. Response corrected quotation after earlier confirmation. Distinguish response quality and vendor reputation.",
+        "China  |  Not recorded · Established vendor · Not recorded; reorder Not recorded. Respond to revised 2ct price and clarify freight"
+      ],
+      [
+        {
+          "text": "Shenzhen Hanchen Jewelry Co., Ltd. (V004)",
+          "href": "records/sourcing.html#v004"
+        },
+        "Good Century (Alibaba) · Han Chen (Alibaba)",
+        "Quoted pendant + necklace · High",
+        {
+          "text": "$470.00 · $695.00",
+          "href": "?view=quotes&q=V004"
+        },
+        "Han Chen Alibaba offered $470 2 ct D VS1 14K pendant or $695 with a 14K necklace (not including explicit shipping). Seller-provided WhatsApp +852 55129698; store Good Century / Shenzhen Hanchen. Scott separately at Good Century through WhatsApp and website goodcenturydiamond.com, email goodcenturydiamond@gmail.com, confirmed custom prong/bail and drawing approval. Scott’s phone and corporate identity linkage not independently established. Banner claims 30+ years despite 2025 establishment and 1 year Alibaba.",
+        "Shenzhen, Guangdong  |  2025 · Limited independent evidence · 4.7/5 (8); reorder Not recorded. Request actual IGI report, 14K gold/chain weights, $470/$695 shipping, CAD, and invoice; confirm official WhatsApp & Scott connection"
+      ],
+      [
+        {
+          "text": "Tonglin Industrial Co., Limited (V005)",
+          "href": "records/sourcing.html#v005"
+        },
+        "Tonglin · Sofia Su",
+        "Quoted + stone proposed · High",
+        {
+          "text": "$447.88 · $543.47 · $474.49",
+          "href": "?view=quotes&q=V005"
+        },
+        "Fannie WhatsApp +86 132 4234 6274 (user screenshot). Sofia Su Alibaba hk1575409513pfcb; sofia@tonglincl.com. Website publicly advertised +86 159 8638 9771 and goldjewels@tonglincl.com (historical web review). Fannie: 40% deposit, CAD within 3 days, 7-day build, 3-5-day stated US transit, 60% after finished photos/videos. Final PI adjusted to actual gold weight. Proposed Payoneer invoice recipient TONG LIN INDUSTRIAL CO LIMITED, $220 deposit; Payoneer processing shown Nov 12. Company quotation header Guangzhou Tonglin Jewelry Co., Ltd.; HK seller Tonglin Industrial Co., Limited. Confirm entity link and payment recipient. Company claimed 4.9/5 45 reviews, 48% reorder; historical Reddit reviews name Suky and Ashley, not Fannie. Public company status claims should not be read as audited facts.",
+        "Guangzhou/Hong Kong  |  2021 · More platform history · 4.9/5 (45); reorder 0.48. Require answer: is 1.50g 14K gold weight only vs finished including 2.02ct diamond? Ask for gold and finished grams; ask for VS1 alternative."
+      ],
+      [
+        {
+          "text": "Fiorese (V006)",
+          "href": "records/sourcing.html#v006"
+        },
+        "Fiorese · Cici; Hope",
+        "Contacted · Medium",
+        {
+          "text": "$580.00 · $970.00 · $850 · $690",
+          "href": "?view=quotes&q=V006"
+        },
+        "Fiorese Cici contact previously published +86 180 0774 6311 but one historical research document warns her number reportedly changed, so this must be revalidated. Hope +86 189 7749 5196 per buyer. Historical ~2 ct round F VVS1 $580; separate 2 ct $850 / 1.5 ct $690 and other context likely reflect different configurations/dates.",
+        "China  |  Not recorded · Established vendor · Not recorded; reorder Not recorded. Request current comparable oval quote"
+      ],
+      [
+        {
+          "text": "Tianyu Gems (V007)",
+          "href": "records/sourcing.html#v007"
+        },
+        "Tianyu · Nancy; Maggie",
+        "Contacted · Medium",
+        {
+          "text": "$1,018.00 · $555 + $40 shipping · $465",
+          "href": "?view=quotes&q=V007"
+        },
+        "Tianyu contact general +86 134 8147 7286; Nancy and Maggie mentioned. Earlier 14K estimate $555 plus $40 shipping or 10K $465 (configuration unclear); do not confuse with unrelated 3 ct bezel community reference.",
+        "China  |  Not recorded · Established vendor · Not recorded; reorder Not recorded. Request 2ct oval pendant quote"
+      ],
+      [
+        {
+          "text": "Henan Stars Lab Grown Diamond (V008)",
+          "href": "records/sourcing.html#v008"
+        },
+        "Henan Stars · Not recorded",
+        "Research lead · Low",
+        {
+          "text": "$510.00",
+          "href": "?view=quotes&q=V008"
+        },
+        "$510 shipped is a reported third-party buyer benchmark, not your own quote",
+        "China  |  Not recorded · Third-party evidence only · Not recorded; reorder Not recorded. Contact for independent quote"
+      ],
+      [
+        {
+          "text": "Guangxi Wuzhou Brilliant (V009)",
+          "href": "records/sourcing.html#v009"
+        },
+        "Brilliant · Not recorded",
+        "Not contacted · Low",
+        "—",
+        "Identified in prior supplier research",
+        "Wuzhou, China  |  Not recorded · Unverified lead · Not recorded; reorder Not recorded. Request direct 14K quotation"
+      ],
+      [
+        {
+          "text": "Zhuhai Rinntin (V010)",
+          "href": "records/sourcing.html#v010"
+        },
+        "Rinntin · Not recorded",
+        "Not contacted · Low",
+        "—",
+        "Research lead, not a current quote",
+        "Zhuhai, China  |  Not recorded · Unverified lead · Not recorded; reorder Not recorded. Ask about oval 1.53 ct stone listing"
+      ],
+      [
+        {
+          "text": "Shenzhen Anster Jewelry (V011)",
+          "href": "records/sourcing.html#v011"
+        },
+        "Anster · Not recorded",
+        "Not contacted · Low",
+        "—",
+        "Research lead",
+        "Shenzhen, China  |  Not recorded · Unverified lead · Not recorded; reorder Not recorded. Consider contacting if needed"
+      ],
+      [
+        {
+          "text": "Paston Jewelry (V012)",
+          "href": "records/sourcing.html#v012"
+        },
+        "Paston · Joyce; Stella",
+        "Not contacted · Low",
+        {
+          "text": "$595 · $979 + $30 shipping",
+          "href": "?view=quotes&q=V012"
+        },
+        "Paston Joyce earlier quote $595 pendant-only, $979 with chain, +$30 shipping, configuration requires reconfirmation. Contacts Joyce +86 138 0774 9759, Stella +86 133 2488 8816.",
+        "China  |  Not recorded · Community-tested · Not recorded; reorder Not recorded. Optional custom pendant inquiry"
+      ],
+      [
+        {
+          "text": "DovEggs (V013)",
+          "href": "records/sourcing.html#v013"
+        },
+        "DovEggs · Not recorded",
+        "Not contacted · Low",
+        "—",
+        "Custom jewelry research lead",
+        "USA/China  |  Not recorded · Established vendor · Not recorded; reorder Not recorded. Optional comparison"
+      ],
+      [
+        {
+          "text": "Good Century Diamond (legal entity unconfirmed) (V014)",
+          "href": "records/sourcing.html#v014"
+        },
+        "Good Century Diamond · Scott",
+        "Discussed custom design · Low",
+        "—",
+        "Scott's WhatsApp messages 2026-11-11: 'We can make this prong style with a bail'; will double-check drawing before production; asks quantity. No personalized price in this exchange. Shares Good Century branding with Shenzhen Hanchen, but affiliation not yet independently confirmed.",
+        "Hong Kong (profile)  |  Not recorded · Identity unverified · Not recorded; reorder Not recorded. Confirm legal entity/relationship to Hanchen, final 14K 2ct pendant quote, bail CAD, number of pieces, IGI number, shipping"
+      ],
+      [
+        {
+          "text": "PDM GEMS (V015)",
+          "href": "records/sourcing.html#v015"
+        },
+        "PDM GEMS · PDM GEMS",
+        "Quoted (2 variants) · High",
+        {
+          "text": "$390.00 · $415.00",
+          "href": "?view=quotes&q=V015"
+        },
+        "India-based PDM GEMS publicly advertised phone +91-9928360606, pdm@pdmgems.com, marketplace 5-year badge. Quote $390 DE/VS2 IGI or $415 DE/VS1 IGI without chain; whether 2 ct stone plus solid 14K gold in exact price still unconfirmed. User asked about CAD process and total weight; response not available.",
+        "India  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Await reply on CAD/approval process and total finished pendant weight; verify 14K solid gold and 2ct stone included in $390/$415."
+      ],
+      [
+        {
+          "text": "Shenzhen Zhuangyee Culture Co., Ltd. (V016)",
+          "href": "records/sourcing.html#v016"
+        },
+        "Zhuangyee · JOHN ZHUANG",
+        "Quoted · Medium",
+        {
+          "text": "$688.00",
+          "href": "?view=quotes&q=V016"
+        },
+        "6 years displayed on Alibaba; $688 14K yellow gold 2ct D VS1 IGI pendant-only; shipping not quoted.",
+        "Shenzhen, China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "Zhengzhou Better Star Trade Co., Ltd. (V017)",
+          "href": "records/sourcing.html#v017"
+        },
+        "Better Star · Jerry Zhang",
+        "Quote pending → $412 supplemental quote · Medium",
+        {
+          "text": "$412",
+          "href": "?view=quotes&q=V017"
+        },
+        "Jerry Zhang WhatsApp +86 135 2668 3122, confirmed in user WhatsApp screenshot. New Nov 12 offer: $412, 2.0 ct D VS2 IGI claimed, solid 14K pendant-only, approximately 1 g estimated gold. Requires 50% deposit, CAD in 1-2 days, 5-7 working days production, ~12 working days total air-shipped delivery according to seller; shipping charge and final weight-based repricing unresolved. Public buyer experiences previously found for Better Star are predominantly positive but largely mention Summer; Better Star is not StarsGem. Older additional contact Gwyneth +86 151 3891 8636 (historical sourced phone, not seller-confirmed by Jerry).",
+        "China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "Yuzhou Stars Lab Grown Diamond Co., Ltd. (V018)",
+          "href": "records/sourcing.html#v018"
+        },
+        "Yuzhou Stars · ShiYang Tang",
+        "Awaiting clarification · Medium",
+        "—",
+        "Seller asked whether necklace included; specification unclear.",
+        "China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "Hk Flying International Trading Limited (V019)",
+          "href": "records/sourcing.html#v019"
+        },
+        "HK Flying · Leo Zhang",
+        "Quote pending · Medium",
+        "—",
+        "14K yellow gold 2ct oval DEF VS1/VS2 pendant RFQ; no amount yet.",
+        "Hong Kong / China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "Wuzhou Qianao Jewelry Co., Ltd. (V020)",
+          "href": "records/sourcing.html#v020"
+        },
+        "QIAN'AO / Qianao Jewelry · liang xuan",
+        "Quoted - identity needs verification · Top",
+        {
+          "text": "$235.00",
+          "href": "?view=quotes&q=V020"
+        },
+        "Seller wrote \"This is Provence Jewerly\" from Wuzhou Qianao Alibaba, offering $235 shipped for claimed 2 ct IGI/solid 14K pendant with CAD. User found multiple Reddit buyers whose Provence invoices used Qianao names; credible association, but not proof of this exact rep’s authorization. Contact Liang Xuan xuanliang@rdsjewelry.com. Verified Custom Manufacturer/SGS banner, 8-year Alibaba badge in screenshot. Price unusually low; full stone report/color clarity and gold weight absent.",
+        "Wuzhou, Guangxi, China  |  2019 (Alibaba listed) · Verified supplier profile; specific piece unverified · 4.8/5; 54 reviews (Alibaba); reorder Not recorded. Ask why they said 'This is Provence Jewerly'; demand IGI number, gold-only / finished weight, CAD, $235 inclusions, buyer-protected invoice."
+      ],
+      [
+        {
+          "text": "Viti Jewelry (Shenzhen) Co., Ltd. (V021)",
+          "href": "records/sourcing.html#v021"
+        },
+        "Viti Jewelry · Viti Jewelry",
+        "Awaiting chain length · High",
+        "—",
+        "Asked whether 16 or 18 inch chain; confirms planning quotes with/without 14K chain and DEF VS1 oval 2ct.",
+        "Shenzhen, China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "Yiwu Yingzhi Trading Co., Ltd. (V022)",
+          "href": "records/sourcing.html#v022"
+        },
+        "Yingzhi · coco chen",
+        "Specification follow-up · Low",
+        "—",
+        "Seller asked 'Do you need this chain?' No price shown.",
+        "Yiwu, China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "Hebei Alrosa Diamond Co., Ltd. (V023)",
+          "href": "records/sourcing.html#v023"
+        },
+        "Alrosa Diamond · Alrosa Tao",
+        "Specification follow-up · Low",
+        "—",
+        "Asked for necklace link details; no quote.",
+        "Hebei, China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "MAHI GEMS & EXPORTS (V024)",
+          "href": "records/sourcing.html#v024"
+        },
+        "MAHI GEMS · MR PARVEZ",
+        "Initial contact · Low",
+        "—",
+        "Greeting only; no jewelry quote shown.",
+        "India / unknown  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "AMI JEWELS (V025)",
+          "href": "records/sourcing.html#v025"
+        },
+        "AMI JEWELS · Heaven Shah",
+        "Alternative proposal · Low",
+        "—",
+        "Suggested PT950 platinum pendant with 1.04ct IGI oval; outside core 14K/2ct requirement. No price.",
+        "Unknown  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "Guangzhou Bespoke Aura Jewelry Co., Ltd. (V026)",
+          "href": "records/sourcing.html#v026"
+        },
+        "Bespoke Aura · Jin Nacy",
+        "Image received · Low",
+        "—",
+        "Sent image 2026-11-10; no price readable.",
+        "Guangzhou, China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "KHUSHI DIAMOND (V027)",
+          "href": "records/sourcing.html#v027"
+        },
+        "Khushi Diamond · User name",
+        "Quotation received (unread price) · Medium",
+        "—",
+        "Seller says attached quotation for 2ct IGI lab solitaire necklace in 14K YG; amount not provided here.",
+        "Unknown  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "Guangzhou Vlove Jewellery Limited (V028)",
+          "href": "records/sourcing.html#v028"
+        },
+        "VLOVE · Simon VLOVE",
+        "Quotation received (unread price) · Medium",
+        "—",
+        "Alibaba RFQ quotation notification, not yet transcribed.",
+        "Guangzhou, China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "Shenzhen Daka Future Technology Co., Ltd. (V029)",
+          "href": "records/sourcing.html#v029"
+        },
+        "DK Jewelry · DK Jewelry",
+        "Quotation received (unread price) · Medium",
+        "—",
+        "Alibaba RFQ quotation notification, not yet transcribed.",
+        "Shenzhen, China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "Shenzhen Shangjinpin Jewelry Culture Co., Ltd. (V030)",
+          "href": "records/sourcing.html#v030"
+        },
+        "Shangjinpin Jewelry · Mark Ma",
+        "Quotation received (unread price) · Medium",
+        "—",
+        "Alibaba RFQ quotation notification, not yet transcribed.",
+        "Shenzhen, China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        {
+          "text": "Wuzhou Redleaf Jewelry Co., Ltd. (V031)",
+          "href": "records/sourcing.html#v031"
+        },
+        "Redleaf Jewelry · Maty Redleafgems; Tina Liang",
+        "Media received · Low",
+        "—",
+        "Nov 7 video; Nov 6 automated outreach. No price.",
+        "Wuzhou, China  |  Not recorded · Unverified · Not recorded; reorder Not recorded. Request exact 2ct oval 14K pendant-only vs with chain, IGI ID, gold grams, and shipping."
+      ],
+      [
+        "Guangxi Wuzhou Starsgem Co., Ltd.",
+        "Annie Liao (current contact)",
+        "Marketplace lead · Group A",
+        "—",
+        "4.9 / 5; 325 reviews; 11 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://starsgems.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        "Guangzhou Provence Jewelry Co., Ltd.",
+        "Daisy: daisy@provencejewellery.com | WhatsApp +86 19172108802; Jason: +86 191 2733 9258",
+        "Marketplace lead · Group A",
+        "$660-$800, $1200-$1400",
+        "4.9 / 5; 61 reviews; 5 y · Hot Selling Products 10k 14k 18k Gold Necklace F VVS2 Iced Out Chain Oval Cut Non Tarnish Necklace for Woman Minimalist Jewelry · Luxury 14K Solid Gold Bezel Setting Lab Created Diamond Solitaire Necklace Bead Chain IGI Certified Oval Lab Diamond Necklace",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Guangzhou%20Provence%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Henan Stars Lab Grown Diamond Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group A",
+        "—",
+        "4.8 / 5; 174 reviews; 2 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/product-detail/Wholesale-IGI-Certified-Lab-Grown-Diamonds_1601418376917.html"
+        }
+      ],
+      [
+        "Guangxi Wuzhou Brilliant Jewelry Co.,Ltd.",
+        "Not captured",
+        "Marketplace lead · Group A",
+        "$390-$455, $368-$510",
+        "4.9 / 5; 106 reviews; 2 y · Custom IGI Certified 1 2 3 Carat VS1 Lab Diamond CVD HPHT Necklace Pendant for Women Men Jewelry 10k 14k 18k Solid Gold Oval Cut · 2025 Hot Sale 1ct 2ct 3ct Oval Cut D VS1 IGI Certified HPHT CVD Lab Grown Diamond 40+5cm 14k Solid Gold Diamond Necklace",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Guangxi%20Wuzhou%20Brilliant%20Jewelry%20Co.%2CLtd."
+        }
+      ],
+      [
+        "Zhuhai Rinntin Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group A",
+        "$212.13-$1084.49",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · New Trendy Luxury Jewelry 10K 14K 18K Gold Oval Cut Lab Grown Diamond Pendant Necklace for Gift Daily Women With IGI Certified",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Zhuhai%20Rinntin%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Shenzhen Anster Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group A",
+        "$436-$874",
+        "4.9 / 5; 71 reviews; 6 y · IGI Lab Grown Diamond Necklace 18k Gold 3ct DEF VVS Claw Setting Pendant Pear Oval Heart Round Emerald Cut Lab Diamond Necklace",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Shenzhen%20Anster%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Zhengzhou Zhongyuan District Qinglong Jewelry Firm",
+        "Not captured",
+        "Marketplace lead · Group A",
+        "$Not recorded-$Not recorded",
+        "4.9 / 5; 81 reviews; 3 y · Oval Cut Lab Grown Diamond Halo Necklace 0.5ct 1.0ct Classic Pendant 18K White Gold 14K Gold Unisex Fine Jewelry",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Zhengzhou%20Zhongyuan%20District%20Qinglong%20Jewelry%20Firm"
+        }
+      ],
+      [
+        "Wuzhou Fancy Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group A",
+        "—",
+        "4.8 / 5; 417 reviews; 8 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://suppliers.alibaba.com/wuzhou-fancy-jewelry-co-ltd_2206582297731"
+        }
+      ],
+      [
+        "Gray Commercial (Yancheng) Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group A",
+        "—",
+        "4.8 / 5; 246 reviews; 3 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Gray%20Commercial%20%28Yancheng%29%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Wuzhou Messi Gems Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group A",
+        "—",
+        "4.9 / 5; 415 reviews; 8 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://suppliers.alibaba.com/wuzhou-messi-gems-co-ltd_2205558999394"
+        }
+      ],
+      [
+        "Henan Qishi Technology Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group B",
+        "$569-$953",
+        "4.7 / 5; 16 reviews; 4 y · Hot Sale 1ct-3ct Oval Cut Lab Grown VS1 IGI Diamonds 14k Yellow Gold Jewelry Necklace Pendent",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Henan%20Qishi%20Technology%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Guangxi Wuzhou Zuanfu Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group B",
+        "—",
+        "4.8 / 5; 339 reviews; 4 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangxi%20Wuzhou%20Zuanfu%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Guangxi Wuzhou Paxima Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group B",
+        "—",
+        "4.9 / 5; 40 reviews; 2 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangxi%20Wuzhou%20Paxima%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Guangxi Wuzhou Glinting Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group B",
+        "—",
+        "4.9 / 5; 111 reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangxi%20Wuzhou%20Glinting%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Shenzhen Maiyi Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group B",
+        "—",
+        "4.7 / 5; 14 reviews; 5 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shenzhen%20Maiyi%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Zhengzhou Chenjing International Trade Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group B",
+        "—",
+        "4.8 / 5; 65 reviews; 3 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Zhengzhou%20Chenjing%20International%20Trade%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Wuzhou Zuanfa Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group B",
+        "—",
+        "4.7 / 5; 1139 reviews; 16 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://zuanfa.en.alibaba.com/index.html"
+        }
+      ],
+      [
+        "Wuzhou Redleaf Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group B",
+        "—",
+        "4.8 / 5; 148 reviews; 8 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Wuzhou%20Redleaf%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Guangzhou Mishang Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group B",
+        "—",
+        "4.9 / 5; 199 reviews; 4 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangzhou%20Mishang%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group B",
+        "$71.9-$365, $200-$400, $100.73-$985",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · IGI Certificate Diamond Pendant 10K 14K 18K Real Gold 1-4ct Fancy CVD HPHT Lab Made Diamond Solitaire Pendants Necklace · 2.0 Ct Oval Cut Lab Grown Diamond Necklace Bezel Set Oval Cut White Diamond Pendant Solitaire 14k Yellow Gold Chain Necklace · Detachable Pendant 10K 14k 18K Gold 1ct DEF VVS-VSC IGI Certified Solitaire Lab Diamond Pendant Necklace",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Guangxi%20Wuzhou%20Lordani%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Shenzhen Chasau Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.8 / 5; 363 reviews; 4 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shenzhen%20Chasau%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Wuzhou Zhengyong Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.8 / 5; 91 reviews; 18 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Wuzhou%20Zhengyong%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Yiwu Daochong Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$80-$300",
+        "5 / 5; 3 reviews; 11 y · 14K Gold Custom Real Diamond Pendant Necklace Jewelry",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Yiwu%20Daochong%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Guangzhou Vlove Jewellery Limited",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$994-$994",
+        "3.8 / 5; 13 reviews; 10 y · 1 Carat Pendent 14k Gold Lab Diamond Wedding Engagement Fine Jewelry Necklaces 2026 Men Women 585 Gold Jewelry Wholesale",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Guangzhou%20Vlove%20Jewellery%20Limited"
+        }
+      ],
+      [
+        "Jiangxi Solen Tenth High-Tech Materials Technology Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "5 / 5; 3 reviews; 6 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Jiangxi%20Solen%20Tenth%20High-Tech%20Materials%20Technology%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Guangxi Wuzhou Starsgem Co., Limited",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.8 / 5; 103 reviews; 8 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangxi%20Wuzhou%20Starsgem%20Co.%2C%20Limited"
+        }
+      ],
+      [
+        "1000S Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.7 / 5; 29 reviews; 23 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=1000S%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "EXCELLENT CORPORATION",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.9 / 5; 4 reviews; 11 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=EXCELLENT%20CORPORATION"
+        }
+      ],
+      [
+        "Shenzhen Leqi Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.9 / 5; 32 reviews; 4 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shenzhen%20Leqi%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "V B ARTS",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.9 / 5; 14 reviews; 11 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=V%20B%20ARTS"
+        }
+      ],
+      [
+        "Henan Huacan Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$540-$1103",
+        "5 / 5; 2 reviews; 2 y · Oval Lab Grown Diamond Pendant Necklace Classic Engagement Wedding Party Gift Diamond Necklace 14K 18K PT950 Link Chain",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Henan%20Huacan%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Shenzhen Qingcheng Jewelry Technology Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.9 / 5; 98 reviews; 3 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shenzhen%20Qingcheng%20Jewelry%20Technology%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Shenzhen Hammer Jewelry Company Limited",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.7 / 5; 17 reviews; 5 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shenzhen%20Hammer%20Jewelry%20Company%20Limited"
+        }
+      ],
+      [
+        "GEMVER",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.9 / 5; 15 reviews; 5 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=GEMVER"
+        }
+      ],
+      [
+        "SHENZHEN DG JEWELRY COMPANY LIMITED",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.4 / 5; 7 reviews; 6 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=SHENZHEN%20DG%20JEWELRY%20COMPANY%20LIMITED"
+        }
+      ],
+      [
+        "SPARKLING SPLENDOR",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.9 / 5; 22 reviews; 3 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=SPARKLING%20SPLENDOR"
+        }
+      ],
+      [
+        "STAR EXPORT",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "5 / 5; 8 reviews; 2 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=STAR%20EXPORT"
+        }
+      ],
+      [
+        "Sichuan Chuangao Jewelry Design Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.8 / 5; 19 reviews; 3 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Sichuan%20Chuangao%20Jewelry%20Design%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Shanghai Goldstones Jewelry Co.,Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.8 / 5; 17 reviews; 5 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shanghai%20Goldstones%20Jewelry%20Co.%2CLtd."
+        }
+      ],
+      [
+        "SHREERAJ SOLITAIRE",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.9 / 5; 24 reviews; 2 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=SHREERAJ%20SOLITAIRE"
+        }
+      ],
+      [
+        "ARIES JEWEL",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$Not recorded-$Not recorded",
+        "5 / 5; 2 reviews; Not recorded y · Minimalist 14K Solid Gold IGI Certified 2 CT Oval Cut Prong Set Lab Diamond Solitaire Pendant Necklace for Women Party Gift",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=ARIES%20JEWEL"
+        }
+      ],
+      [
+        "MESSI GEMS (H.K) CO., LIMITED",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.9 / 5; 54 reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=MESSI%20GEMS%20%28H.K%29%20CO.%2C%20LIMITED"
+        }
+      ],
+      [
+        "HEERAK DIAMOND",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$Not recorded-$Not recorded",
+        "4.4 / 5; 10 reviews; Not recorded y · Elegant Oval Cut Lab Grown Diamond Drop Pendant 14K Gold Minimalist Necklace for Women",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=HEERAK%20DIAMOND"
+        }
+      ],
+      [
+        "Guangzhou Ruizuan Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "5 / 5; 3 reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangzhou%20Ruizuan%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Provence Industrial Co., Limited",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.7 / 5; 45 reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Provence%20Industrial%20Co.%2C%20Limited"
+        }
+      ],
+      [
+        "ZYORIO JEWELS",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "5 / 5; 5 reviews; 2 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=ZYORIO%20JEWELS"
+        }
+      ],
+      [
+        "RAAMAA",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.8 / 5; 5 reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=RAAMAA"
+        }
+      ],
+      [
+        "VABS DIAMOND",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; 2 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=VABS%20DIAMOND"
+        }
+      ],
+      [
+        "ZEMERRA JEWELS PRIVATE LIMITED",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; 2 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=ZEMERRA%20JEWELS%20PRIVATE%20LIMITED"
+        }
+      ],
+      [
+        "GEUM JEWELS LLP",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.8 / 5; 9 reviews; 4 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=GEUM%20JEWELS%20LLP"
+        }
+      ],
+      [
+        "MANTRA DIAMOND",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "5 / 5; 6 reviews; 3 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=MANTRA%20DIAMOND"
+        }
+      ],
+      [
+        "SATVIK RATNA",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "5 / 5; 2 reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=SATVIK%20RATNA"
+        }
+      ],
+      [
+        "VIMLESH BADAYA FINE JEWELLERY",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=VIMLESH%20BADAYA%20FINE%20JEWELLERY"
+        }
+      ],
+      [
+        "KRISHNAVII",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=KRISHNAVII"
+        }
+      ],
+      [
+        "LOISTA JEWELS",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=LOISTA%20JEWELS"
+        }
+      ],
+      [
+        "Guangzhou Mira Jewelry Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$109-$469",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · 14K Rose Gold Classic Design Pendants 2 Ctw Oval Lab Grown Diamond Solitaire East-West Pendant Necklace",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Guangzhou%20Mira%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Zhengzhou Shining Stone New Material Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$500-$800",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · Lab Diamonds Necklace 18k Gold Necklace Diamond Diamond Name Chain Necklace Jewelry Oval Cut",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Zhengzhou%20Shining%20Stone%20New%20Material%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "DIVYA CREATIONS",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$448.76-$448.76",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · High Quality 1ct Lab Grown EF Clarity Diamond 14k Yellow Gold Solid Gold Necklace IGI Certified Trendy VS Color Chain for",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=DIVYA%20CREATIONS"
+        }
+      ],
+      [
+        "ZISMA JEWELLERY",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$252-$992",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · IGI Certified 1ct Lab Grown Diamond Necklace 925 Silver 14K Solid Gold DEF VVS2 Oval Solitaire Pendant Jewelry Manufacturer",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=ZISMA%20JEWELLERY"
+        }
+      ],
+      [
+        "URSH DIAMOND",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$152-$1675",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · 1Ct Oval Cut Lab Grown Diamond Solitaire Pendant Necklace 14k Solid Gold Prong Set Dainty Minimalist Layering Chain IGI",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=URSH%20DIAMOND"
+        }
+      ],
+      [
+        "Zhengzhou Limo Import And Export Trading Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$699-$1899",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · 2CT 3CT 4CT 5CT Oval Cut Lab Grown Diamond Pendant Necklace IGI Certified 14K 18K Gold Custom Wholesale",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Zhengzhou%20Limo%20Import%20And%20Export%20Trading%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$298-$958",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · Women's Minimalist Oval Lab Created Diamond Solitaire Pendant 14K 18K Gold Delicate IGI Certified Necklace Sparkly Daily Jewelry",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=Shanghai%20Guadalupe%20International%20Trading%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        "AMEYKA",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$1034.96-$1034.96",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · Radiant Prong Set West To East Oval Lab Grown Diamond Solitaire Necklace 1.00 Ct E-F VS 14K Gold For Bridal Anniversary Gift",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=AMEYKA"
+        }
+      ],
+      [
+        "VEGA-NY JEWELS PRIVATE LIMITED",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$500-$1300",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · 14K Yellow Gold Oval Cut Solitaire Pendant Necklace with Brilliant Sparkling Stone - Elegant Minimalist Fine Gold Jewelry",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=VEGA-NY%20JEWELS%20PRIVATE%20LIMITED"
+        }
+      ],
+      [
+        "NANCY DIAMOND",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$Not recorded-$Not recorded",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · Breathtaking Oval Solitaire Lab Grown Diamond IGI Certified Women's 14K Yellow Gold Statement Necklace with Elegant Fine Jewelry",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=NANCY%20DIAMOND"
+        }
+      ],
+      [
+        "RK INTERNATIONAL",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$Not recorded-$Not recorded",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · 3 Carat Oval Cut Lab Grown Diamond Solitaire Pendant Rhodium Plated 14K IGI Certified Filled Diamonds Women's Classic Luxury",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=RK%20INTERNATIONAL"
+        }
+      ],
+      [
+        "KRUP JEWELS",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "$179-$599",
+        "Not recorded / 5; Not recorded reviews; Not recorded y · Lab Grown Diamond Filled 0.75 CT Oval Solitaire Necklace Dainty Gold Classic Minimalist Pendant 14k 18k Women's Gift Party",
+        {
+          "text": "Listings and variant notes",
+          "href": "?view=listings&q=KRUP%20JEWELS"
+        }
+      ],
+      [
+        "CHORDIA JEWELS",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; 5 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=CHORDIA%20JEWELS"
+        }
+      ],
+      [
+        "SHIV PATH",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.8 / 5; 3 reviews; 2 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=SHIV%20PATH"
+        }
+      ],
+      [
+        "S VIRVADIYA EXPORT",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "4.8 / 5; 2 reviews; 2 y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=S%20VIRVADIYA%20EXPORT"
+        }
+      ],
+      [
+        "MADHAVI DIAM",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=MADHAVI%20DIAM"
+        }
+      ],
+      [
+        "RAMS JEWELS",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=RAMS%20JEWELS"
+        }
+      ],
+      [
+        "RAMSA DIAMOND AND JEWELLERY LLP",
+        "Not captured",
+        "Marketplace lead · Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=RAMSA%20DIAMOND%20AND%20JEWELLERY%20LLP"
+        }
+      ],
+      [
+        {
+          "text": "Kuololit",
+          "href": "records/marquise.html"
+        },
+        "Sam",
+        "Stock and custom benchmarks",
+        "$750 (historical); $1,900 (buyer quote)",
+        "Round-stone quote and uncertain 18K configuration",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Hida Hitanda",
+          "href": "?view=tennis&q=Hida"
+        },
+        "Buyer report",
+        "Tennis necklace",
+        "AUD $6,000",
+        "21 ctw marquise, 10K white gold",
+        "Related research"
+      ],
+      [
+        {
+          "text": "AK Gems",
+          "href": "?view=tennis&q=AK%20Gems"
+        },
+        "Seller post",
+        "Half-marquise necklace",
+        "USD $4,850",
+        "6.2 ctw, 16.5 g of 14K gold; asking price",
+        "Related research"
+      ],
+      [
+        {
+          "text": "TTB Jewelry",
+          "href": "?view=tennis&q=TTB"
+        },
+        "Buyer report",
+        "Marquise bracelet",
+        "USD $4,500 before tax",
+        "6.5 in, 8 × 4 mm angled marquise, 10K yellow gold",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Julysnow",
+          "href": "?view=tennis&q=Julysnow"
+        },
+        "Group buy",
+        "Tennis bracelet",
+        "From $655 + $35 worldwide shipping",
+        "Broad group-buy starting price; exact marquise variant unconfirmed",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Kay",
+          "href": "records/marquise.html#4-the-kay-adjustable-back-reference"
+        },
+        "Retail reference",
+        "Adjustable mixed-cut necklace",
+        "USD $4,999.99 on check",
+        "14K white gold, 4 ctw, marquise and round, 18 in adjustable",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Blue Nile",
+          "href": "records/marquise.html#5-stone-size-benchmarks-with-published-dimensions"
+        },
+        "Retail reference",
+        "Marquise bezel size examples",
+        "See dated product listings",
+        "18 in, 14K white gold, 7 / 15 / 20 ctw",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Ouros / Golden Bird",
+          "href": "records/sourcing.html#13-customer-review-reddit-research-index"
+        },
+        "Prior buyer discussions",
+        "Custom jewelry reference",
+        "—",
+        "Mixed comments in the archived review index",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Xingyao Gems",
+          "href": "records/sourcing.html#13-customer-review-reddit-research-index"
+        },
+        "Prior buyer discussions",
+        "Loose-stone lead",
+        "—",
+        "Limited independent review evidence in the dossier",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Ritani",
+          "href": "records/wholesale.html#5-wholesale-versus-consumer-retail"
+        },
+        "Retail reference",
+        "Loose oval lab diamond",
+        "USD $716 in the dossier",
+        "Retail listing snapshot and self-reported cost components",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Guangzhou Mishang Jewelry",
+          "href": "../markdown-viewer.html?file=research/diamond-sourcing.md"
+        },
+        "Inventory filename",
+        "Loose lab diamonds",
+        "Pink halo $50–$510 display range",
+        "May inventory plus separate catalog lead",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Henan Eco Superhard",
+          "href": "../markdown-viewer.html?file=research/diamond-sourcing.md"
+        },
+        "Inventory filename",
+        "Loose lab diamonds",
+        "—",
+        "Inventory filename indicates 197 stones",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Guangxi Wuzhou Lanphear",
+          "href": "?view=pink&q=Lanphear"
+        },
+        "Pink pear market scan",
+        "Pink pear halo",
+        "USD $1,220 display",
+        "1 ct, advertised 14K or 18K",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Wuzhou Zhanhao",
+          "href": "?view=pink&q=Zhanhao"
+        },
+        "Pink pear market scan",
+        "Pink pear halo",
+        "USD $1,126 display",
+        "1.05 ct and 18K advertised; certification conflict",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Shenzhen Hong Yun Fu",
+          "href": "../markdown-viewer.html?file=necklace-rfq-package/docs/02_ranked_suppliers.md"
+        },
+        "Two-stone RFQ shortlist",
+        "Custom gold jewelry",
+        "—",
+        "Legacy project lead",
+        "Related research"
+      ],
+      [
+        {
+          "text": "Mona Fine Jewelry",
+          "href": "../markdown-viewer.html?file=necklace-rfq-package/docs/02_ranked_suppliers.md"
+        },
+        "Two-stone RFQ shortlist",
+        "Custom gold jewelry",
+        "—",
+        "Legacy project lead",
+        "Related research"
+      ]
+    ]
+  },
+  "quotes": {
+    "label": "Quote register",
+    "columns": [
+      "Record",
+      "Company / rep",
+      "Configuration",
+      "Recorded amount",
+      "Stage",
+      "Date and basis",
+      "Fees, freight and terms",
+      "Still to verify"
+    ],
+    "note": "34 workbook quotes, 10 supplemental records, and the Nov 13 Tonglin update. Exact quotes, superseded quotes, and unconfirmed extras retain their original terms. Check the fee and freight column for the basis of each recorded amount.",
+    "rows": [
+      [
+        {
+          "text": "Q001",
+          "href": "records/sourcing.html#q001"
+        },
+        "Tonglin Industrial Co., Limited / Sofia Su (V005)",
+        "Oval solitaire pendant; Oval 2.02 ct; color E; clarity VS2; metal 14K YG; chain No",
+        "$447.88",
+        "Current / verify",
+        "Date Nov 11, 2026; Written quotation",
+        "Native base 427.88 USD; CAD/fees 20; freight 45; delivered estimate 492.88; shipping basis: Shared two-item quote; reconfirm for one.",
+        "IGI online; actual stone footage; final gold wt; single-item shipping; HK vs Guangzhou company identity"
+      ],
+      [
+        {
+          "text": "Q002",
+          "href": "records/sourcing.html#q002"
+        },
+        "Tonglin Industrial Co., Limited / Sofia Su (V005)",
+        "Oval solitaire pendant; Oval 2.02 ct; color E; clarity VS2; metal 18K YG; chain No",
+        "$543.47",
+        "Current / verify",
+        "Date Nov 11, 2026; Written quotation",
+        "Native base 523.47 USD; CAD/fees 20; freight 45; delivered estimate 588.47; shipping basis: Shared two-item quote; reconfirm for one.",
+        "Confirm 18K setting weight; customs and shipping"
+      ],
+      [
+        {
+          "text": "Q003",
+          "href": "records/sourcing.html#q003"
+        },
+        "Shenzhen Hanchen Jewelry Co., Ltd. / Han Chen (V004)",
+        "Oval solitaire pendant; Oval 2 ct; color D; clarity VS1; metal 14K YG; chain No",
+        "$470.00",
+        "Current / verify",
+        "Date Nov 11, 2026; Direct Alibaba message",
+        "Native base 470 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Actual IGI number & report/video; exact 14K setting weight and stamping; confirm 18K listing vs 14K custom quote; shipping/duties; CAD/prongs/bail; payment & returns"
+      ],
+      [
+        {
+          "text": "Q004",
+          "href": "records/sourcing.html#q004"
+        },
+        "LGG Jewelry / Lynn (V003)",
+        "Oval four-prong bail pendant; Oval 2 ct; color D-F; clarity VS; metal 14K YG; chain No",
+        "$629.00",
+        "Current / verify",
+        "Date Nov 10, 2026; Corrected WhatsApp quote",
+        "Native base 629 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Shipping and actual 2ct stone ID; metal weight; finalize specs"
+      ],
+      [
+        {
+          "text": "Q005",
+          "href": "records/sourcing.html#q005"
+        },
+        "LGG Jewelry / Lynn (V003)",
+        "Oval four-prong bail pendant; Oval 1.5 ct; color D-F; clarity VS; metal 14K YG; chain No",
+        "$499.00",
+        "Current / verify",
+        "Date Nov 10, 2026; Corrected WhatsApp quote",
+        "Native base 499 USD; CAD/fees Not recorded; freight 35; delivered estimate 534; shipping basis: Explicit $35 shipping.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q006",
+          "href": "records/sourcing.html#q006"
+        },
+        "LGG Jewelry / Lynn (V003)",
+        "Oval four-prong bail pendant; Oval 2 ct; color D-F; clarity VS; metal 14K YG; chain No",
+        "$499.00",
+        "Superseded",
+        "Date Nov 06, 2026; Original WhatsApp quote",
+        "Native base 499 USD; CAD/fees Not recorded; freight 35; delivered estimate 534; shipping basis: Explicit but corrected later.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q007",
+          "href": "records/sourcing.html#q007"
+        },
+        "LGG Jewelry / Lynn (V003)",
+        "Oval four-prong bail pendant; Oval 1.5 ct; color D-F; clarity VS; metal 14K YG; chain No",
+        "$629.00",
+        "Superseded",
+        "Date Nov 06, 2026; Original WhatsApp quote",
+        "Native base 629 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q008",
+          "href": "records/sourcing.html#q008"
+        },
+        "Provence Jewelry / Yuki (V002)",
+        "Solitaire pendant; Oval 1.5 ct; color D-F; clarity VS-VVS; metal 14K YG; chain No",
+        "$409.00",
+        "Current / reconfirm",
+        "Date Nov 04, 2026; Direct quote (prior chat)",
+        "Native base 409 USD; CAD/fees Not recorded; freight 40; delivered estimate 449; shipping basis: Shipping quote from prior conversation.",
+        "Specific stone ID, gold grams, exact design"
+      ],
+      [
+        {
+          "text": "Q009",
+          "href": "records/sourcing.html#q009"
+        },
+        "Provence Jewelry / Yuki (V002)",
+        "Solitaire pendant; Oval 2 ct; color D-F; clarity VS-VVS; metal 14K YG; chain No",
+        "$635.00",
+        "Current / reconfirm",
+        "Date Nov 04, 2026; Direct quote (prior chat)",
+        "Native base 635 USD; CAD/fees Not recorded; freight 40; delivered estimate 675; shipping basis: Shipping quote from prior conversation.",
+        "Exact carat, cert, bail, gold grams"
+      ],
+      [
+        {
+          "text": "Q010",
+          "href": "records/sourcing.html#q010"
+        },
+        "Provence Jewelry / Daisy (V002)",
+        "Pendant / necklace configuration unclear; Pear 1.5 ct; color Not recorded; clarity Not recorded; metal 14K YG; chain Unknown",
+        "$468.00",
+        "Current / reconfirm",
+        "Date Nov 04, 2026; Direct quote (prior chat)",
+        "Native base 468 USD; CAD/fees Not recorded; freight 0; delivered estimate 468; shipping basis: Reported as shipped; chain unknown.",
+        "Stone cut, chain, certificate, exact price source"
+      ],
+      [
+        {
+          "text": "Q011",
+          "href": "records/sourcing.html#q011"
+        },
+        "Provence Jewelry / Daisy (V002)",
+        "Pendant with chain; Oval 2 ct; color F; clarity VS1; metal 14K YG; chain Yes",
+        "$696.00",
+        "Current / reconfirm",
+        "Date Nov 04, 2026; Direct quote (prior chat)",
+        "Native base 696 USD; CAD/fees Not recorded; freight 0; delivered estimate 696; shipping basis: Reported shipped total; 16/18in option.",
+        "Confirm chain gold grams and width"
+      ],
+      [
+        {
+          "text": "Q012",
+          "href": "records/sourcing.html#q012"
+        },
+        "StarsGem / Starsgem / Annie Liao (V001)",
+        "Custom pendant; Oval/pear 1.5 ct; color D-F; clarity VS; metal 14K YG; chain No",
+        "$462.00",
+        "Current / reconfirm",
+        "Date Nov 03, 2026; Direct quote",
+        "Native base 462 USD; CAD/fees Not recorded; freight 40; delivered estimate 502; shipping basis: Standard $40 DAP fee; reconfirm applies.",
+        "Specific diamond, gold weight, certification type"
+      ],
+      [
+        {
+          "text": "Q013",
+          "href": "records/sourcing.html#q013"
+        },
+        "StarsGem / Starsgem / Annie Liao (V001)",
+        "Custom pendant; Oval/pear 1.5 ct; color D-F; clarity VS; metal 10K YG; chain No",
+        "$359.00",
+        "Current / reconfirm",
+        "Date Nov 03, 2026; Direct quote",
+        "Native base 359 USD; CAD/fees Not recorded; freight 40; delivered estimate 399; shipping basis: Standard $40 DAP fee; reconfirm applies.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q014",
+          "href": "records/sourcing.html#q014"
+        },
+        "StarsGem / Starsgem / Annie Liao (V001)",
+        "Pear pendant; Pear 1.5 ct; color Not recorded; clarity Not recorded; metal 10K YG; chain Unknown",
+        "$284.00",
+        "Historical",
+        "Date Jul 29, 2026; Historical direct quote",
+        "Native base 284 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q015",
+          "href": "records/sourcing.html#q015"
+        },
+        "StarsGem / Starsgem / StarsGem Mall (V001)",
+        "Complete necklace; Round 1.502 ct; color Not recorded; clarity Not recorded; metal 10K YG; chain Yes",
+        "$344.00",
+        "Catalog / reference",
+        "Date Not recorded; Catalog listing",
+        "Native base 344 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q016",
+          "href": "records/sourcing.html#q016"
+        },
+        "StarsGem / Starsgem / StarsGem Mall (V001)",
+        "Radiant pendant; Radiant 2.09 ct; color Not recorded; clarity Not recorded; metal 10K YG; chain Unknown",
+        "$330.00",
+        "Catalog / reference",
+        "Date Not recorded; Catalog listing",
+        "Native base 330 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q017",
+          "href": "records/sourcing.html#q017"
+        },
+        "StarsGem / Starsgem / Annie Liao (V001)",
+        "Gold necklace (pear + round); Pear + Round 1.095 ct; color D-F; clarity VS; metal 14K YG; chain Yes",
+        "$446.82",
+        "Received / inspect",
+        "Date Nov 03, 2026; Checkout / actual order",
+        "Native base 446.82 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Check payment receipt; metal assay; actual chain and setting; customs paperwork"
+      ],
+      [
+        {
+          "text": "Q018",
+          "href": "records/sourcing.html#q018"
+        },
+        "Fiorese / Fiorese / Cici (V006)",
+        "Round pendant; Round 2 ct; color F; clarity VVS1; metal Gold (verify karat); chain Unknown",
+        "$580.00",
+        "Historical / reconfirm",
+        "Date Jul 01, 2026; Historical quote / research",
+        "Native base 580 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Exact metal, chain, CAD, current price"
+      ],
+      [
+        {
+          "text": "Q019",
+          "href": "records/sourcing.html#q019"
+        },
+        "Henan Stars Lab Grown Diamond / Not recorded (V008)",
+        "Oval pendant / necklace; Oval 1.5 ct; color Not recorded; clarity Not recorded; metal 14K YG; chain Unknown",
+        "$510.00",
+        "Community reference",
+        "Date Not recorded; Third-party Reddit buyer report",
+        "Native base 510 USD; CAD/fees Not recorded; freight 0; delivered estimate 510; shipping basis: Buyer reported shipped $510.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q020",
+          "href": "records/sourcing.html#q020"
+        },
+        "Provence Jewelry / Daisy (V002)",
+        "Pear pendant; Pear 1.5 ct; color Not recorded; clarity Not recorded; metal 18K YG; chain No",
+        "$400.00",
+        "Range / historical",
+        "Date Not recorded; Historical direct quote",
+        "Native base 400 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q021",
+          "href": "records/sourcing.html#q021"
+        },
+        "Provence Jewelry / Daisy (V002)",
+        "Heart pendant; Heart 1.5 ct; color Not recorded; clarity Not recorded; metal 10K YG; chain Unknown",
+        "$400.00",
+        "Approx. / historical",
+        "Date Not recorded; Historical direct quote",
+        "Native base 400 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q022",
+          "href": "records/sourcing.html#q022"
+        },
+        "LGG Jewelry / LGG (V003)",
+        "Round pendant; Round 1.5 ct; color Not recorded; clarity Not recorded; metal 10K YG; chain Unknown",
+        "$749.00",
+        "Historical / reconfirm",
+        "Date Nov 04, 2026; Historical comparison",
+        "Native base 749 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q023",
+          "href": "records/sourcing.html#q023"
+        },
+        "LGG Jewelry / LGG (V003)",
+        "Marquise pendant; Marquise 1.5 ct; color Not recorded; clarity Not recorded; metal 10K YG; chain Unknown",
+        "$819.00",
+        "Historical / reconfirm",
+        "Date Nov 04, 2026; Historical comparison",
+        "Native base 819 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q024",
+          "href": "records/sourcing.html#q024"
+        },
+        "StarsGem / Starsgem / StarsGem Mall (V001)",
+        "Oval pendant; Oval 1.01 ct; color Not recorded; clarity Not recorded; metal 10K YG; chain Unknown",
+        "$217.42",
+        "Catalog / reference",
+        "Date Not recorded; Catalog listing",
+        "Native base 217.42 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q025",
+          "href": "records/sourcing.html#q025"
+        },
+        "StarsGem / Starsgem / StarsGem Mall (V001)",
+        "Pear pendant; Pear 1.024 ct; color Not recorded; clarity Not recorded; metal 10K YG; chain Unknown",
+        "$207.08",
+        "Catalog / reference",
+        "Date Not recorded; Catalog listing",
+        "Native base 207.08 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q026",
+          "href": "records/sourcing.html#q026"
+        },
+        "Fiorese / Fiorese (V006)",
+        "Oval bezel pendant; Oval 3 ct; color Not recorded; clarity Not recorded; metal 14K YG; chain Unknown",
+        "$970.00",
+        "Community reference",
+        "Date Sep 01, 2026; Historical comparison",
+        "Native base 970 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q027",
+          "href": "records/sourcing.html#q027"
+        },
+        "Tianyu Gems / Tianyu (V007)",
+        "Oval bezel pendant; Oval 3 ct; color Not recorded; clarity Not recorded; metal 14K YG; chain Unknown",
+        "$1,018.00",
+        "Community reference",
+        "Date Sep 01, 2026; Historical comparison",
+        "Native base 1018 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q028",
+          "href": "records/sourcing.html#q028"
+        },
+        "StarsGem / Starsgem / StarsGem (V001)",
+        "Oval bezel pendant; Oval 3 ct; color Not recorded; clarity Not recorded; metal 14K YG; chain Unknown",
+        "$860.00",
+        "Community reference",
+        "Date Sep 01, 2026; Historical comparison",
+        "Native base 860 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q029",
+          "href": "records/sourcing.html#q029"
+        },
+        "Provence Jewelry / Provence (V002)",
+        "Oval bezel pendant; Oval 3 ct; color Not recorded; clarity Not recorded; metal 14K YG; chain Unknown",
+        "$952.00",
+        "Community reference",
+        "Date Sep 01, 2026; Historical comparison",
+        "Native base 952 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not recorded.",
+        "Not recorded"
+      ],
+      [
+        {
+          "text": "Q030",
+          "href": "records/sourcing.html#q030"
+        },
+        "PDM GEMS / PDM GEMS (V015)",
+        "Oval pendant (specs to confirm); Oval 2 ct; color D/E (not fixed); clarity VS2; metal 14K YG (RFQ; confirm); chain No (seller says no chain)",
+        "$390.00",
+        "Conditional / confirm",
+        "Date Nov 11, 2026; Direct Alibaba chat",
+        "Native base 390 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not quoted; assumed 14K and 2ct from RFQ, not explicit in price text.",
+        "Precise diamond carat/color/report; full 14K finished pendant inclusion, gram weight, bail, CAD, shipping, DAP/DDP"
+      ],
+      [
+        {
+          "text": "Q031",
+          "href": "records/sourcing.html#q031"
+        },
+        "PDM GEMS / PDM GEMS (V015)",
+        "Oval pendant (specs to confirm); Oval 2 ct; color D/E (not fixed); clarity VS1; metal 14K YG (RFQ; confirm); chain No (seller says no chain)",
+        "$415.00",
+        "Conditional / confirm",
+        "Date Nov 11, 2026; Direct Alibaba chat",
+        "Native base 415 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not quoted; assumed 14K and 2ct from RFQ, not explicit in price text.",
+        "VS1 IGI report for exact diamond; 14K finished pendant and shipping"
+      ],
+      [
+        {
+          "text": "Q032",
+          "href": "records/sourcing.html#q032"
+        },
+        "Shenzhen Zhuangyee Culture Co., Ltd. / JOHN ZHUANG (V016)",
+        "Oval solitaire pendant; Oval 2 ct; color D; clarity VS1; metal 14K YG; chain No",
+        "$688.00",
+        "Current / verify",
+        "Date Nov 11, 2026; Direct Alibaba chat",
+        "Native base 688 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Shipping not quoted.",
+        "Actual IGI report and weight; total with freight; design and gold grams"
+      ],
+      [
+        {
+          "text": "Q033",
+          "href": "records/sourcing.html#q033"
+        },
+        "Shenzhen Hanchen Jewelry Co., Ltd. / Han Chen (V004)",
+        "Oval solitaire pendant WITH chain; Oval 2 ct; color D; clarity VS1; metal 14K YG; chain Yes",
+        "$695.00",
+        "Current / verify",
+        "Date Nov 10, 2026; Direct Alibaba message",
+        "Native base 695 USD; CAD/fees Not recorded; freight Not recorded; delivered estimate Not recorded; shipping basis: Not quoted; do not infer zero freight.",
+        "IGI report # and exact stone; chain length/width/weight, solid 585 hallmark; pendant and chain actual gold grams; shipping/DAP/duties; CAD; final invoice; return/remake policy"
+      ],
+      [
+        {
+          "text": "Q034",
+          "href": "records/sourcing.html#q034"
+        },
+        "Wuzhou Qianao Jewelry Co., Ltd. / liang xuan (V020)",
+        "Custom four-prong oval pendant requested; Oval 2 ct; color Not recorded; clarity Not recorded; metal 14K YG (seller claims solid); chain No",
+        "$235.00",
+        "Conditional / identity verify",
+        "Date Nov 10, 2026; Direct Alibaba RFQ chat",
+        "Native base 235 USD; CAD/fees Not recorded; freight 0; delivered estimate 235; shipping basis: Shipping included by seller; duty/incoterm unclear.",
+        "Identity/business license and Provence affiliation; stone IGI report #, 2ct oval grading/color/clarity, solid 585 gold and net grams; finished total weight; CAD/prong+bail; deposit/returns and DAP/DDP import responsibility"
+      ],
+      [
+        {
+          "text": "Add. 01",
+          "href": "records/sourcing.html#quotes-and-updates-not-present-in-the-nov-11-v4-quote-rows"
+        },
+        "Better Star / Jerry Zhang (V017)",
+        "2.0 ct oval D VS2 IGI claimed, solid 14K YG pendant (no chain indicated)",
+        "$412",
+        "Supplemental record",
+        "See source notes",
+        "Direct Nov 12 WhatsApp; approx. 1 g gold; 50% deposit; CAD 1-2 days; production 5-7 working days; shipping fee not provided.",
+        ""
+      ],
+      [
+        {
+          "text": "Add. 02",
+          "href": "records/sourcing.html#quotes-and-updates-not-present-in-the-nov-11-v4-quote-rows"
+        },
+        "Tianyu / Nancy (V007)",
+        "14K variant / exact oval design not fully reconstructed",
+        "$555 + $40 shipping",
+        "Supplemental record",
+        "See source notes",
+        "From prior conversation dated Nov 6; historical; verify complete configuration.",
+        ""
+      ],
+      [
+        {
+          "text": "Add. 03",
+          "href": "records/sourcing.html#quotes-and-updates-not-present-in-the-nov-11-v4-quote-rows"
+        },
+        "Tianyu / Nancy (V007)",
+        "10K variant / exact oval design not fully reconstructed",
+        "$465",
+        "Supplemental record",
+        "See source notes",
+        "Historical; verify chain, IGI and freight.",
+        ""
+      ],
+      [
+        {
+          "text": "Add. 04",
+          "href": "records/sourcing.html#quotes-and-updates-not-present-in-the-nov-11-v4-quote-rows"
+        },
+        "Paston / Joyce (V012)",
+        "Pendant only",
+        "$595",
+        "Supplemental record",
+        "See source notes",
+        "Historical quote; no clear shared IGI details.",
+        ""
+      ],
+      [
+        {
+          "text": "Add. 05",
+          "href": "records/sourcing.html#quotes-and-updates-not-present-in-the-nov-11-v4-quote-rows"
+        },
+        "Paston / Joyce (V012)",
+        "Pendant plus chain",
+        "$979 + $30 shipping",
+        "Supplemental record",
+        "See source notes",
+        "Historical quote, configuration uncertain.",
+        ""
+      ],
+      [
+        {
+          "text": "Add. 06",
+          "href": "records/sourcing.html#quotes-and-updates-not-present-in-the-nov-11-v4-quote-rows"
+        },
+        "Fiorese / Cici (V006)",
+        "2 ct pendant configuration",
+        "$850",
+        "Supplemental record",
+        "See source notes",
+        "From Nov 6 comparison, distinct from historical round $580 source.",
+        ""
+      ],
+      [
+        {
+          "text": "Add. 07",
+          "href": "records/sourcing.html#quotes-and-updates-not-present-in-the-nov-11-v4-quote-rows"
+        },
+        "Fiorese / Cici (V006)",
+        "1.5 ct pendant configuration",
+        "$690",
+        "Supplemental record",
+        "See source notes",
+        "From Nov 6 comparison, distinct from other Fiorese records.",
+        ""
+      ],
+      [
+        {
+          "text": "Add. 08",
+          "href": "records/sourcing.html#quotes-and-updates-not-present-in-the-nov-11-v4-quote-rows"
+        },
+        "Kuololit / Sam",
+        "1.5 ct 18K pendant / necklace spec uncertain",
+        "$750",
+        "Supplemental record",
+        "See source notes",
+        "From prior Nov 6 comparison.",
+        ""
+      ],
+      [
+        {
+          "text": "Add. 09",
+          "href": "records/sourcing.html#quotes-and-updates-not-present-in-the-nov-11-v4-quote-rows"
+        },
+        "Provence / Daisy (V002)",
+        "1.5 ct F VS1 IGI necklace with chain, shipped",
+        "$560",
+        "Supplemental record",
+        "See source notes",
+        "From another prior conversation; differs from Q010 and must be separately validated.",
+        ""
+      ],
+      [
+        {
+          "text": "Add. 10",
+          "href": "records/sourcing.html#quotes-and-updates-not-present-in-the-nov-11-v4-quote-rows"
+        },
+        "StarsGem prior delivered order (V001)",
+        "Reported actual payment",
+        "$401.58",
+        "Prior payment report",
+        "See source notes",
+        "Earlier resale discussion. Not necessarily equal to separate $446.82 checkout quote Q017; reconcile receipts.",
+        ""
+      ],
+      [
+        {
+          "text": "Q035",
+          "href": "../markdown-viewer.html?file=research/tonglin-pendant-pricing-review.md"
+        },
+        "Tonglin Industrial Co., Limited / Fannie (V005)",
+        "2.04 ct E/VS1 lab-grown oval, solid 14K YG, visible-bail four-prong pendant, no chain",
+        "$474.49",
+        "PI summarized in supplied note",
+        "2026-11-13 · pendant subtotal",
+        "CAD/wax $20 included. $45 DAP freight brings the quote to $519.49 before buyer charges.",
+        "Original PI, exact IGI report and video, gold-only weight and price cap, deposit credit, insured freight."
+      ]
+    ]
+  },
+  "market": {
+    "label": "Market leads",
+    "columns": [
+      "Company",
+      "Record",
+      "Priority",
+      "Advertised ranges",
+      "Rating snapshot",
+      "Archived contact",
+      "Marketplace link"
+    ],
+    "note": "73 November 4 marketplace leads. Names and groups are as captured. Ranges are attached by matching the legal string in the product listings. Missing prices reflect the evidence available.",
+    "rows": [
+      [
+        {
+          "text": "Guangxi Wuzhou Starsgem Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #1",
+        "Group A",
+        "—",
+        "4.9 / 5; 325 reviews; 11 y",
+        "Annie Liao (current contact)",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://starsgems.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Guangzhou Provence Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #2",
+        "Group A",
+        "$660-$800, $1200-$1400",
+        "4.9 / 5; 61 reviews; 5 y",
+        "Daisy: daisy@provencejewellery.com | WhatsApp +86 19172108802; Jason: +86 191 2733 9258",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://gzprovence.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Henan Stars Lab Grown Diamond Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #3",
+        "Group A",
+        "—",
+        "4.8 / 5; 174 reviews; 2 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/product-detail/Wholesale-IGI-Certified-Lab-Grown-Diamonds_1601418376917.html"
+        }
+      ],
+      [
+        {
+          "text": "Guangxi Wuzhou Brilliant Jewelry Co.,Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #4",
+        "Group A",
+        "$390-$455, $368-$510",
+        "4.9 / 5; 106 reviews; 2 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://brilliantjewellery.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Zhuhai Rinntin Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #5",
+        "Group A",
+        "$212.13-$1084.49",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://rinntin.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Shenzhen Anster Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #6",
+        "Group A",
+        "$436-$874",
+        "4.9 / 5; 71 reviews; 6 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://ansterjewelry.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Zhengzhou Zhongyuan District Qinglong Jewelry Firm",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #7",
+        "Group A",
+        "$Not recorded-$Not recorded",
+        "4.9 / 5; 81 reviews; 3 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://qinglongjewelry.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Wuzhou Fancy Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #8",
+        "Group A",
+        "—",
+        "4.8 / 5; 417 reviews; 8 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://suppliers.alibaba.com/wuzhou-fancy-jewelry-co-ltd_2206582297731"
+        }
+      ],
+      [
+        {
+          "text": "Gray Commercial (Yancheng) Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #9",
+        "Group A",
+        "—",
+        "4.8 / 5; 246 reviews; 3 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Gray%20Commercial%20%28Yancheng%29%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Wuzhou Messi Gems Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #10",
+        "Group A",
+        "—",
+        "4.9 / 5; 415 reviews; 8 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://suppliers.alibaba.com/wuzhou-messi-gems-co-ltd_2205558999394"
+        }
+      ],
+      [
+        {
+          "text": "Henan Qishi Technology Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #11",
+        "Group B",
+        "$569-$953",
+        "4.7 / 5; 16 reviews; 4 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://cnqsdz.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Guangxi Wuzhou Zuanfu Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #12",
+        "Group B",
+        "—",
+        "4.8 / 5; 339 reviews; 4 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangxi%20Wuzhou%20Zuanfu%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Guangxi Wuzhou Paxima Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #13",
+        "Group B",
+        "—",
+        "4.9 / 5; 40 reviews; 2 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangxi%20Wuzhou%20Paxima%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Guangxi Wuzhou Glinting Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #14",
+        "Group B",
+        "—",
+        "4.9 / 5; 111 reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangxi%20Wuzhou%20Glinting%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Shenzhen Maiyi Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #15",
+        "Group B",
+        "—",
+        "4.7 / 5; 14 reviews; 5 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shenzhen%20Maiyi%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Zhengzhou Chenjing International Trade Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #16",
+        "Group B",
+        "—",
+        "4.8 / 5; 65 reviews; 3 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Zhengzhou%20Chenjing%20International%20Trade%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Wuzhou Zuanfa Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #17",
+        "Group B",
+        "—",
+        "4.7 / 5; 1139 reviews; 16 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://zuanfa.en.alibaba.com/index.html"
+        }
+      ],
+      [
+        {
+          "text": "Wuzhou Redleaf Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #18",
+        "Group B",
+        "—",
+        "4.8 / 5; 148 reviews; 8 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Wuzhou%20Redleaf%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Guangzhou Mishang Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #19",
+        "Group B",
+        "—",
+        "4.9 / 5; 199 reviews; 4 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangzhou%20Mishang%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #20",
+        "Group B",
+        "$71.9-$365, $200-$400, $100.73-$985",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://lordanijewelry.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Shenzhen Chasau Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #21",
+        "Group C",
+        "—",
+        "4.8 / 5; 363 reviews; 4 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shenzhen%20Chasau%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Wuzhou Zhengyong Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #22",
+        "Group C",
+        "—",
+        "4.8 / 5; 91 reviews; 18 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Wuzhou%20Zhengyong%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Yiwu Daochong Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #23",
+        "Group C",
+        "$80-$300",
+        "5 / 5; 3 reviews; 11 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://93silver.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Guangzhou Vlove Jewellery Limited",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #24",
+        "Group C",
+        "$994-$994",
+        "3.8 / 5; 13 reviews; 10 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://vlovejewellery.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Jiangxi Solen Tenth High-Tech Materials Technology Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #25",
+        "Group C",
+        "—",
+        "5 / 5; 3 reviews; 6 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Jiangxi%20Solen%20Tenth%20High-Tech%20Materials%20Technology%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Guangxi Wuzhou Starsgem Co., Limited",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #26",
+        "Group C",
+        "—",
+        "4.8 / 5; 103 reviews; 8 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangxi%20Wuzhou%20Starsgem%20Co.%2C%20Limited"
+        }
+      ],
+      [
+        {
+          "text": "1000S Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #27",
+        "Group C",
+        "—",
+        "4.7 / 5; 29 reviews; 23 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=1000S%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "EXCELLENT CORPORATION",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #28",
+        "Group C",
+        "—",
+        "4.9 / 5; 4 reviews; 11 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=EXCELLENT%20CORPORATION"
+        }
+      ],
+      [
+        {
+          "text": "Shenzhen Leqi Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #29",
+        "Group C",
+        "—",
+        "4.9 / 5; 32 reviews; 4 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shenzhen%20Leqi%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "V B ARTS",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #30",
+        "Group C",
+        "—",
+        "4.9 / 5; 14 reviews; 11 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=V%20B%20ARTS"
+        }
+      ],
+      [
+        {
+          "text": "Henan Huacan Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #31",
+        "Group C",
+        "$540-$1103",
+        "5 / 5; 2 reviews; 2 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://huacandiamonds.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Shenzhen Qingcheng Jewelry Technology Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #32",
+        "Group C",
+        "—",
+        "4.9 / 5; 98 reviews; 3 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shenzhen%20Qingcheng%20Jewelry%20Technology%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Shenzhen Hammer Jewelry Company Limited",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #33",
+        "Group C",
+        "—",
+        "4.7 / 5; 17 reviews; 5 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shenzhen%20Hammer%20Jewelry%20Company%20Limited"
+        }
+      ],
+      [
+        {
+          "text": "GEMVER",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #34",
+        "Group C",
+        "—",
+        "4.9 / 5; 15 reviews; 5 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=GEMVER"
+        }
+      ],
+      [
+        {
+          "text": "SHENZHEN DG JEWELRY COMPANY LIMITED",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #35",
+        "Group C",
+        "—",
+        "4.4 / 5; 7 reviews; 6 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=SHENZHEN%20DG%20JEWELRY%20COMPANY%20LIMITED"
+        }
+      ],
+      [
+        {
+          "text": "SPARKLING SPLENDOR",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #36",
+        "Group C",
+        "—",
+        "4.9 / 5; 22 reviews; 3 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=SPARKLING%20SPLENDOR"
+        }
+      ],
+      [
+        {
+          "text": "STAR EXPORT",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #37",
+        "Group C",
+        "—",
+        "5 / 5; 8 reviews; 2 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=STAR%20EXPORT"
+        }
+      ],
+      [
+        {
+          "text": "Sichuan Chuangao Jewelry Design Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #38",
+        "Group C",
+        "—",
+        "4.8 / 5; 19 reviews; 3 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Sichuan%20Chuangao%20Jewelry%20Design%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Shanghai Goldstones Jewelry Co.,Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #39",
+        "Group C",
+        "—",
+        "4.8 / 5; 17 reviews; 5 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Shanghai%20Goldstones%20Jewelry%20Co.%2CLtd."
+        }
+      ],
+      [
+        {
+          "text": "SHREERAJ SOLITAIRE",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #40",
+        "Group C",
+        "—",
+        "4.9 / 5; 24 reviews; 2 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=SHREERAJ%20SOLITAIRE"
+        }
+      ],
+      [
+        {
+          "text": "ARIES JEWEL",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #41",
+        "Group C",
+        "$Not recorded-$Not recorded",
+        "5 / 5; 2 reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://in1575832517qyjh.trustpass.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "MESSI GEMS (H.K) CO., LIMITED",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #42",
+        "Group C",
+        "—",
+        "4.9 / 5; 54 reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=MESSI%20GEMS%20%28H.K%29%20CO.%2C%20LIMITED"
+        }
+      ],
+      [
+        {
+          "text": "HEERAK DIAMOND",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #43",
+        "Group C",
+        "$Not recorded-$Not recorded",
+        "4.4 / 5; 10 reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://in19065402689hgqz.trustpass.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Guangzhou Ruizuan Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #44",
+        "Group C",
+        "—",
+        "5 / 5; 3 reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Guangzhou%20Ruizuan%20Jewelry%20Co.%2C%20Ltd."
+        }
+      ],
+      [
+        {
+          "text": "Provence Industrial Co., Limited",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #45",
+        "Group C",
+        "—",
+        "4.7 / 5; 45 reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=Provence%20Industrial%20Co.%2C%20Limited"
+        }
+      ],
+      [
+        {
+          "text": "ZYORIO JEWELS",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #46",
+        "Group C",
+        "—",
+        "5 / 5; 5 reviews; 2 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=ZYORIO%20JEWELS"
+        }
+      ],
+      [
+        {
+          "text": "RAAMAA",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #47",
+        "Group C",
+        "—",
+        "4.8 / 5; 5 reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=RAAMAA"
+        }
+      ],
+      [
+        {
+          "text": "VABS DIAMOND",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #48",
+        "Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; 2 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=VABS%20DIAMOND"
+        }
+      ],
+      [
+        {
+          "text": "ZEMERRA JEWELS PRIVATE LIMITED",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #49",
+        "Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; 2 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=ZEMERRA%20JEWELS%20PRIVATE%20LIMITED"
+        }
+      ],
+      [
+        {
+          "text": "GEUM JEWELS LLP",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #50",
+        "Group C",
+        "—",
+        "4.8 / 5; 9 reviews; 4 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=GEUM%20JEWELS%20LLP"
+        }
+      ],
+      [
+        {
+          "text": "MANTRA DIAMOND",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #51",
+        "Group C",
+        "—",
+        "5 / 5; 6 reviews; 3 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=MANTRA%20DIAMOND"
+        }
+      ],
+      [
+        {
+          "text": "SATVIK RATNA",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #52",
+        "Group C",
+        "—",
+        "5 / 5; 2 reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=SATVIK%20RATNA"
+        }
+      ],
+      [
+        {
+          "text": "VIMLESH BADAYA FINE JEWELLERY",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #53",
+        "Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=VIMLESH%20BADAYA%20FINE%20JEWELLERY"
+        }
+      ],
+      [
+        {
+          "text": "KRISHNAVII",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #54",
+        "Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=KRISHNAVII"
+        }
+      ],
+      [
+        {
+          "text": "LOISTA JEWELS",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #55",
+        "Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=LOISTA%20JEWELS"
+        }
+      ],
+      [
+        {
+          "text": "Guangzhou Mira Jewelry Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #56",
+        "Group C",
+        "$109-$469",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://mirajewelry.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Zhengzhou Shining Stone New Material Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #57",
+        "Group C",
+        "$500-$800",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://shiningstone.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "DIVYA CREATIONS",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #58",
+        "Group C",
+        "$448.76-$448.76",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://divyacreations.trustpass.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "ZISMA JEWELLERY",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #59",
+        "Group C",
+        "$252-$992",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://in19069116260birl.trustpass.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "URSH DIAMOND",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #60",
+        "Group C",
+        "$152-$1675",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://in1576044651rqyz.trustpass.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Zhengzhou Limo Import And Export Trading Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #61",
+        "Group C",
+        "$699-$1899",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://cnlimo.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "Shanghai Guadalupe International Trading Co., Ltd.",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #62",
+        "Group C",
+        "$298-$958",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://cngulalu.en.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "AMEYKA",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #63",
+        "Group C",
+        "$1034.96-$1034.96",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://ameyka.trustpass.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "VEGA-NY JEWELS PRIVATE LIMITED",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #64",
+        "Group C",
+        "$500-$1300",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://in1354095475xyrb.trustpass.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "NANCY DIAMOND",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #65",
+        "Group C",
+        "$Not recorded-$Not recorded",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://in1576579877cvjl.trustpass.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "RK INTERNATIONAL",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #66",
+        "Group C",
+        "$Not recorded-$Not recorded",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://in1576289788eimq.trustpass.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "KRUP JEWELS",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #67",
+        "Group C",
+        "$179-$599",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://in19081485844osdp.trustpass.alibaba.com/company_profile.html"
+        }
+      ],
+      [
+        {
+          "text": "CHORDIA JEWELS",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #68",
+        "Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; 5 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=CHORDIA%20JEWELS"
+        }
+      ],
+      [
+        {
+          "text": "SHIV PATH",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #69",
+        "Group C",
+        "—",
+        "4.8 / 5; 3 reviews; 2 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=SHIV%20PATH"
+        }
+      ],
+      [
+        {
+          "text": "S VIRVADIYA EXPORT",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #70",
+        "Group C",
+        "—",
+        "4.8 / 5; 2 reviews; 2 y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=S%20VIRVADIYA%20EXPORT"
+        }
+      ],
+      [
+        {
+          "text": "MADHAVI DIAM",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #71",
+        "Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=MADHAVI%20DIAM"
+        }
+      ],
+      [
+        {
+          "text": "RAMS JEWELS",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #72",
+        "Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=RAMS%20JEWELS"
+        }
+      ],
+      [
+        {
+          "text": "RAMSA DIAMOND AND JEWELLERY LLP",
+          "href": "records/sourcing.html#10-earlier-market-scan-all-73-supplier-records"
+        },
+        "Market scan #73",
+        "Group C",
+        "—",
+        "Not recorded / 5; Not recorded reviews; Not recorded y",
+        "Not captured",
+        {
+          "text": "Archived storefront / search",
+          "href": "https://www.alibaba.com/trade/search?SearchText=RAMSA%20DIAMOND%20AND%20JEWELLERY%20LLP"
+        }
+      ]
+    ]
+  },
+  "listings": {
+    "label": "Catalog listings",
+    "columns": [
+      "Product ID",
+      "Company",
+      "Advertised name",
+      "Displayed range and MOQ",
+      "Variant caveats",
+      "Next check",
+      "Link"
+    ],
+    "note": "28 distinct listings. The scan captured no configured SKU prices. Use the metal and variant notes to screen leads.",
+    "rows": [
+      [
+        {
+          "text": "1601394464819",
+          "href": "records/sourcing.html#product-1601394464819"
+        },
+        "Guangzhou Provence Jewelry Co., Ltd.",
+        "Hot Selling Products 10k 14k 18k Gold Necklace F VVS2 Iced Out Chain Oval Cut Non Tarnish Necklace for Woman Minimalist Jewelry",
+        "$660-$800; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 2",
+        "Stones: Not recorded; metals: 10k yellow gold+lab diamond necklace; 14k yellow gold+lab diamond necklace; 18k yellow gold+lab diamond necklace. No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Hot-Selling-Products-10k-14k-18k_1601394464819.html"
+        }
+      ],
+      [
+        {
+          "text": "1601232477701",
+          "href": "records/sourcing.html#product-1601232477701"
+        },
+        "Guangzhou Provence Jewelry Co., Ltd.",
+        "Luxury 14K Solid Gold Bezel Setting Lab Created Diamond Solitaire Necklace Bead Chain IGI Certified Oval Lab Diamond Necklace",
+        "$1200-$1400; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 5",
+        "Stones: Not recorded; metals: real solid 14k gold lab diamond necklace. No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Luxury-14K-Solid-Gold-Bezel-Setting_1601232477701.html"
+        }
+      ],
+      [
+        {
+          "text": "1601585951576",
+          "href": "records/sourcing.html#product-1601585951576"
+        },
+        "Guangxi Wuzhou Brilliant Jewelry Co.,Ltd.",
+        "Custom IGI Certified 1 2 3 Carat VS1 Lab Diamond CVD HPHT Necklace Pendant for Women Men Jewelry 10k 14k 18k Solid Gold Oval Cut",
+        "$390-$455; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 3",
+        "Stones: 0.52CT D VS1 HPHT/CVD; 1CT D VS1 HPHT/CVD; metals: 10k White Gold; 10k Yellow Gold. Listing also says GOLD PLATED; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Custom-IGI-Certified-1-2-3_1601585951576.html"
+        }
+      ],
+      [
+        {
+          "text": "1601600195964",
+          "href": "records/sourcing.html#product-1601600195964"
+        },
+        "Guangxi Wuzhou Brilliant Jewelry Co.,Ltd.",
+        "2025 Hot Sale 1ct 2ct 3ct Oval Cut D VS1 IGI Certified HPHT CVD Lab Grown Diamond 40+5cm 14k Solid Gold Diamond Necklace",
+        "$368-$510; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 3",
+        "Stones: 1.0ct D VS1 IGI; 2.0ct D VS1 IGI; metals: 10k White Gold; 10k Yellow Gold. Listing also says GOLD PLATED; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/2025-Hot-Sale-1ct-2ct-3ct_1601600195964.html"
+        }
+      ],
+      [
+        {
+          "text": "1601867561820",
+          "href": "records/sourcing.html#product-1601867561820"
+        },
+        "Zhuhai Rinntin Jewelry Co., Ltd.",
+        "New Trendy Luxury Jewelry 10K 14K 18K Gold Oval Cut Lab Grown Diamond Pendant Necklace for Gift Daily Women With IGI Certified",
+        "$212.13-$1084.49; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 2",
+        "Stones: Oval 0.78CT (5*7mm) DEF/VVS-VS Lab-grown Diamond; Oval 1.53CT (6.59*9.3mm) D/VVS2 Lab-grown Diamond; Oval 3.01CT (8.26*11.29mm) D/VVS2 Lab-grown Diamond; metals: 10K soild gold; 14K soild gold; 18K soild gold; 925 sterling silver. Silver option present; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/New-Trendy-Luxury-Jewelry-10K-14K_1601867561820.html"
+        }
+      ],
+      [
+        {
+          "text": "1601523145900",
+          "href": "records/sourcing.html#product-1601523145900"
+        },
+        "Shenzhen Anster Jewelry Co., Ltd.",
+        "IGI Lab Grown Diamond Necklace 18k Gold 3ct DEF VVS Claw Setting Pendant Pear Oval Heart Round Emerald Cut Lab Diamond Necklace",
+        "$436-$874; MOQ Minimum order quantity: 1 unit; 1.5ct selectable? NO; captures 3",
+        "Stones: Not recorded; metals: Round cut; Emerald cut; Pear cut; Heart cut; Oval cut. Listing also says GOLD PLATED; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/IGI-Lab-Grown-Diamond-Necklace-18k_1601523145900.html"
+        }
+      ],
+      [
+        {
+          "text": "1601760469787",
+          "href": "records/sourcing.html#product-1601760469787"
+        },
+        "Zhengzhou Zhongyuan District Qinglong Jewelry Firm",
+        "Oval Cut Lab Grown Diamond Halo Necklace 0.5ct 1.0ct Classic Pendant 18K White Gold 14K Gold Unisex Fine Jewelry",
+        "$Not recorded-$Not recorded; MOQ Not recorded; 1.5ct selectable? NO; captures 5",
+        "Stones: Not recorded; metals: Gold. \"Filled\" wording needs clarification; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Oval-Cut-Lab-Grown-Diamond-Halo_1601760469787.html"
+        }
+      ],
+      [
+        {
+          "text": "1601566444114",
+          "href": "records/sourcing.html#product-1601566444114"
+        },
+        "Henan Qishi Technology Co., Ltd.",
+        "Hot Sale 1ct-3ct Oval Cut Lab Grown VS1 IGI Diamonds 14k Yellow Gold Jewelry Necklace Pendent",
+        "$569-$953; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 5",
+        "Stones: Not recorded; metals: 14k white gold; 14k rose gold; 14k yellow gold. No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Hot-Sale-1ct-3ct-Oval-Cut_1601566444114.html"
+        }
+      ],
+      [
+        {
+          "text": "1601825621710",
+          "href": "records/sourcing.html#product-1601825621710"
+        },
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "IGI Certificate Diamond Pendant 10K 14K 18K Real Gold 1-4ct Fancy CVD HPHT Lab Made Diamond Solitaire Pendants Necklace",
+        "$71.9-$365; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 4",
+        "Stones: Not recorded; metals: style1; style 2; style 3; style 4; style 5; style 6. Listing also says GOLD PLATED; \"Filled\" wording needs clarification; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/IGI-Certificate-Diamond-Pendant-10K-14K_1601825621710.html"
+        }
+      ],
+      [
+        {
+          "text": "1601883128872",
+          "href": "records/sourcing.html#product-1601883128872"
+        },
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "2.0 Ct Oval Cut Lab Grown Diamond Necklace Bezel Set Oval Cut White Diamond Pendant Solitaire 14k Yellow Gold Chain Necklace",
+        "$200-$400; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 3",
+        "Stones: Not recorded; metals: style1; style 2; style 3; style 4; style 5; style 6. Listing also says GOLD PLATED; \"Filled\" wording needs clarification; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/2-0-Ct-Oval-Cut-Lab_1601883128872.html"
+        }
+      ],
+      [
+        {
+          "text": "1601860196432",
+          "href": "records/sourcing.html#product-1601860196432"
+        },
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Detachable Pendant 10K 14k 18K Gold 1ct DEF VVS-VSC IGI Certified Solitaire Lab Diamond Pendant Necklace",
+        "$100.73-$985; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 3",
+        "Stones: Not recorded; metals: style1; style 2; style 3; style 4; style 5; style 6. Listing also says GOLD PLATED; \"Filled\" wording needs clarification; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Detachable-Pendant-10K-14k-18K-Gold_1601860196432.html"
+        }
+      ],
+      [
+        {
+          "text": "1700000506058",
+          "href": "records/sourcing.html#product-1700000506058"
+        },
+        "Yiwu Daochong Jewelry Co., Ltd.",
+        "14K Gold Custom Real Diamond Pendant Necklace Jewelry",
+        "$80-$300; MOQ Minimum order quantity: 10 pieces; 1.5ct selectable? NO; captures 2",
+        "Stones: custom; metals: 14k Gold; 14k White Gold; 14k Rose Gold. Listing also says GOLD PLATED; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/14K-Gold-Custom-Real-Diamond-Pendant_1700000506058.html"
+        }
+      ],
+      [
+        {
+          "text": "1601704571925",
+          "href": "records/sourcing.html#product-1601704571925"
+        },
+        "Guangzhou Vlove Jewellery Limited",
+        "1 Carat Pendent 14k Gold Lab Diamond Wedding Engagement Fine Jewelry Necklaces 2026 Men Women 585 Gold Jewelry Wholesale",
+        "$994-$994; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 1",
+        "Stones: 1 Ctw; metals: Pear Cut/Emerald Cut/Pear Cut. No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/1-Carat-Pendent-14k-Gold-Lab_1601704571925.html"
+        }
+      ],
+      [
+        {
+          "text": "1601523281531",
+          "href": "records/sourcing.html#product-1601523281531"
+        },
+        "Henan Huacan Jewelry Co., Ltd.",
+        "Oval Lab Grown Diamond Pendant Necklace Classic Engagement Wedding Party Gift Diamond Necklace 14K 18K PT950 Link Chain",
+        "$540-$1103; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 1",
+        "Stones: Not recorded; metals: 18K yellow gold. No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Oval-Lab-Grown-Diamond-Pendant-Necklace_1601523281531.html"
+        }
+      ],
+      [
+        {
+          "text": "10000042218677",
+          "href": "records/sourcing.html#product-10000042218677"
+        },
+        "ARIES JEWEL",
+        "Minimalist 14K Solid Gold IGI Certified 2 CT Oval Cut Prong Set Lab Diamond Solitaire Pendant Necklace for Women Party Gift",
+        "$Not recorded-$Not recorded; MOQ Not recorded; 1.5ct selectable? NO; captures 4",
+        "Stones: Not recorded; metals: Yellow Gold; Rose Gold; White Gold. No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Minimalist-14K-Solid-Gold-IGI-Certified_10000042218677.html"
+        }
+      ],
+      [
+        {
+          "text": "10000043134466",
+          "href": "records/sourcing.html#product-10000043134466"
+        },
+        "HEERAK DIAMOND",
+        "Elegant Oval Cut Lab Grown Diamond Drop Pendant 14K Gold Minimalist Necklace for Women",
+        "$Not recorded-$Not recorded; MOQ Not recorded; 1.5ct selectable? NO; captures 4",
+        "Stones: Not recorded; metals: Gold. Listing also says GOLD PLATED; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Elegant-Oval-Cut-Lab-Grown-Diamond_10000043134466.html"
+        }
+      ],
+      [
+        {
+          "text": "1601811404831",
+          "href": "records/sourcing.html#product-1601811404831"
+        },
+        "Guangzhou Mira Jewelry Co., Ltd.",
+        "14K Rose Gold Classic Design Pendants 2 Ctw Oval Lab Grown Diamond Solitaire East-West Pendant Necklace",
+        "$109-$469; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 1",
+        "Stones: Not recorded; metals: Gold. Listing also says GOLD PLATED; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/14K-Rose-Gold-Classic-Design-Pendants_1601811404831.html"
+        }
+      ],
+      [
+        {
+          "text": "1601857352572",
+          "href": "records/sourcing.html#product-1601857352572"
+        },
+        "Zhengzhou Shining Stone New Material Co., Ltd.",
+        "Lab Diamonds Necklace 18k Gold Necklace Diamond Diamond Name Chain Necklace Jewelry Oval Cut",
+        "$500-$800; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 4",
+        "Stones: Not recorded; metals: White. No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Lab-Diamonds-Necklace-18k-Gold-Necklace_1601857352572.html"
+        }
+      ],
+      [
+        {
+          "text": "10000034428527",
+          "href": "records/sourcing.html#product-10000034428527"
+        },
+        "DIVYA CREATIONS",
+        "High Quality 1ct Lab Grown EF Clarity Diamond 14k Yellow Gold Solid Gold Necklace IGI Certified Trendy VS Color Chain for",
+        "$448.76-$448.76; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 1",
+        "Stones: Not recorded; metals: modern. No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/High-Quality-1ct-Lab-Grown-EF_10000034428527.html"
+        }
+      ],
+      [
+        {
+          "text": "10000039463146",
+          "href": "records/sourcing.html#product-10000039463146"
+        },
+        "ZISMA JEWELLERY",
+        "IGI Certified 1ct Lab Grown Diamond Necklace 925 Silver 14K Solid Gold DEF VVS2 Oval Solitaire Pendant Jewelry Manufacturer",
+        "$252-$992; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 6",
+        "Stones: 1 Carat; metals: White; Yellow; Rose. Listing also says GOLD PLATED; Silver option present; \"Filled\" wording needs clarification; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/IGI-Certified-1ct-Lab-Grown-Diamond_10000039463146.html"
+        }
+      ],
+      [
+        {
+          "text": "10000046805760",
+          "href": "records/sourcing.html#product-10000046805760"
+        },
+        "URSH DIAMOND",
+        "1Ct Oval Cut Lab Grown Diamond Solitaire Pendant Necklace 14k Solid Gold Prong Set Dainty Minimalist Layering Chain IGI",
+        "$152-$1675; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 2",
+        "Stones: Not recorded; metals: 925 Silver; 10K Solid Gold; 14K Solid Gold; 18K Solid Gold. Listing also says GOLD PLATED; Silver option present; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/1Ct-Oval-Cut-Lab-Grown-Diamond_10000046805760.html"
+        }
+      ],
+      [
+        {
+          "text": "1601906032260",
+          "href": "records/sourcing.html#product-1601906032260"
+        },
+        "Zhengzhou Limo Import And Export Trading Co., Ltd.",
+        "2CT 3CT 4CT 5CT Oval Cut Lab Grown Diamond Pendant Necklace IGI Certified 14K 18K Gold Custom Wholesale",
+        "$699-$1899; MOQ Minimum order quantity: 1 unit; 1.5ct selectable? NO; captures 2",
+        "Stones: Not recorded; metals: Pink; White; Yellow. No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/2CT-3CT-4CT-5CT-Oval-Cut_1601906032260.html"
+        }
+      ],
+      [
+        {
+          "text": "1601860171129",
+          "href": "records/sourcing.html#product-1601860171129"
+        },
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Women's Minimalist Oval Lab Created Diamond Solitaire Pendant 14K 18K Gold Delicate IGI Certified Necklace Sparkly Daily Jewelry",
+        "$298-$958; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 11",
+        "Stones: Not recorded; metals: Gold. No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Women-s-Minimalist-Oval-Lab-Created_1601860171129.html"
+        }
+      ],
+      [
+        {
+          "text": "12000002772730",
+          "href": "records/sourcing.html#product-12000002772730"
+        },
+        "AMEYKA",
+        "Radiant Prong Set West To East Oval Lab Grown Diamond Solitaire Necklace 1.00 Ct E-F VS 14K Gold For Bridal Anniversary Gift",
+        "$1034.96-$1034.96; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 2",
+        "Stones: Not recorded; metals: Yellow gold; White gold. No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Radiant-Prong-Set-West-To-East_12000002772730.html"
+        }
+      ],
+      [
+        {
+          "text": "10000050564825",
+          "href": "records/sourcing.html#product-10000050564825"
+        },
+        "VEGA-NY JEWELS PRIVATE LIMITED",
+        "14K Yellow Gold Oval Cut Solitaire Pendant Necklace with Brilliant Sparkling Stone - Elegant Minimalist Fine Gold Jewelry",
+        "$500-$1300; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 2",
+        "Stones: 2.260; metals: Gold. Listing also says GOLD PLATED; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/14K-Yellow-Gold-Oval-Cut-Solitaire_10000050564825.html"
+        }
+      ],
+      [
+        {
+          "text": "10000050830098",
+          "href": "records/sourcing.html#product-10000050830098"
+        },
+        "NANCY DIAMOND",
+        "Breathtaking Oval Solitaire Lab Grown Diamond IGI Certified Women's 14K Yellow Gold Statement Necklace with Elegant Fine Jewelry",
+        "$Not recorded-$Not recorded; MOQ Not recorded; 1.5ct selectable? NO; captures 5",
+        "Stones: Not recorded; metals: Gold; White; Silver. Silver option present; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Quote only",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Breathtaking-Oval-Solitaire-Lab-Grown-Diamond_10000050830098.html"
+        }
+      ],
+      [
+        {
+          "text": "10000045447473",
+          "href": "records/sourcing.html#product-10000045447473"
+        },
+        "RK INTERNATIONAL",
+        "3 Carat Oval Cut Lab Grown Diamond Solitaire Pendant Rhodium Plated 14K IGI Certified Filled Diamonds Women's Classic Luxury",
+        "$Not recorded-$Not recorded; MOQ Not recorded; 1.5ct selectable? NO; captures 2",
+        "Stones: Not recorded; metals: Gold; White; Rose Gold. Listing also says GOLD PLATED; \"Filled\" wording needs clarification; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/3-Carat-Oval-Cut-Lab-Grown_10000045447473.html"
+        }
+      ],
+      [
+        {
+          "text": "10000045726882",
+          "href": "records/sourcing.html#product-10000045726882"
+        },
+        "KRUP JEWELS",
+        "Lab Grown Diamond Filled 0.75 CT Oval Solitaire Necklace Dainty Gold Classic Minimalist Pendant 14k 18k Women's Gift Party",
+        "$179-$599; MOQ Minimum order quantity: 1 piece; 1.5ct selectable? NO; captures 6",
+        "Stones: Not recorded; metals: Gold. \"Filled\" wording needs clarification; No selectable 1.5ct verified; Selected SKU price NOT captured",
+        "Research carefully",
+        {
+          "text": "Marketplace",
+          "href": "https://www.alibaba.com/product-detail/Lab-Grown-Diamond-Filled-0-75_10000045726882.html"
+        }
+      ]
+    ]
+  },
+  "variants": {
+    "label": "Listing variants",
+    "columns": [
+      "Capture",
+      "Product ID",
+      "Company",
+      "Variant",
+      "Display range",
+      "Conflict"
+    ],
+    "note": "94 raw combinations, with intentional repeats of product IDs. Catalog endpoints can refer to silver, plating, different stones, or a bulk tier.",
+    "rows": [
+      [
+        "1",
+        "1601825621710",
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Color: style1 | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$71.9-$365",
+        "Gold plated field"
+      ],
+      [
+        "2",
+        "1601825621710",
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Color: style 5 | Diamond Carat Weight: 1-4CT D Color Lab Grown Diamond With IGI | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$71.9-$365",
+        "Gold plated field"
+      ],
+      [
+        "3",
+        "1601825621710",
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Color: style 3 | Diamond Carat Weight: 1-4CT D Color Lab Grown Diamond With IGI | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$71.9-$365",
+        "Gold plated field"
+      ],
+      [
+        "4",
+        "1601825621710",
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Color: style 4 | Diamond Carat Weight: 1-4CT D Color Lab Grown Diamond With IGI | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$71.9-$365",
+        "Gold plated field"
+      ],
+      [
+        "5",
+        "1601883128872",
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Color: style1 | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$200-$400",
+        "Gold plated field"
+      ],
+      [
+        "6",
+        "1601585951576",
+        "Guangxi Wuzhou Brilliant Jewelry Co.,Ltd.",
+        "Color: 10k White Gold | Diamond Carat Weight: 0.52CT D VS1 HPHT/CVD | Diamond Cut: Excellent",
+        "$390-$455",
+        "Gold plated field"
+      ],
+      [
+        "7",
+        "1601600195964",
+        "Guangxi Wuzhou Brilliant Jewelry Co.,Ltd.",
+        "Color: 10k White Gold | Diamond Carat Weight: 1.0ct D VS1 IGI | Diamond Cut: Excellent",
+        "$368-$510",
+        "Gold plated field"
+      ],
+      [
+        "8",
+        "1601860196432",
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Color: style1 | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$100.73-$985",
+        "Gold plated field"
+      ],
+      [
+        "9",
+        "1601867561820",
+        "Zhuhai Rinntin Jewelry Co., Ltd.",
+        "Color: Gold | Design: 10K soild gold | Diamond Carat Weight: Oval 0.78CT (5*7mm) DEF/VVS-VS Lab-grown Diamond",
+        "$212.13-$1084.49",
+        "Not recorded"
+      ],
+      [
+        "10",
+        "1601394464819",
+        "Guangzhou Provence Jewelry Co., Ltd.",
+        "Color: 10k yellow gold+lab diamond necklace | Diamond Clarity: VVS2 | Diamond Cut: Excellent",
+        "$660-$800",
+        "Not recorded"
+      ],
+      [
+        "11",
+        "1601811404831",
+        "Guangzhou Mira Jewelry Co., Ltd.",
+        "Color: Gold | Length: 18inches",
+        "$109-$469",
+        "Gold plated field"
+      ],
+      [
+        "12",
+        "1601857352572",
+        "Zhengzhou Shining Stone New Material Co., Ltd.",
+        "Color: White | Diamond Clarity: VS1 | Diamond Cut: Very Good",
+        "$500-$800",
+        "Not recorded"
+      ],
+      [
+        "13",
+        "1601883128872",
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Color: style 5 | Diamond Carat Weight: 1-4CT D Color Lab Grown Diamond With IGI | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$200-$400",
+        "Gold plated field"
+      ],
+      [
+        "14",
+        "1601585951576",
+        "Guangxi Wuzhou Brilliant Jewelry Co.,Ltd.",
+        "Color: 10k Yellow Gold | Diamond Carat Weight: 0.52CT D VS1 HPHT/CVD | Diamond Cut: Excellent | Length: 18inches",
+        "$390-$455",
+        "Gold plated field"
+      ],
+      [
+        "15",
+        "1601600195964",
+        "Guangxi Wuzhou Brilliant Jewelry Co.,Ltd.",
+        "Color: 10k Yellow Gold | Diamond Carat Weight: 1.0ct D VS1 IGI | Diamond Cut: Excellent | Length: 40+5CM",
+        "$368-$510",
+        "Gold plated field"
+      ],
+      [
+        "16",
+        "1601860196432",
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Color: style 5 | Diamond Carat Weight: 1-4CT D Color Lab Grown Diamond With IGI | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$100.73-$985",
+        "Gold plated field"
+      ],
+      [
+        "17",
+        "1601867561820",
+        "Zhuhai Rinntin Jewelry Co., Ltd.",
+        "Color: Gold | Design: 10K soild gold | Diamond Carat Weight: Oval 1.53CT (6.59*9.3mm) D/VVS2 Lab-grown Diamond",
+        "$212.13-$1084.49",
+        "Not recorded"
+      ],
+      [
+        "18",
+        "1601394464819",
+        "Guangzhou Provence Jewelry Co., Ltd.",
+        "Color: 18k yellow gold+lab diamond necklace | Diamond Carat Weight: 2-6carat | Diamond Clarity: VVS2 | Diamond Cut: Excellent | Length: 16inch",
+        "$660-$800",
+        "Not recorded"
+      ],
+      [
+        "19",
+        "1601857352572",
+        "Zhengzhou Shining Stone New Material Co., Ltd.",
+        "Color: White | Design: Emerald Cut | Diamond Carat Weight: 1ct | Diamond Clarity: VS1 | Diamond Cut: Very Good",
+        "$500-$800",
+        "Not recorded"
+      ],
+      [
+        "20",
+        "1601857352572",
+        "Zhengzhou Shining Stone New Material Co., Ltd.",
+        "Color: White | Design: Emerald Cut | Diamond Carat Weight: 1ct | Diamond Clarity: VS2 | Diamond Cut: Very Good",
+        "$500-$800",
+        "Not recorded"
+      ],
+      [
+        "21",
+        "1601857352572",
+        "Zhengzhou Shining Stone New Material Co., Ltd.",
+        "Color: White | Design: Emerald Cut | Diamond Carat Weight: 1ct | Diamond Clarity: VS2 | Diamond Cut: Excellent",
+        "$500-$800",
+        "Not recorded"
+      ],
+      [
+        "22",
+        "10000043134466",
+        "HEERAK DIAMOND",
+        "Color: Gold | Diamond Clarity: VS1 | Diamond Cut: Very Good",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "23",
+        "1601704571925",
+        "Guangzhou Vlove Jewellery Limited",
+        "Color: Pear Cut/Emerald Cut/Pear Cut | Diamond Carat Weight: 1 Ctw",
+        "$994-$994",
+        "Not recorded"
+      ],
+      [
+        "24",
+        "10000034428527",
+        "DIVYA CREATIONS",
+        "Color: Yellow Gold | Design: modern | Length: custom",
+        "$448.76-$448.76",
+        "Not recorded"
+      ],
+      [
+        "25",
+        "10000039463146",
+        "ZISMA JEWELLERY",
+        "Color: White | Diamond Carat Weight: 1 Carat | Diamond Clarity: VVS2",
+        "$252-$992",
+        "Gold plated field"
+      ],
+      [
+        "26",
+        "10000046805760",
+        "URSH DIAMOND",
+        "Color: 925 Silver | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$152-$1675",
+        "Gold plated field"
+      ],
+      [
+        "27",
+        "1601906032260",
+        "Zhengzhou Limo Import And Export Trading Co., Ltd.",
+        "Color: Pink | Diamond Clarity: VS1 | Diamond Cut: Very Good",
+        "$699-$1899",
+        "Not recorded"
+      ],
+      [
+        "28",
+        "1601523281531",
+        "Henan Huacan Jewelry Co., Ltd.",
+        "Color: 18K yellow gold",
+        "$540-$1103",
+        "Not recorded"
+      ],
+      [
+        "29",
+        "1601860171129",
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Color: Gold | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$298-$958",
+        "Not recorded"
+      ],
+      [
+        "30",
+        "1601760469787",
+        "Zhengzhou Zhongyuan District Qinglong Jewelry Firm",
+        "Color: Gold | Diamond Clarity: VS1 | Diamond Cut: Good",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "31",
+        "10000042218677",
+        "ARIES JEWEL",
+        "Color: Yellow Gold | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "32",
+        "12000002772730",
+        "AMEYKA",
+        "Color: Yellow gold | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$1034.96-$1034.96",
+        "Not recorded"
+      ],
+      [
+        "33",
+        "10000050564825",
+        "VEGA-NY JEWELS PRIVATE LIMITED",
+        "Color: Gold | Diamond Carat Weight: 2.260 | Diamond Cut: Excellent",
+        "$500-$1300",
+        "Gold plated field"
+      ],
+      [
+        "34",
+        "10000050830098",
+        "NANCY DIAMOND",
+        "Color: Gold | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "35",
+        "1601232477701",
+        "Guangzhou Provence Jewelry Co., Ltd.",
+        "Color: real solid 14k gold lab diamond necklace | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$1200-$1400",
+        "Not recorded"
+      ],
+      [
+        "36",
+        "10000045447473",
+        "RK INTERNATIONAL",
+        "Color: Gold | Diamond Clarity: VVS2 | Diamond Cut: Excellent",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "37",
+        "10000045726882",
+        "KRUP JEWELS",
+        "Color: Gold | Diamond Clarity: VVS2 | Diamond Cut: Excellent",
+        "$179-$599",
+        "Not recorded"
+      ],
+      [
+        "38",
+        "1601566444114",
+        "Henan Qishi Technology Co., Ltd.",
+        "Color: 14k white gold | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$569-$953",
+        "Not recorded"
+      ],
+      [
+        "39",
+        "1601523145900",
+        "Shenzhen Anster Jewelry Co., Ltd.",
+        "Color: 18k White | Design: Round cut | Length: 18inches",
+        "$436-$874",
+        "Not recorded"
+      ],
+      [
+        "40",
+        "1700000506058",
+        "Yiwu Daochong Jewelry Co., Ltd.",
+        "Color: 14k Gold | Diamond Carat Weight: custom | Length: 18inches",
+        "$80-$300",
+        "Gold plated field"
+      ],
+      [
+        "41",
+        "1700000506058",
+        "Yiwu Daochong Jewelry Co., Ltd.",
+        "Color: 14k White Gold | Diamond Carat Weight: custom | Length: 18inches",
+        "$80-$300",
+        "Gold plated field"
+      ],
+      [
+        "42",
+        "1601523145900",
+        "Shenzhen Anster Jewelry Co., Ltd.",
+        "Color: 18k Gold | Design: Round cut | Length: 18inches",
+        "$436-$874",
+        "Not recorded"
+      ],
+      [
+        "43",
+        "1601523145900",
+        "Shenzhen Anster Jewelry Co., Ltd.",
+        "Color: 18k White | Design: Round cut | Length: 20inches",
+        "$436-$874",
+        "Not recorded"
+      ],
+      [
+        "44",
+        "1601566444114",
+        "Henan Qishi Technology Co., Ltd.",
+        "Color: 14k rose gold | Diamond Carat Weight: 1CT/IGI/D | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$569-$953",
+        "Not recorded"
+      ],
+      [
+        "45",
+        "1601566444114",
+        "Henan Qishi Technology Co., Ltd.",
+        "Color: 14k white gold | Diamond Carat Weight: 1CT/IGI/D | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$569-$953",
+        "Not recorded"
+      ],
+      [
+        "46",
+        "1601566444114",
+        "Henan Qishi Technology Co., Ltd.",
+        "Color: 14k white gold | Diamond Carat Weight: 2CT/IGI/E | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$569-$953",
+        "Not recorded"
+      ],
+      [
+        "47",
+        "1601566444114",
+        "Henan Qishi Technology Co., Ltd.",
+        "Color: 14k white gold | Diamond Carat Weight: 3CT/IGI/E | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$569-$953",
+        "Not recorded"
+      ],
+      [
+        "48",
+        "10000045447473",
+        "RK INTERNATIONAL",
+        "Color: White | Diamond Carat Weight: 3 carat | Diamond Clarity: VVS2 | Diamond Cut: Excellent | Length: 18inches",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "49",
+        "10000045726882",
+        "KRUP JEWELS",
+        "Color: Gold | Design: 925 Sterling Silver | Diamond Carat Weight: 0.75 CT | Diamond Clarity: VVS2 | Diamond Cut: Excellent | Length: Custom",
+        "$179-$599",
+        "Not recorded"
+      ],
+      [
+        "50",
+        "10000045726882",
+        "KRUP JEWELS",
+        "Color: Gold | Design: 10k gold | Diamond Carat Weight: 0.75 CT | Diamond Clarity: VVS2 | Diamond Cut: Excellent | Length: Custom",
+        "$179-$599",
+        "Not recorded"
+      ],
+      [
+        "51",
+        "10000045726882",
+        "KRUP JEWELS",
+        "Color: Gold | Design: 14k gold | Diamond Carat Weight: 0.75 CT | Diamond Clarity: VVS2 | Diamond Cut: Excellent | Length: Custom",
+        "$179-$599",
+        "Not recorded"
+      ],
+      [
+        "52",
+        "10000045726882",
+        "KRUP JEWELS",
+        "Color: Gold | Design: 18k gold | Diamond Carat Weight: 0.75 CT | Diamond Clarity: VVS2 | Diamond Cut: Excellent | Length: Custom",
+        "$179-$599",
+        "Not recorded"
+      ],
+      [
+        "53",
+        "10000045726882",
+        "KRUP JEWELS",
+        "Color: Gold | Design: Platinum | Diamond Carat Weight: 0.75 CT | Diamond Clarity: VVS2 | Diamond Cut: Excellent | Length: Custom",
+        "$179-$599",
+        "Not recorded"
+      ],
+      [
+        "54",
+        "1601232477701",
+        "Guangzhou Provence Jewelry Co., Ltd.",
+        "Color: real solid 14k gold lab diamond necklace | Diamond Carat Weight: 2.0CT D VS1 | Diamond Clarity: VS1 | Diamond Cut: Excellent | Length: 16inch",
+        "$1200-$1400",
+        "Not recorded"
+      ],
+      [
+        "55",
+        "1601232477701",
+        "Guangzhou Provence Jewelry Co., Ltd.",
+        "Color: real solid 14k gold lab diamond necklace | Diamond Carat Weight: 2.0CT D VS1 | Diamond Clarity: VS1 | Diamond Cut: Excellent | Length: 18inch",
+        "$1200-$1400",
+        "Not recorded"
+      ],
+      [
+        "56",
+        "1601232477701",
+        "Guangzhou Provence Jewelry Co., Ltd.",
+        "Color: real solid 14k gold lab diamond necklace | Diamond Carat Weight: 2.0CT D VS1 | Diamond Clarity: VS1 | Diamond Cut: Excellent | Length: 20inch",
+        "$1200-$1400",
+        "Not recorded"
+      ],
+      [
+        "57",
+        "1601232477701",
+        "Guangzhou Provence Jewelry Co., Ltd.",
+        "Color: real solid 14k gold lab diamond necklace | Diamond Carat Weight: 2.0CT D VS1 | Diamond Clarity: VS1 | Diamond Cut: Excellent | Length: 22inch",
+        "$1200-$1400",
+        "Not recorded"
+      ],
+      [
+        "58",
+        "10000050830098",
+        "NANCY DIAMOND",
+        "Color: White | Diamond Carat Weight: 0.9ct | Diamond Clarity: VS1 | Diamond Cut: Excellent | Length: 18inches",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "59",
+        "10000050830098",
+        "NANCY DIAMOND",
+        "Color: White | Diamond Carat Weight: 0.9ct | Diamond Clarity: VS2 | Diamond Cut: Excellent | Length: 18inches",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "60",
+        "10000050830098",
+        "NANCY DIAMOND",
+        "Color: White | Diamond Carat Weight: 0.9ct | Diamond Clarity: VVS1 | Diamond Cut: Excellent | Length: 18inches",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "61",
+        "10000050830098",
+        "NANCY DIAMOND",
+        "Color: White | Diamond Carat Weight: 0.9ct | Diamond Clarity: VVS1 | Diamond Cut: Excellent | Length: 16inches",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "62",
+        "10000050564825",
+        "VEGA-NY JEWELS PRIVATE LIMITED",
+        "Color: Gold | Design: 10KT | Diamond Carat Weight: 2.260 | Diamond Cut: Excellent",
+        "$500-$1300",
+        "Gold plated field"
+      ],
+      [
+        "63",
+        "12000002772730",
+        "AMEYKA",
+        "Color: Yellow gold | Design: SOLTAIRE NECKLACE | Diamond Carat Weight: 1.00 CT | Diamond Clarity: VS1 | Diamond Cut: Excellent | Length: customised",
+        "$1034.96-$1034.96",
+        "Not recorded"
+      ],
+      [
+        "64",
+        "1601760469787",
+        "Zhengzhou Zhongyuan District Qinglong Jewelry Firm",
+        "Color: Gold | Diamond Carat Weight: 1-3CT | Diamond Clarity: VS1 | Diamond Cut: Good",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "65",
+        "1601760469787",
+        "Zhengzhou Zhongyuan District Qinglong Jewelry Firm",
+        "Color: Gold | Diamond Carat Weight: 1-3CT | Diamond Clarity: VS1 | Diamond Cut: Very Good",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "66",
+        "1601760469787",
+        "Zhengzhou Zhongyuan District Qinglong Jewelry Firm",
+        "Color: Gold | Diamond Carat Weight: 1-3CT | Diamond Clarity: VS2 | Diamond Cut: Very Good",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "67",
+        "1601760469787",
+        "Zhengzhou Zhongyuan District Qinglong Jewelry Firm",
+        "Color: Gold | Diamond Carat Weight: 1-3CT | Diamond Clarity: VVS1 | Diamond Cut: Very Good",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "68",
+        "10000042218677",
+        "ARIES JEWEL",
+        "Color: White Gold | Design: Customise | Diamond Carat Weight: Customise | Diamond Clarity: VS1 | Diamond Cut: Excellent | Length: 16inches",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "69",
+        "10000042218677",
+        "ARIES JEWEL",
+        "Color: White Gold | Design: Customise | Diamond Carat Weight: Customise | Diamond Clarity: VVS1 | Diamond Cut: Excellent | Length: 16inches",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "70",
+        "10000042218677",
+        "ARIES JEWEL",
+        "Color: Rose Gold | Design: Customise | Diamond Carat Weight: Customise | Diamond Clarity: VVS1 | Diamond Cut: Excellent | Length: 16inches",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "71",
+        "1601860171129",
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Color: Gold | Diamond Carat Weight: 0.5ct | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$298-$958",
+        "Not recorded"
+      ],
+      [
+        "72",
+        "1601860171129",
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Color: Gold | Diamond Carat Weight: 0.5ct | Diamond Clarity: VS2 | Diamond Cut: Excellent",
+        "$298-$958",
+        "Not recorded"
+      ],
+      [
+        "73",
+        "1601860171129",
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Color: Gold | Diamond Carat Weight: 0.5ct | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$298-$958",
+        "Not recorded"
+      ],
+      [
+        "74",
+        "1601860171129",
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Color: Gold | Diamond Carat Weight: 0.5ct | Diamond Clarity: VVS2 | Diamond Cut: Excellent",
+        "$298-$958",
+        "Not recorded"
+      ],
+      [
+        "75",
+        "1601860171129",
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Color: Gold | Diamond Carat Weight: 2ct | Diamond Clarity: VVS2 | Diamond Cut: Excellent",
+        "$298-$958",
+        "Not recorded"
+      ],
+      [
+        "76",
+        "1601860171129",
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Color: Gold | Diamond Carat Weight: 1ct | Diamond Clarity: VVS2 | Diamond Cut: Excellent",
+        "$298-$958",
+        "Not recorded"
+      ],
+      [
+        "77",
+        "1601860171129",
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Color: Gold | Diamond Carat Weight: 1ct | Diamond Clarity: VS2 | Diamond Cut: Excellent",
+        "$298-$958",
+        "Not recorded"
+      ],
+      [
+        "78",
+        "1601860171129",
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Color: Gold | Diamond Carat Weight: 1ct | Diamond Clarity: VS1 | Diamond Cut: Excellent",
+        "$298-$958",
+        "Not recorded"
+      ],
+      [
+        "79",
+        "1601860171129",
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Color: Gold | Diamond Carat Weight: 1ct | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$298-$958",
+        "Not recorded"
+      ],
+      [
+        "80",
+        "1601860171129",
+        "Shanghai Guadalupe International Trading Co., Ltd.",
+        "Color: Gold | Diamond Carat Weight: 2ct | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$298-$958",
+        "Not recorded"
+      ],
+      [
+        "81",
+        "1601906032260",
+        "Zhengzhou Limo Import And Export Trading Co., Ltd.",
+        "Color: Pink | Diamond Carat Weight: 2ct | Diamond Clarity: VS1 | Diamond Cut: Very Good | Length: 18inches(45.72cm)",
+        "$699-$1899",
+        "Not recorded"
+      ],
+      [
+        "82",
+        "10000046805760",
+        "URSH DIAMOND",
+        "Color: 925 Silver | Design: Oval Cut Lab Grown Diamond Pendant Necklaces | Diamond Carat Weight: 1 Ct | Diamond Clarity: VVS1 | Diamond Cut: Excellent | Length: Custom",
+        "$152-$1675",
+        "Gold plated field"
+      ],
+      [
+        "83",
+        "10000039463146",
+        "ZISMA JEWELLERY",
+        "Color: Yellow | Design: 925 S Silver | Diamond Carat Weight: 1 Carat | Diamond Clarity: VVS2",
+        "$252-$992",
+        "Gold plated field"
+      ],
+      [
+        "84",
+        "10000039463146",
+        "ZISMA JEWELLERY",
+        "Color: White | Design: 925 S Silver | Diamond Carat Weight: 1 Carat | Diamond Clarity: VVS2",
+        "$252-$992",
+        "Gold plated field"
+      ],
+      [
+        "85",
+        "10000039463146",
+        "ZISMA JEWELLERY",
+        "Color: Rose | Design: 925 S Silver | Diamond Carat Weight: 1 Carat | Diamond Clarity: VVS2",
+        "$252-$992",
+        "Gold plated field"
+      ],
+      [
+        "86",
+        "10000039463146",
+        "ZISMA JEWELLERY",
+        "Color: Rose | Design: 14k Solid Gold | Diamond Carat Weight: 1 Carat | Diamond Clarity: VVS2",
+        "$252-$992",
+        "Gold plated field"
+      ],
+      [
+        "87",
+        "10000039463146",
+        "ZISMA JEWELLERY",
+        "Color: White | Design: 14k Solid Gold | Diamond Carat Weight: 1 Carat | Diamond Clarity: VVS2",
+        "$252-$992",
+        "Gold plated field"
+      ],
+      [
+        "88",
+        "10000043134466",
+        "HEERAK DIAMOND",
+        "Color: Gold | Diamond Carat Weight: To be confirmed based on final production specifications | Diamond Clarity: VS1 | Diamond Cut: Very Good | Length: Customize length available",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "89",
+        "10000043134466",
+        "HEERAK DIAMOND",
+        "Color: Gold | Diamond Carat Weight: To be confirmed based on final production specifications | Diamond Clarity: VS2 | Diamond Cut: Very Good | Length: Customize length available",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "90",
+        "10000043134466",
+        "HEERAK DIAMOND",
+        "Color: Gold | Diamond Carat Weight: To be confirmed based on final production specifications | Diamond Clarity: VS2 | Diamond Cut: Excellent | Length: Customize length available",
+        "$Not recorded-$Not recorded",
+        "Not recorded"
+      ],
+      [
+        "91",
+        "1601860196432",
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Color: style1 | Diamond Carat Weight: 1-4CT D Color Lab Grown Diamond With IGI | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$100.73-$985",
+        "Gold plated field"
+      ],
+      [
+        "92",
+        "1601600195964",
+        "Guangxi Wuzhou Brilliant Jewelry Co.,Ltd.",
+        "Color: 10k White Gold | Diamond Carat Weight: 1.0ct D VS1 IGI | Diamond Cut: Excellent | Length: 40+5CM",
+        "$368-$510",
+        "Gold plated field"
+      ],
+      [
+        "93",
+        "1601585951576",
+        "Guangxi Wuzhou Brilliant Jewelry Co.,Ltd.",
+        "Color: 10k White Gold | Diamond Carat Weight: 0.52CT D VS1 HPHT/CVD | Diamond Cut: Excellent | Length: 18inches",
+        "$390-$455",
+        "Gold plated field"
+      ],
+      [
+        "94",
+        "1601883128872",
+        "Guangxi Wuzhou Lordani Jewelry Co., Ltd.",
+        "Color: style1 | Diamond Carat Weight: 1-4CT D Color Lab Grown Diamond With IGI | Diamond Clarity: VVS1 | Diamond Cut: Excellent",
+        "$200-$400",
+        "Gold plated field"
+      ]
+    ]
+  },
+  "reviews": {
+    "label": "Buyer feedback",
+    "columns": [
+      "Company or thread",
+      "Archived date",
+      "Reported experience",
+      "Piece, price and context",
+      "Source"
+    ],
+    "note": "Archived buyer and community reports in the sourcing dossier. Gold, silver, moissanite and lab-diamond projects each retain their original descriptions.",
+    "rows": [
+      [
+        "LGG",
+        "2026-02-07",
+        "Positive completed custom",
+        "1.31ct 10K white gold ring. $679 buyer paid; Romy handled stones/CAD/updates",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1qynd59/lgg_reviewits_here/"
+        }
+      ],
+      [
+        "LGG",
+        "2026-05-08",
+        "Positive multi-buyer feedback",
+        "Custom rings. Romy/Lynn cited as responsive and precise",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1t7885p/choosing_a_chinese_vendor/"
+        }
+      ],
+      [
+        "LGG",
+        "2026-07-09",
+        "Mixed gold-weight discussion",
+        "14K lab diamond bracelet. Buyers praised LGG; a gold-weight issue discussed and buyers urged confirming weight",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1urdlx8/recent_chinese_vendor_quality_comparison_lgg/"
+        }
+      ],
+      [
+        "Starsgem",
+        "2025-11-13",
+        "Positive completed purchases",
+        "4 pieces in 10K and 14K with lab diamonds. Demi praised; multiple examples including bracelets/rings",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1owaojc/starsgem_review_multiple_items_1st_time_buyer/"
+        }
+      ],
+      [
+        "Starsgem",
+        "2025-11-12",
+        "Positive completed custom",
+        "2ct 18K lab diamond ring. Annie praised, under $1k, about 3 weeks",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1ouwitg/starsgem_custom_order_review/"
+        }
+      ],
+      [
+        "Starsgem",
+        "2025-08-19",
+        "Positive completed studs",
+        "1.5 ctw 18K lab diamond studs. Annie group buy praised for setting, speed and quality",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1mul602/starsgem_studs_earring_review/"
+        }
+      ],
+      [
+        "Starsgem",
+        "2026-06-10",
+        "Major complaint",
+        "10K lab diamond tennis bracelet. Buyer claimed stone size/length differed; won disputed chargeback by Aug",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1u273m9/beware_and_verify_your_starsgem_tennis_bracelet/"
+        }
+      ],
+      [
+        "Starsgem",
+        "2026-07-29",
+        "Mixed comparison",
+        "Custom lab diamond pieces. Less expensive than LGG/Provence/Fiorese; buyers recommend simple designs",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1v9v8qp/starsgem_vs_the_other_overseas_vendors/"
+        }
+      ],
+      [
+        "Fiorese",
+        "2026-07-10",
+        "Positive completed pendant",
+        "2ct F VVS1 IGI ideal cut pendant. $580 paid with Cici; chain not confirmed; number later changed",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1usas35/round_diamond_pendant/"
+        }
+      ],
+      [
+        "Fiorese",
+        "2026-06-24",
+        "High quoted cost",
+        "3ct antique asscher +14K ring. $3,211 quote, far higher than some competitor expectations",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1uegn23/fiorese_cost/"
+        }
+      ],
+      [
+        "Fiorese",
+        "2026-06-09",
+        "Mixed completed custom",
+        "1ct pink diamond 18K ceramic/sapphire ring. $1,175 paid; buyer regretted stone appearance/proportions",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1u13a1l/growing_pains_regrets_and_lessons_from_my_first/"
+        }
+      ],
+      [
+        "Tianyu",
+        "2026-08-22",
+        "Positive representative feedback",
+        "Custom necklace and rings. Several owners recommend Maggie",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/Moissanite/comments/1vvqqyc/anyone_have_experience_with_this_rep_for_tianyu/"
+        }
+      ],
+      [
+        "Tianyu",
+        "2026-02-15",
+        "Major complaint",
+        "Custom moissanite tennis necklace. $3k necklace had flipping/misalignment; buyer completed chargeback",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/Moissanite/comments/1r5pgqb/terrible_experience_with_tianyu_and_sue/"
+        }
+      ],
+      [
+        "Provence",
+        "2026-09-01",
+        "Positive completed pendant",
+        "10K gold lab-diamond OEC pendant. Buyer praised Betty and speed/quality; 17 days to finished",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/ProvenceJewelry/comments/1w41cx2/first_experiences_and_review_signet_ring_oec/"
+        }
+      ],
+      [
+        "Provence",
+        "2026-04-18",
+        "Multiple QC problems",
+        "8+ mixed family custom pieces. Claimed inconsistent prongs/setting/CAD quality and poor delivery",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/LabDiamonds/comments/1sood42/mixed_experience_with_provence_my_honest_review/"
+        }
+      ],
+      [
+        "Provence",
+        "2024-08-02",
+        "Community warning",
+        "Mixed custom jewelry. Subreddit posted proceed-with-caution notice after repeated complaints",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/MoissaniteCreations/comments/1ei9ykr/"
+        }
+      ],
+      [
+        "Provence",
+        "2026-10-16",
+        "Positive collection",
+        "Multiple 10K pieces. Buyer praised Jane after several orders",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/ProvenceJewelry/comments/1x778di/the_year_i_discovered_provence_haul_and_review/"
+        }
+      ],
+      [
+        "Kuololit",
+        "2026-02-02",
+        "Positive custom",
+        "Moissanite ring. Buyer pleased with custom result; moissanite, not lab diamond",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/Moissanite/comments/1qu4t4a/custom_kuololit_ring_video_came/"
+        }
+      ],
+      [
+        "Kuololit",
+        "2026-08-02",
+        "QC concerns",
+        "Ring return / replacement. First stone had white dots; replacement had protruding prong",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/Moissanite/comments/1vdncvb/kuololit_return_update_for_those_of_you_who/"
+        }
+      ],
+      [
+        "DovEggs",
+        "2026-06-17",
+        "Positive purchased 10K lab",
+        "10K lab-diamond band. Buyer paid $402 incl tax/shipping group buy",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/LabDiamonds/comments/1u8ncou/doveggs_and_provence_gbs_came_in_today_i_love_both/"
+        }
+      ],
+      [
+        "DovEggs",
+        "2026-04-27",
+        "Positive repeat customer",
+        "Custom platinum jewelry. Buyer reported many orders and good service/quality",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1sxc01m/antique_vibes_with_a_modern_flair/"
+        }
+      ],
+      [
+        "Paston",
+        "2026-10-01",
+        "Positive cross-vendor comparison",
+        "Custom rings (mixed stone types). Buyer praises Fiorese, LGG, Provence and Paston",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/Moissanite/comments/1wuwrue/should_we_just_go_for_the_cheaper_chinese_options/"
+        }
+      ],
+      [
+        "Wuzhou Fancy",
+        "2026-09-05",
+        "Positive purchase, silver",
+        "42.39ct lab-diamond tennis necklace in 925 silver. $3,400, Allison praised; not solid gold",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1w8dcj9/my_favorite_piece/"
+        }
+      ],
+      [
+        "Messi Gems",
+        "2026-01-20",
+        "Positive loose-stone purchase",
+        "Loose diamond. Buyer liked product; mixed rep communication",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/Moissanite/comments/1emduxb/messi_gems_experience/"
+        }
+      ],
+      [
+        "Henan Stars",
+        "2026-07-24",
+        "Buyer-reported quote/purchase",
+        "1.5ct oval 14K pendant. $510 shipped negotiated from $560; chain not confirmed",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1v5cql1/15_carat_pendant_necklace_in_14k_yellow_gold/"
+        }
+      ],
+      [
+        "Ouros / Golden Bird",
+        "2026-03-08",
+        "Major complaint",
+        "Custom overseas order. Buyer claimed shipping-loss and refund problems; repeated complaints in comments",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/LabDiamonds/comments/1rok62s/working_with_ouros_golden_bird_is_a_nightmare/"
+        }
+      ],
+      [
+        "Across vendors",
+        "2026-09-05",
+        "Four quotes compared",
+        "3ct 14K gold oval bezel pendant. Starsgem $860 / Provence $952 / Fiorese $970 / Tianyu $1018",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/Moissanite/comments/1w7p8ny/provence_vs_tianyu_vs_fiorese_vs_starsgem/"
+        }
+      ],
+      [
+        "Across vendors",
+        "2026-07-24",
+        "Buyer request and prices",
+        "1.5ct 14K pendant with 18-inch chain. $1300 retail ballpark, Fiorese 2ct $580 anecdote in comments, Henan Stars $510",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1v5cql1/15_carat_pendant_necklace_in_14k_yellow_gold/"
+        }
+      ],
+      [
+        "Across vendors",
+        "2026-01-28",
+        "Gold weight concern",
+        "Custom gold jewelry. Buyer reported 5.36g final vs 6.7g agreed, a 20% gap",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/Moissanite/comments/1qp5uq3/20_less_gold/"
+        }
+      ],
+      [
+        "Tonglin Suky",
+        "Later archive",
+        "Buyer or community account",
+        "custom pink diamond signet-style ring (Mar 2025). Positive buyer completed-order update; historical buyer reported CAD, production, final ring and actual-gold repricing. Source",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1j9wpoc/"
+        }
+      ],
+      [
+        "Tonglin Ashley Li",
+        "Later archive",
+        "Buyer or community account",
+        "custom oval moissanite ring (Mar 2023). Positive first-person purchase, different time and possibly company entity. Source",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/Moissanite/comments/11r5afa/"
+        }
+      ],
+      [
+        "Better Star",
+        "Later archive",
+        "Buyer or community account",
+        "custom 4.01 ct lab diamond ring (Mar 2023). Positive buyer report; largely prior rep Summer, not Jerry. Source",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/Moissanite/comments/11xc51s/"
+        }
+      ],
+      [
+        "Better Star",
+        "Later archive",
+        "Buyer or community account",
+        "14K diamond studs (Mar 2023). Positive seller review including settings and Alibaba payment. Source",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labdiamond/comments/11f042m/"
+        }
+      ],
+      [
+        "Better Star",
+        "Later archive",
+        "Buyer or community account",
+        "2.1 ct oval 18K custom ring (Nov 2023). Positive buyer experience, CAD through delivery ~3 weeks. Source",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/labcreateddiamonds/comments/17v9usx/"
+        }
+      ],
+      [
+        "Provence / Qianao payment entity discussion",
+        "Later archive",
+        "Buyer or community account",
+        "circa 2025). User pasted discussion titled “Provence Payment Help!” in which buyers reported Guangzhou/Wuzhou Qianao invoices for Provence. Source",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/Moissanite/"
+        }
+      ],
+      [
+        "Provence / Wuzhou Qianao billing name",
+        "Later archive",
+        "Buyer or community account",
+        "Aug 2026). Multiple buyer reports that their Provence Alibaba recipient was Wuzhou Qianao; corporate ownership unverified. Source",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/ProvenceJewelry/comments/1vq5b4q/alibaba_pay/"
+        }
+      ],
+      [
+        "Provence custom 2 ct 14K pendant buyer",
+        "Later archive",
+        "Buyer or community account",
+        "Jul 2026). Buyer's price reported $507 + $35 shipping; not same specs as $235 Qianao claim. Source",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/ProvenceJewelry/comments/1v2ce2z/tamara_appreciation_post/"
+        }
+      ],
+      [
+        "Payoneer + Chase manufacturer dispute",
+        "Later archive",
+        "Buyer or community account",
+        "Feb 2026). Buyer claimed Chase denied recovery after $1,429 Payoneer card-funded transfer; unverified anecdote. Source",
+        {
+          "text": "Archived post",
+          "href": "https://www.reddit.com/r/payoneer/comments/1qyecdt/"
+        }
+      ]
+    ]
+  },
+  "tennis": {
+    "label": "Tennis jewelry",
+    "columns": [
+      "Seller / case",
+      "Configuration / offer",
+      "Amount or limitation"
+    ],
+    "note": "Eight purchase, quote, and retail examples plus seven group-buy leads. Bracelet, necklace, dated promotion, USD, and AUD records each keep their original context.",
+    "rows": [
+      [
+        {
+          "text": "Starsgem Rose 2025 | delivered [R1-R2]",
+          "href": "records/marquise.html#6-verified-reddit-price-benchmarks-purchased-versus-advertised"
+        },
+        "16 in; ~19.5-20ctw; 5 x 2.5 mm slanted marquise; 10K yellow gold",
+        "$3,400 USD"
+      ],
+      [
+        {
+          "text": "Starsgem 2025 | delivered bracelet [R3]",
+          "href": "records/marquise.html#6-verified-reddit-price-benchmarks-purchased-versus-advertised"
+        },
+        "7 in; 58 marquises; 5 x 2.5 mm; ~8ctw (owner estimate); 10K white gold",
+        "Just under $1,600 USD"
+      ],
+      [
+        {
+          "text": "Hida Hitanda 2026 | buyer report [R4]",
+          "href": "records/marquise.html#6-verified-reddit-price-benchmarks-purchased-versus-advertised"
+        },
+        "21ctw marquise tennis necklace; 10K white gold",
+        "AUD $6,000"
+      ],
+      [
+        {
+          "text": "AK Gems 2026 | seller asking price [R5]",
+          "href": "records/marquise.html#6-verified-reddit-price-benchmarks-purchased-versus-advertised"
+        },
+        "Half-marquise necklace; 6.2ctw; 16.5g of 14K gold",
+        "$4,850 USD"
+      ],
+      [
+        {
+          "text": "TTB Jewelry 2026 | delivered bracelet [R6]",
+          "href": "records/marquise.html#6-verified-reddit-price-benchmarks-purchased-versus-advertised"
+        },
+        "6.5 in angled marquise; ~14-15ctw; 8 x 4 mm; 10K yellow gold",
+        "$4,500 USD before tax"
+      ],
+      [
+        {
+          "text": "Starsgem Tracy 2026 | delivered [R7]",
+          "href": "records/marquise.html#6-verified-reddit-price-benchmarks-purchased-versus-advertised"
+        },
+        "16 in; 2.5 mm round diamonds; 10K yellow gold; lightweight setting",
+        "$1,950 USD incl. shipping"
+      ],
+      [
+        {
+          "text": "Kuololit 2026 | buyer quote [R19]",
+          "href": "records/marquise.html#6-verified-reddit-price-benchmarks-purchased-versus-advertised"
+        },
+        "16 in; 2 mm 3-prong round diamond; yellow gold (user sought 14K)",
+        "$1,900 USD quoted"
+      ],
+      [
+        {
+          "text": "Kay retail 2026 | retailer [R8,R20]",
+          "href": "records/marquise.html#6-verified-reddit-price-benchmarks-purchased-versus-advertised"
+        },
+        "18 in adjustable; 4ctw mixed marquise+round; 14K white gold",
+        "$3,249.99 sale / $4,999.99 list"
+      ],
+      [
+        {
+          "text": "Provence Joyan | Oct 23-Nov 2, 2026 [R12]",
+          "href": "records/marquise.html#7-reddit-group-buy-archive-closest-offerings"
+        },
+        "Marquise + round mixed-cut bracelet; advertised from $882; 10K/14K/18K",
+        "A commenter requested a 16-in necklace. Prior discussion said this was possible, but no verified necklace price."
+      ],
+      [
+        {
+          "text": "Julysnow | Jul 11-Aug 1, 2026 [R13]",
+          "href": "records/marquise.html#7-reddit-group-buy-archive-closest-offerings"
+        },
+        "Bracelet options include marquise, round and bezel; lab-diamond styles from $655; $35 worldwide shipping",
+        "Starting price is not confirmed for the marquise option; bracelet, not necklace."
+      ],
+      [
+        {
+          "text": "Provence Liya | Mar 31-Apr 11, 2026 [R14]",
+          "href": "records/marquise.html#7-reddit-group-buy-archive-closest-offerings"
+        },
+        "Marquise station necklace; from $417; 10K/14K/18K",
+        "A spaced-station style, not tip-to-tip tennis."
+      ],
+      [
+        {
+          "text": "Starsgem Lizzy | Jun 13-Jul 2, 2026 [R15]",
+          "href": "records/marquise.html#7-reddit-group-buy-archive-closest-offerings"
+        },
+        "Round-diamond tennis necklaces; 2.4-3.9 mm; $1,937-$6,582",
+        "Useful labor, length and setting price context; not marquise."
+      ],
+      [
+        {
+          "text": "Starsgem Demi | Aug 1-15, 2026 [R16]",
+          "href": "records/marquise.html#7-reddit-group-buy-archive-closest-offerings"
+        },
+        "Tennis necklaces across silver/10K/14K options; $930-$4,380",
+        "Broad category starting price includes unlike materials and designs."
+      ],
+      [
+        {
+          "text": "Provence Daisy | Jul 2-12, 2026 [R17]",
+          "href": "records/marquise.html#7-reddit-group-buy-archive-closest-offerings"
+        },
+        "Half-tennis necklace from $387; 2 mm stones; 67 mm gem panel",
+        "Proof of chain-back format; far shorter stone section than the proposed 7-9 in."
+      ],
+      [
+        {
+          "text": "Fiorese | Oct 2026 wishlist [R18]",
+          "href": "records/marquise.html#7-reddit-group-buy-archive-closest-offerings"
+        },
+        "One user requested east-west marquise tennis necklace",
+        "Community interest only; no identified launched offer or price."
+      ]
+    ]
+  },
+  "pink": {
+    "label": "Pink pear halo",
+    "columns": [
+      "Company",
+      "Configuration",
+      "Catalog price",
+      "Caveat"
+    ],
+    "note": "Five leads for the separate pink pear double-halo design. These are catalog prices.",
+    "rows": [
+      [
+        "Zhengzhou Limo Import and Export",
+        "2 ct pink pear halo, 18K",
+        "$1,899",
+        "2ct /1.3ct variant labels conflicted; pink halo unproven"
+      ],
+      [
+        "Guangxi Wuzhou Lanphear",
+        "1 ct pink pear, 14K/18K advertised",
+        "$1,220",
+        "Exact pink color and gold setting to confirm"
+      ],
+      [
+        "Henan Qishi Technology",
+        "2 ct pink pear, 18K",
+        "$1,965",
+        "Halo composition and chain inclusion unknown"
+      ],
+      [
+        "Guangzhou Mishang Jewelry",
+        "Fancy pink pear halo, 9K",
+        "$50-$510 listing range",
+        "Not a confirmed finished-gold pendant price"
+      ],
+      [
+        "Wuzhou Zhanhao",
+        "1.05 ct pink pear, 18K",
+        "$1,126",
+        "IGI in title but listing key specs said certificate none"
+      ]
+    ]
+  }
+}

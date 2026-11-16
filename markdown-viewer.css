@@ -1,0 +1,63 @@
+:root {
+  --ink: #202722;
+  --muted: #687069;
+  --line: #d8d5ca;
+  --soft-line: #e8e5dc;
+  --paper: #fffefb;
+  --accent: #a47d38;
+  --accent-dark: #735522;
+  --accent-soft: #f7eedc;
+  --sidebar: #17251f;
+  --serif: Georgia, "Times New Roman", serif;
+  --sans: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: #efeee8; color: var(--ink); font-family: var(--sans); }
+.viewer-header {
+  position: sticky; top: 0; z-index: 10; display: flex; align-items: center; justify-content: space-between; gap: 18px;
+  min-height: 62px; padding: 10px clamp(18px, 4vw, 48px); border-bottom: 1px solid #d5d2c8;
+  background: rgba(246,245,240,.94); backdrop-filter: blur(12px);
+}
+.back-link, .viewer-actions a { color: var(--accent-dark); font-size: .78rem; font-weight: 700; text-decoration: none; }
+.back-link:hover, .viewer-actions a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.viewer-actions { display: flex; align-items: center; gap: 16px; min-width: 0; }
+#fileLabel { overflow: hidden; max-width: 44vw; color: var(--muted); font-family: var(--mono); font-size: .65rem; text-overflow: ellipsis; white-space: nowrap; }
+.viewer-main { width: min(980px, calc(100% - 34px)); margin: 34px auto 70px; }
+.paper { min-height: 70vh; padding: clamp(38px, 7vw, 78px); border: 1px solid var(--line); background: var(--paper); box-shadow: 0 16px 45px rgba(35,40,36,.08); }
+.markdown-body { font-size: 15px; line-height: 1.72; }
+.markdown-body h1 { margin: 0 0 28px; font-family: var(--serif); font-size: clamp(2.4rem, 7vw, 4.8rem); font-weight: 500; letter-spacing: -.045em; line-height: .98; }
+.markdown-body h2 { margin: 52px 0 16px; padding-top: 8px; border-top: 1px solid var(--line); font-family: var(--serif); font-size: clamp(1.55rem, 3vw, 2.15rem); font-weight: 500; line-height: 1.15; }
+.markdown-body h3 { margin: 32px 0 12px; font-size: 1.05rem; }
+.markdown-body :is(h1, h2, h3) { scroll-margin-top: 95px; }
+.markdown-body p { margin: 0 0 18px; }
+.markdown-body strong { font-weight: 750; }
+.markdown-body a { color: var(--accent-dark); text-decoration-color: #cfb98f; text-underline-offset: 3px; overflow-wrap: anywhere; }
+.markdown-body ul, .markdown-body ol { margin: 10px 0 22px; padding-left: 1.45rem; }
+.markdown-body li { margin: 7px 0; padding-left: 3px; }
+.markdown-body li::marker { color: var(--accent); }
+.markdown-body blockquote { margin: 26px 0; padding: 18px 22px; border-left: 3px solid var(--accent); background: var(--accent-soft); color: #4c4336; }
+.markdown-body blockquote p:last-child { margin-bottom: 0; }
+.markdown-body code { padding: 2px 5px; border-radius: 4px; background: #efeee8; font-family: var(--mono); font-size: .84em; }
+.markdown-body pre { overflow-x: auto; margin: 24px 0; padding: 20px; border-radius: 8px; background: #202a25; color: #e9eee9; line-height: 1.55; }
+.markdown-body pre code { padding: 0; background: transparent; color: inherit; }
+.markdown-body img { display: block; max-width: 100%; height: auto; margin: 26px auto; }
+.table-scroll { max-width: 100%; margin: 24px 0 32px; overflow-x: auto; border: 1px solid var(--soft-line); border-radius: 8px; background: #fff; }
+.markdown-body table { width: 100%; min-width: 680px; border-collapse: collapse; font-size: .82rem; line-height: 1.45; }
+.markdown-body th { padding: 10px; border-bottom: 1px solid #c9c6ba; color: #737870; font-size: .64rem; letter-spacing: .07em; text-align: left; text-transform: uppercase; }
+.markdown-body td { padding: 11px 10px; border-bottom: 1px solid var(--soft-line); vertical-align: top; }
+.task { list-style: none; margin-left: -1.2rem; }
+.task input { margin-right: 9px; accent-color: var(--accent-dark); pointer-events: none; }
+.error { padding: 20px; border-left: 3px solid #a33; background: #f9e9e6; }
+
+@media (max-width: 640px) {
+  .viewer-header { align-items: flex-start; flex-direction: column; gap: 5px; padding: 12px 16px; }
+  .viewer-actions { justify-content: space-between; width: 100%; }
+  #fileLabel { max-width: 65vw; }
+  .viewer-main { width: calc(100% - 20px); margin-top: 12px; }
+  .paper { padding: 34px 21px 60px; }
+  .markdown-body { font-size: 14px; }
+  .markdown-body table { min-width: 620px; }
+}

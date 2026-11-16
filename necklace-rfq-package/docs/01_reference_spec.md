@@ -24,7 +24,7 @@ Create a delicate two-stone drop necklace in solid yellow gold:
 
 ## Direct StarsGem comparison set
 
-Four additional live StarsGem listings now provide lower-karat certified-solitaire benchmarks and a heavier 18K two-stone comparator. See [07 - StarsGem Listing Comparison and Currency Audit](07_starsgem_listing_comparison.md) for the complete specifications, preserved listing images, CNY prices, StarsGem USD equivalents, market-rate USD estimates, certificate-number notes, and RFQ implications.
+Five additional live StarsGem listings now provide lower-karat certified-solitaire benchmarks, a certified pendant-only benchmark, and a heavier 18K two-stone comparator. See [07 - StarsGem Listing Comparison and Currency Audit](07_starsgem_listing_comparison.md) for the complete specifications, preserved listing images, CNY prices, StarsGem USD equivalents, market-rate USD estimates, certificate-number notes, and RFQ implications.
 
 The highest-value comparison is **AuDP4011413(p1)**: it repeats the pear-and-round architecture at 1.12 ctw and 2.79 g gross, but in rhodium-plated 18K white gold. Ask StarsGem to quote that construction in unplated 14K yellow gold before accepting the original 2.06 g build as the only option.
 

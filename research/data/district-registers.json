@@ -1,0 +1,2717 @@
+{
+  "district-start": {
+    "label": "District workbook overview",
+    "columns": [
+      "Field",
+      "Workbook value"
+    ],
+    "note": "Original workbook tab START HERE. Blank fields reflect the source.",
+    "rows": [
+      [
+        "CHINESE JEWELRY SOURCING — NEW DISTRICT RESEARCH",
+        "15 November 2026"
+      ],
+      [
+        "What this is",
+        "New outside-Alibaba lead directory + market map, not independently vetted sellers"
+      ],
+      [
+        "Direct leads with public listing",
+        "41"
+      ],
+      [
+        "Physical market / cluster targets",
+        "19"
+      ],
+      [
+        "User quote reference points",
+        "12"
+      ],
+      [
+        "Buyer experiences indexed",
+        "7"
+      ],
+      [
+        "Status convention",
+        "Not contacted is NOT an approved exporter. Public phone may be landline, not WhatsApp."
+      ],
+      [
+        "Start with",
+        "Leads filtered to 14K/18K, IGI lab diamond capability, CAD, small MOQ, insured US shipping."
+      ],
+      [
+        "High priority new leads",
+        "Jinxiuxiu; Changsheng Gems; Zhengjin; Zuandi; Jipin Jinzhuan; Yingde; Bairui; Kaishaqi"
+      ],
+      [
+        "Critical shipping point",
+        "DHL/FedEx eligibility, insurance and actual US delivery need written verification per seller"
+      ],
+      [
+        "Price note",
+        "Gold-bullion and 24K bracelet making charges are NOT equivalent to 14K diamond pendant setting costs."
+      ],
+      [
+        "Reference",
+        "See companion Markdown report for narrative interpretation and sourcing instructions"
+      ]
+    ]
+  },
+  "district-leads": {
+    "label": "District supplier leads",
+    "columns": [
+      "ID",
+      "November 15 evidence check",
+      "Type",
+      "Supplier / contact",
+      "Chinese legal or trade name",
+      "City/cluster",
+      "Published location",
+      "Published specialty",
+      "Public business contact",
+      "US shipping / export evidence",
+      "Evidence type",
+      "Why contact / verification question",
+      "Source URL",
+      "Outreach status"
+    ],
+    "note": "Original workbook tab SUPPLIER LEADS. Blank fields reflect the source. The evidence check records where the later review qualified a claim.",
+    "rows": [
+      [
+        "CN-001",
+        "Company contact and lab-diamond range match. Written MOQ, exact-stone stock, 14K and insured Illinois freight open.",
+        "Direct factory lead",
+        "Wuzhou Changsheng Gems",
+        "梧州长盛宝石",
+        "Wuzhou",
+        "Xihuan Rd, Gem Building, Unit 4-1202",
+        "Lab diamonds; moissanite; custom K-gold and platinum",
+        "+86 19172103489; sales@cs-gems.com",
+        "International delivery not verified",
+        "Own website",
+        "Ask single piece, IGI number, 14K/18K weight, US delivery quote",
+        {
+          "text": "https://cs-gems.com/contact-us/",
+          "href": "https://cs-gems.com/contact-us/"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-002",
+        "Firsthand delivery post matches the 2020 moissanite purchase. Current lab-diamond capability and contact authority open.",
+        "Visited + US delivery",
+        "Wuzhou Fengyong Gemstone Jewelry",
+        "中文法定名称未核实",
+        "Wuzhou",
+        "Wuzhou, Guangxi (precise workshop unknown)",
+        "Custom moissanite jewelry",
+        "Helen Gong; Instagram @gong4857; search Chinese Taobao seller",
+        "Buyer reported 6 rings shipped DHL to USA in 2020",
+        "Firsthand Reddit anecdote",
+        "Older evidence, ask if now supplies IGI lab diamonds and gold",
+        {
+          "text": "https://www.reddit.com/r/Moissanite/comments/er5bw9/",
+          "href": "https://www.reddit.com/r/Moissanite/comments/er5bw9/"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-003",
+        "Marketplace record matches this legal name and published phone. Moissanite emphasis. Relationship to other Provence entities open.",
+        "Local directory / identity caution",
+        "Wuzhou Provence Gems",
+        "梧州市普罗旺珠宝有限公司",
+        "Wuzhou",
+        "No.68 Xihuan Rd, Gem Building 3F 134",
+        "Moissanite; K-gold jewelry; synthetic gems",
+        "+86 18907746215; contact Chen",
+        "Not independently verified; similarly named entities",
+        "Third-party vendor listing",
+        "Do not assume same as Reddit Provence sales reps",
+        {
+          "text": "https://m.gys.cn/wanxiu/wuzhouprovencegems.html",
+          "href": "https://m.gys.cn/wanxiu/wuzhouprovencegems.html"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-004",
+        "Public phone, name and gold/platinum categories match. Foreign trade, lab diamonds and custom CAD lack support on the cited page.",
+        "Direct factory lead",
+        "Shenzhen Jinxiuxiu Jewelry",
+        "深圳市金秀秀珠宝有限公司",
+        "Shenzhen (Shuibei)",
+        "Shuibei area; registered Nanshan address",
+        "K-gold; PT950; lab diamonds; custom CAD",
+        "+86 13040868552; contact Lu Jinxiu",
+        "Directory explicitly lists support for foreign-trade orders; US shipment not verified",
+        "Factory listing",
+        "High priority for 14K/18K and platinum",
+        {
+          "text": "https://www.aichangjia.com/factory/45679.html",
+          "href": "https://www.aichangjia.com/factory/45679.html"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-005",
+        "Indexed contact matches company site. Own FAQ gives design-dependent MOQ. Ask for registered entity, 1 piece and insured shipment.",
+        "Export-facing intermediary",
+        "Shuibei Jeweler",
+        "中文法定名称未核实",
+        "Shenzhen",
+        "Shuibei, factory claimed; Hong Kong sales claimed",
+        "Custom/OEM 14K/18K; worldwide shipment claimed",
+        "WeChat/WhatsApp +86 19066348512; support@shuibeijeweler.com",
+        "Website claims worldwide shipping; no independent order confirmed",
+        "Self-published website",
+        "Verify legal registration before sending payment",
+        {
+          "text": "https://shuibeijeweler.com/contact/",
+          "href": "https://shuibeijeweler.com/contact/"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-006",
+        "Association profile indexed at company_218.html. Public phone matches. Customer-material work listed. Export and shipping open.",
+        "Direct factory lead",
+        "Panyu Yingde Jewelry Processing Factory",
+        "广州市番禺区沙头盈德珠宝首饰加工厂",
+        "Guangzhou (Panyu)",
+        "Yinping Rd area, Shatou",
+        "K-gold setting, custom OEM",
+        "+86 13427508569",
+        "Not checked",
+        "Panyu trade directory",
+        "Relevant custom precious-metal setting",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-007",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Jijia Jewelry Design",
+        "广州吉佳珠宝设计有限公司",
+        "Guangzhou (Panyu)",
+        "Jinnianhua Jewelry Culture Park B1-108",
+        "Private custom engagement rings, high-end jewelry",
+        "+86 13728071778",
+        "Not checked",
+        "Panyu trade directory",
+        "Ask MOQ 1 and lab diamond supply",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-008",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Bairui Jewelry",
+        "广州市柏睿首饰有限公司",
+        "Guangzhou (Panyu)",
+        "No.38 Yinjian Rd, 3F",
+        "Mid/high-grade OEM/ODM custom jewelry",
+        "+86 18924183979",
+        "Not checked",
+        "Panyu trade directory",
+        "Ask actual factory vs trading",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-009",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Dianjin Jewelry Design",
+        "广州点金珠宝设计制作有限公司",
+        "Guangzhou (Panyu)",
+        "Shawan Jewelry Park, No.999 Fulong Rd, Building 24, 2F",
+        "Custom jewelry design/making",
+        "+86 13533595936",
+        "Not checked",
+        "Panyu trade directory",
+        "Request sample CAD and gold unit economics",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-010",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Chuangyi Jewelry Design",
+        "广州创亿珠宝设计有限公司",
+        "Guangzhou (Panyu)",
+        "Hongzhuan Creative Park 607-609, No.153 Shanan Rd",
+        "Design/custom jewelry",
+        "+86 13570519762",
+        "Not checked",
+        "Panyu trade directory",
+        "Confirm manufacturing capacity",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=5",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=5"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-011",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Bofeier Jewelry",
+        "广州市博妃尔珠宝首饰有限公司",
+        "Guangzhou (Panyu)",
+        "Shawan Jewelry Park, No.999 Fulong Rd, Building 17-201",
+        "Handmade jewelry; original Baroque styles",
+        "+86 18998397838",
+        "Not checked",
+        "Panyu trade directory",
+        "Design alternative; may be premium",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=5",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=5"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-012",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Honeymoon Journey Jewelry",
+        "广州蜜月之旅珠宝有限公司",
+        "Guangzhou (Panyu)",
+        "Juying Jewelry Center, No.2 Getian Street, rooms 404-405",
+        "18K gold necklaces, rings, earrings",
+        "+86 15902036563",
+        "Not checked",
+        "Panyu trade directory",
+        "Especially relevant 18K pendant",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=5",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=5"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-013",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Chuansheng Design",
+        "广州市传盛设计有限公司",
+        "Guangzhou (Panyu)",
+        "Xiaoping Industrial Zone, Fuping Rd 4th Street No.1",
+        "Production, processing and design",
+        "+86 20 34805661; +86 20 22879188",
+        "Not checked",
+        "Panyu trade directory",
+        "Ask if one-piece custom orders accepted",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-014",
+        "Association article supports jewelry processing identity. Workbook phone, one-piece terms and present export open.",
+        "Direct factory lead",
+        "Guangzhou Zuandi Jewelry",
+        "广州市钻帝珠宝有限公司",
+        "Guangzhou (Panyu)",
+        "No.94 Shanan Rd 2F",
+        "Diamond/gem setting, CNC and design",
+        "+86 13711325730",
+        "Not checked",
+        "Panyu trade directory",
+        "Strong setting relevance",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-015",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Shanli Jewelry",
+        "广州市山立珠宝首饰公司",
+        "Guangzhou (Panyu)",
+        "Shawan Jewelry Park C7, 1F",
+        "K-gold settings, bulk silver/copper jewelry",
+        "+86 13798733418",
+        "Not checked",
+        "Panyu trade directory",
+        "Ask custom MOQ 1",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-016",
+        "Association profile indexed at company_1.html. Phone matches and public email found. Customer-material K-gold work listed.",
+        "Direct factory lead",
+        "Guangzhou Zhengjin Jewelry Design",
+        "广州正金珠宝设计制作有限公司",
+        "Guangzhou (Panyu)",
+        "Daluotang, No.28 Yinjian 2nd Rd 3F",
+        "K-gold and platinum gem settings",
+        "+86 20 39997518",
+        "Not checked",
+        "Panyu trade directory",
+        "High priority for 14K/18K/platinum",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-017",
+        "No published contact in the workbook. Keep as a discovery lead.",
+        "Direct factory lead",
+        "Guangzhou Guyu Jewelry",
+        "广州谷雨珠宝有限公司",
+        "Guangzhou (Panyu)",
+        "No.123 Yinjian Rd, Building 2 Room 203",
+        "18K diamond jewelry production, wholesale",
+        "Not published in entry",
+        "Not checked",
+        "Panyu trade directory",
+        "Find current WeChat via company registration or industry directory",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-018",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Jin Gong Fu Jewelry",
+        "广州金功夫珠宝有限公司",
+        "Guangzhou (Panyu)",
+        "Daluotang Industrial Zone, No.31 Yinping Rd",
+        "Jewelry production/processing",
+        "+86 13750083091",
+        "Not checked",
+        "Panyu trade directory",
+        "Ask casting capacity and setting quality",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=7",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=7"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-019",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Liye Jewelry",
+        "广州丽叶珠宝首饰有限公司",
+        "Guangzhou (Panyu)",
+        "Yinping 3rd Street No.8, Building A3 4F",
+        "Silver and K-gold design & manufacturing",
+        "+86 20 81063099; +852 25785898",
+        "Cross-border HK phone listed; US shipment unverified",
+        "Panyu trade directory",
+        "HK contact may be useful for English sales",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=7",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=7"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-020",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Pinyi Jewelry",
+        "广州市品艺珠宝有限公司",
+        "Guangzhou (Panyu)",
+        "Yinjian Building 6F, Yinping Rd 2nd lane",
+        "18K, silver, copper jewelry",
+        "+86 20 31072700",
+        "Not checked",
+        "Panyu trade directory",
+        "Ask solid vs plated metal options",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=8",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=8"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-021",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Zhuoer Jewelry",
+        "广州市卓尔珠宝股份有限公司",
+        "Guangzhou (Panyu)",
+        "Zhuoer Tower, Fuping Rd No.23",
+        "Jewelry design, manufacturing, wholesale",
+        "+86 20 84666967",
+        "Not checked",
+        "Panyu trade directory",
+        "Could be higher MOQ",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=8",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=8"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-022",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Jiaheng Jewelry",
+        "广州市嘉衡珠宝有限公司",
+        "Guangzhou (Panyu)",
+        "No.129 Yinjian Rd, Daluotang",
+        "K-gold; platinum",
+        "+86 20 39375000",
+        "Not checked",
+        "Panyu trade directory",
+        "Relevant setting maker",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-023",
+        "Indexed company-specific association profile supports name. Confirm 14K and one-piece order. Check exact current contact.",
+        "Direct factory lead",
+        "Guangzhou Jipin Jinzhuan",
+        "广州市极品金钻有限公司",
+        "Guangzhou (Panyu)",
+        "Shawan Jewelry Park C4 1F",
+        "8K–18K gold; platinum; diamond/gem settings",
+        "+86 20 84733302",
+        "Not checked",
+        "Panyu trade directory",
+        "High relevance by material",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-024",
+        "Indexed company-specific association profile supports phone and jewelry capability. One-piece service unverified.",
+        "Direct factory lead",
+        "Guangzhou Yiheng Jewelry",
+        "广州亿恒珠宝有限公司",
+        "Guangzhou (Panyu)",
+        "Shawan Jewelry Park B3 1F",
+        "Diamond and colored gemstone settings",
+        "+86 20 34878889",
+        "Not checked",
+        "Panyu trade directory",
+        "Stone setting provider",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-025",
+        "Indexed association directory supports name, Shawan location and phone. One-piece lab work and export open.",
+        "Direct factory lead",
+        "Guangzhou Kaishaqi Diamond Jewelry",
+        "广州凯沙琪钻石首饰有限公司",
+        "Guangzhou (Panyu)",
+        "Shawan Jewelry Park, No.999 Fulong Rd, Bldg 18 B6 3F",
+        "Diamond jewelry design, manufacturing, processing",
+        "+86 20 34732069",
+        "Not checked",
+        "Panyu trade directory",
+        "Potential high-priority 2 ct pendant",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=9",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=9"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-026",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Tianlongxin Jewelry",
+        "广州市天隆欣珠宝有限公司",
+        "Guangzhou (Panyu)",
+        "No.38 Yinjian Rd 3F",
+        "Production, processing, jewelry sales",
+        "+86 20 34514380",
+        "Not checked",
+        "Panyu trade directory",
+        "Ask casting, gold weight and MOQ",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=9",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=9"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-027",
+        "Readable association listing matches the trade name, phone, and K-gold and K-silver setting specialties.",
+        "Direct factory lead",
+        "Guangzhou Hujui Jewelry Manufacturing",
+        "汇聚首饰制造厂",
+        "Guangzhou (Panyu)",
+        "No.32 Yinpings 2nd lane, Shatou, east building 3F",
+        "K-gold and K-silver gemstone settings",
+        "+86 20 84893812",
+        "Not checked",
+        "Panyu trade directory",
+        "Ask if currently operating as entry may be dated",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=12",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=12"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-028",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Jinglue",
+        "景略有限公司",
+        "Guangzhou (Panyu)",
+        "No.123 Yinping Rd Room A202",
+        "K-gold, platinum set diamonds/gems",
+        "+86 20 84896060",
+        "Not checked",
+        "Panyu trade directory",
+        "Materials match",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=13",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=13"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-029",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Jingcheng Group",
+        "精诚集团",
+        "Guangzhou (Panyu)",
+        "Shawan Jewelry Park C5",
+        "K-gold, platinum, silver",
+        "+86 20 84737378",
+        "Not checked",
+        "Panyu trade directory",
+        "Ask manufacturer vs group sales",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=13",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=13"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-030",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Shiyao Jewelry",
+        "世耀珠宝公司",
+        "Guangzhou (Panyu)",
+        "Yinping 3rd Street No.8 Building 4, 3F",
+        "K-gold, platinum, gemstone settings",
+        "+86 20 84807482",
+        "Not checked",
+        "Panyu trade directory",
+        "K-gold CAD/setting candidate",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=15",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=15"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-031",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Yibao Jewelry Manufacturing",
+        "艺宝珠宝制造有限公司",
+        "Guangzhou (Panyu)",
+        "Federal Industrial City A9",
+        "K-gold gemstone settings",
+        "+86 20 84808475",
+        "Not checked",
+        "Panyu trade directory",
+        "Ask export partner",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=17",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=17"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-032",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou Baoxing Jewelry Factory",
+        "宝星首饰厂有限公司",
+        "Guangzhou (Panyu)",
+        "Shawan Jewelry Park No.999 Fulong Rd Building 27, 4F",
+        "K-gold; gems; diamonds",
+        "+86 20 34818888",
+        "Not checked",
+        "Panyu trade directory",
+        "Potential one-piece diamond pendant quote",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=1",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=1"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-033",
+        "Trade-show listing matches business email and names a Panyu production base. Ask about sample MOQ and lab-grown stones.",
+        "Direct factory lead",
+        "Pak Wui Jewellery (HK)",
+        "百匯珠寶(香港)有限公司",
+        "HK / Panyu",
+        "Production base Panyu Shawan Jewelry Industrial Park",
+        "Diamond jewelry, OEM, wholesale export",
+        "sec@pwjewel.com; website via company",
+        "Company claims overseas wholesale markets (not necessarily US one-off) ",
+        "Trade show exhibitor",
+        "Ask low MOQ for IGI lab diamond setting",
+        {
+          "text": "https://www.jewelryshows.org/en/visitor/exhibitor_directory_detail.php?id=586",
+          "href": "https://www.jewelryshows.org/en/visitor/exhibitor_directory_detail.php?id=586"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-034",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Direct factory lead",
+        "Guangzhou BideLi Jewelry",
+        "必得利珠宝有限公司",
+        "Guangzhou (Panyu)",
+        "Lijun Rd No.7, Shatou",
+        "K-gold/platinum settings, diamonds/gems",
+        "+86 20 34809550",
+        "Not checked",
+        "Panyu trade directory",
+        "Check entity and MOQ",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=1",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=1"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-035",
+        "Listed specialty is diamond processing. Screen as a possible stone lead.",
+        "Direct factory lead",
+        "Guangzhou Boyi Jewelry",
+        "广州柏志钻石有限公司",
+        "Guangzhou (Panyu)",
+        "Hanji Industrial Zone No.11 Hanji Ave",
+        "Diamond processing",
+        "+86 20 84855679",
+        "Not checked",
+        "Panyu trade directory",
+        "More stone than setting; diamond sourcing lead",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=11",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=11"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-036",
+        "Freight lead. Confirm carrier acceptance, diamond coverage and one-piece scope directly.",
+        "Logistics support",
+        "Guangzhou Jiefei International Logistics",
+        "广州捷飞国际物流有限公司",
+        "Guangzhou (Panyu)",
+        "No.45 Yinping Rd",
+        "Global jewelry courier, export insurance/import services",
+        "+86 13726858688",
+        "Specialized jewelry freight advertised; exact US service must be quoted",
+        "Panyu trade directory",
+        "Ask insured US route and accepted carrier",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=2",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=2"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-037",
+        "Freight and customs lead. Indexed directory supports the archived phone and freight role.",
+        "Logistics support",
+        "Guangzhou Makayami International Freight",
+        "广州市玛卡亚米国际货运代理有限公司",
+        "Guangzhou (Panyu)",
+        "Shawan Jewelry Park complex B4 2F",
+        "Freight/customs declarations",
+        "+86 20 34830388",
+        "Not verified for single US jewelry shipment",
+        "Panyu trade directory",
+        "Ask insured courier and customs broker",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-038",
+        "Existing tracked supplier V017. Marketplace verification page is readable. $412 was before freight, exact report open.",
+        "Diamond supply discovery",
+        "Zhengzhou Better Star Trade",
+        "郑州贝特星商贸有限公司",
+        "Zhengzhou, Henan",
+        "Zhengzhou, Henan",
+        "Lab diamonds and 14K custom jewelry",
+        "Jerry Zhang; WhatsApp +86 13526683122",
+        "Seller says shipping by air to US; personal quote $412",
+        "Prior user correspondence",
+        "Benchmark only, do not confuse with StarsGem",
+        {
+          "text": "https://betterstar.en.alibaba.com/",
+          "href": "https://betterstar.en.alibaba.com/"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-039",
+        "Existing tracked supplier V005. Company site and Panyu identity as advertised. Invoice payee, weight and freight remain open.",
+        "Prior quote benchmark",
+        "Guangzhou Tonglin Jewelry / Tonglin Industrial",
+        "中文法定名称未核实",
+        "Guangzhou / HK",
+        "Guangzhou Panyu; HK trading entity",
+        "14K/18K lab diamond custom jewelry",
+        "Fannie +86 13242346274; Sofia via Alibaba",
+        "USA delivery quoted; not yet received",
+        "Prior user correspondence",
+        "Quote $447.88 14K, 2.02ct E VS2; shipping terms need care",
+        {
+          "text": "https://tonglinjewel.com/",
+          "href": "https://tonglinjewel.com/"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-040",
+        "Existing tracked supplier V004. Good Century-branded listings appear under Hanchen. Separate contact V014 remains distinct.",
+        "Prior quote benchmark",
+        "Shenzhen Hanchen / Good Century",
+        "中文法定名称未核实",
+        "Shenzhen (Shuibei)",
+        "Luohu, Shenzhen",
+        "14K lab diamond pendants",
+        "Han Chen; Alibaba szhcjewelry",
+        "US shipping not independently confirmed",
+        "Prior user correspondence",
+        "$470 pendant-only 2ct D VS1",
+        {
+          "text": "https://szhcjewelry.en.alibaba.com/",
+          "href": "https://szhcjewelry.en.alibaba.com/"
+        },
+        "Not contacted"
+      ],
+      [
+        "CN-041",
+        "Existing tracked supplier V020. Readable Qianao platform profile. The $235 offer still lacks exact stone and alloy weight.",
+        "Prior quote benchmark",
+        "Wuzhou Qianao / Provence-associated",
+        "中文法定名称未核实",
+        "Wuzhou",
+        "Wuzhou, Guangxi",
+        "14K custom 2ct lab diamond pendant",
+        "liang xuan; xuanliang@rdsjewelry.com",
+        "Personal $235 shipped claimed, details unverified",
+        "Prior user correspondence",
+        "Provence brand claim not verified for this rep",
+        {
+          "text": "https://wzqianao.en.alibaba.com/",
+          "href": "https://wzqianao.en.alibaba.com/"
+        },
+        "Not contacted"
+      ]
+    ]
+  },
+  "district-markets": {
+    "label": "Markets and districts",
+    "columns": [
+      "ID",
+      "Venue",
+      "Chinese name",
+      "City",
+      "Grounded location",
+      "Best items",
+      "Type",
+      "Buyer note",
+      "Source URL"
+    ],
+    "note": "Original workbook tab MARKETS DISTRICTS. Blank fields reflect the source.",
+    "rows": [
+      [
+        "M-01",
+        "Shuibei International Jewelry Trading Center",
+        "水贝国际珠宝交易中心",
+        "Shenzhen",
+        "Beili North Rd, Luohu, Shenzhen, Guangdong, China",
+        "Full-category jewelry, precious metals, diamonds",
+        "Trade center, not one supplier",
+        "Official source lists over 100 businesses, since 2004; cross-check exact entrance",
+        {
+          "text": "https://www.szlh.gov.cn/English/chill-in-luohu/hot-spots/art/content/mpost_11905923.html",
+          "href": "https://www.szlh.gov.cn/English/chill-in-luohu/hot-spots/art/content/mpost_11905923.html"
+        }
+      ],
+      [
+        "M-02",
+        "Jinzhan Jewelry Plaza",
+        "金展珠宝广场",
+        "Shenzhen",
+        "Shuibei 1st Rd, Luohu, Shenzhen, Guangdong, China",
+        "Gold, diamond counters, testing",
+        "Multi-tenant market",
+        "Buyer-recommended for labs; test independently",
+        {
+          "text": "https://www.reddit.com/r/China/comments/1vvtjlh/",
+          "href": "https://www.reddit.com/r/China/comments/1vvtjlh/"
+        }
+      ],
+      [
+        "M-03",
+        "Shuibei Wanshan Jewelry Park",
+        "水贝万山珠宝园",
+        "Shenzhen",
+        "Tianbei 4th Rd, Luohu, Shenzhen, Guangdong, China",
+        "Gold, unique designs, factory/showrooms",
+        "Multi-tenant market",
+        "Supplier leads often upstairs, not all counters ship internationally",
+        {
+          "text": "https://www.sz.gov.cn/en_szgov/news/infocus/SZCitywalk/Explore/Attractions/content/post_12465458.html",
+          "href": "https://www.sz.gov.cn/en_szgov/news/infocus/SZCitywalk/Explore/Attractions/content/post_12465458.html"
+        }
+      ],
+      [
+        "M-04",
+        "Shuibei Jinzuo / Yinzuo",
+        "水贝金座／银座",
+        "Shenzhen",
+        "Beili North Rd cluster, Shenzhen, Guangdong, China",
+        "Gold by gram, standard findings",
+        "Wholesale/retail halls",
+        "Local guide says interconnected basements; verify access on site",
+        {
+          "text": "https://post.smzdm.com/p/a95gxem0/",
+          "href": "https://post.smzdm.com/p/a95gxem0/"
+        }
+      ],
+      [
+        "M-05",
+        "Shuibei Jinzhan / Jewelry Museum",
+        "深圳珠宝博物馆／金展",
+        "Shenzhen",
+        "No.20 Shuibei 1st Rd, Shenzhen, Guangdong, China",
+        "Wholesale plus museum",
+        "Market and museum",
+        "Market venue",
+        {
+          "text": "https://www.szlh.gov.cn/English/chill-in-luohu/business-districts/content/post_11903738.html",
+          "href": "https://www.szlh.gov.cn/English/chill-in-luohu/business-districts/content/post_11903738.html"
+        }
+      ],
+      [
+        "M-06",
+        "Jinli International Jewelry Exchange",
+        "金丽国际珠宝交易中心",
+        "Shenzhen",
+        "Beili South Rd, Luohu, Shenzhen, Guangdong, China",
+        "Gold, colored stones, settings",
+        "Wholesale building",
+        "Location verify",
+        {
+          "text": "https://www.szlh.gov.cn/English/chill-in-luohu/business-districts/content/post_11903738.html",
+          "href": "https://www.szlh.gov.cn/English/chill-in-luohu/business-districts/content/post_11903738.html"
+        }
+      ],
+      [
+        "M-07",
+        "Shuibei Yihao Jewelry Center",
+        "水贝壹号",
+        "Shenzhen",
+        "Buxin Rd No.3033, Luohu, Shenzhen, Guangdong, China",
+        "Showrooms, original jewelry",
+        "Industrial market",
+        "Listed municipal cultural industry park",
+        {
+          "text": "https://city.shenchuang.com/whjy/20250324/1682482.shtml",
+          "href": "https://city.shenchuang.com/whjy/20250324/1682482.shtml"
+        }
+      ],
+      [
+        "M-08",
+        "Shuibei Ginza",
+        "水贝银座",
+        "Shenzhen",
+        "Beili North Rd No.97, Shenzhen, Guangdong, China",
+        "Trade / jewelry studios",
+        "Industrial market",
+        "Listed industrial park",
+        {
+          "text": "https://city.shenchuang.com/whjy/20250324/1682482.shtml",
+          "href": "https://city.shenchuang.com/whjy/20250324/1682482.shtml"
+        }
+      ],
+      [
+        "M-09",
+        "Daluotang Jewelry Town",
+        "大罗塘珠宝小镇",
+        "Guangzhou",
+        "Yinping Rd / Daluo Village, Shatou, Panyu, Guangzhou, Guangdong, China",
+        "Manufacturing, CAD, K gold, platinum",
+        "Factory district, not single mall",
+        "Association describes export-oriented supply chain",
+        {
+          "text": "https://www.dltjewtown.cn/col.jsp?id=101",
+          "href": "https://www.dltjewtown.cn/col.jsp?id=101"
+        }
+      ],
+      [
+        "M-10",
+        "Yinjian Jewelry Trading Center",
+        "银建珠宝交易中心",
+        "Guangzhou",
+        "Yinping Rd 2nd lane, Shatou, Panyu, Guangzhou, Guangdong, China",
+        "Workshops, wholesale, design",
+        "Trade center",
+        "Official association",
+        {
+          "text": "https://www.dltjewtown.cn/col.jsp?id=108",
+          "href": "https://www.dltjewtown.cn/col.jsp?id=108"
+        }
+      ],
+      [
+        "M-11",
+        "Daluo International Jewelry City",
+        "大罗国际珠宝城",
+        "Guangzhou",
+        "Yinping Rd, Daluotang, Shatou, Panyu, Guangzhou, Guangdong, China",
+        "Diamond & gold trade",
+        "Multi-counter market",
+        "Association states ~200 stores",
+        {
+          "text": "https://www.dltjewtown.cn/col.jsp?id=108",
+          "href": "https://www.dltjewtown.cn/col.jsp?id=108"
+        }
+      ],
+      [
+        "M-12",
+        "Juying International Jewelry Trading Center",
+        "聚盈国际珠宝交易中心",
+        "Guangzhou",
+        "No.2 Getian St, Daluotang, Shatou, Panyu, Guangzhou, Guangdong, China",
+        "Gem setting, polishing, custom studios",
+        "Workshop building",
+        "Government report from 2024; unit tenancy may have changed",
+        {
+          "text": "https://sthjj.gz.gov.cn/attachment/7/7641/7641593/9781822.pdf",
+          "href": "https://sthjj.gz.gov.cn/attachment/7/7641/7641593/9781822.pdf"
+        }
+      ],
+      [
+        "M-13",
+        "Shawan Jewelry Industrial Park",
+        "沙湾珠宝产业园",
+        "Guangzhou",
+        "No.999 Fulong Rd, Shawan, Panyu, Guangzhou, Guangdong, China",
+        "Export-oriented gold/diamond jewelry production",
+        "Factory campus",
+        "Numerous workshop companies listed",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10"
+        }
+      ],
+      [
+        "M-14",
+        "Hualin / Liwan Plaza",
+        "华林／荔湾广场",
+        "Guangzhou",
+        "No.120 Shangxiajiu, Liwan, Guangzhou, Guangdong, China",
+        "Pearls, 925 silver, jade, beads/findings",
+        "Wholesale market",
+        "Less relevant for a 2ct solid-gold pendant",
+        {
+          "text": "https://sourcing.worldfirst.com/categories/jewelry",
+          "href": "https://sourcing.worldfirst.com/categories/jewelry"
+        }
+      ],
+      [
+        "M-15",
+        "Gem Building",
+        "宝石大厦",
+        "Wuzhou",
+        "Xihuan Rd, Wanxiu, Wuzhou, Guangxi, China",
+        "Synthetic stones and jewelry workshops",
+        "Multi-counter/multi-floor",
+        "Public businesses use units in building",
+        {
+          "text": "https://cs-gems.com/contact-us/",
+          "href": "https://cs-gems.com/contact-us/"
+        }
+      ],
+      [
+        "M-16",
+        "Zhengzhou diamond supply hub",
+        "郑州培育钻石产业",
+        "Zhengzhou",
+        "Zhengzhou, Henan, China",
+        "HPHT lab diamond industrial supply",
+        "City industrial cluster",
+        "Not walk-in jewelry market; direct factories may be large MOQ",
+        {
+          "text": "https://www.gia.edu/gems-gemology/summer-2024-gia-update-on-laboratory-grown-diamonds",
+          "href": "https://www.gia.edu/gems-gemology/summer-2024-gia-update-on-laboratory-grown-diamonds"
+        }
+      ],
+      [
+        "M-17",
+        "Yiwu International Trade City District 1",
+        "义乌国际商贸城一区",
+        "Yiwu",
+        "Futian International Trade City, Yiwu, Zhejiang, China",
+        "Costume jewelry and findings, accessories",
+        "Mass wholesale mall",
+        "Primarily not solid-gold 2ct settings",
+        {
+          "text": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0601/2026060100689.pdf",
+          "href": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0601/2026060100689.pdf"
+        }
+      ],
+      [
+        "M-18",
+        "East China International Jewelry City",
+        "华东国际珠宝城",
+        "Zhuji",
+        "Shanxiahu Town, Zhuji, Zhejiang, China",
+        "Freshwater pearls, pearls jewelry",
+        "Pearl wholesale complex",
+        "Great for pearl jewelry not oval lab diamonds",
+        {
+          "text": "https://paper.people.com.cn/rmrb/pc/content/202507/17/content_30088304.html",
+          "href": "https://paper.people.com.cn/rmrb/pc/content/202507/17/content_30088304.html"
+        }
+      ],
+      [
+        "M-19",
+        "Hong Kong Jewellery Shows / TST trade companies",
+        "香港珠宝展／尖沙咀贸易商",
+        "Hong Kong",
+        "Tsim Sha Tsui, Kowloon, Hong Kong, China",
+        "Export offices, manufacturer contacts, trade shows",
+        "Trade show/directory",
+        "Use exhibitor lists to find mainland factory links",
+        {
+          "text": "https://www.hktdc.com/event/hkjewellery/en/exhibitor-list?countrySymbol=HKG",
+          "href": "https://www.hktdc.com/event/hkjewellery/en/exhibitor-list?countrySymbol=HKG"
+        }
+      ]
+    ]
+  },
+  "district-prices": {
+    "label": "District quote benchmarks",
+    "columns": [
+      "Company",
+      "Date",
+      "Diamond",
+      "Scope",
+      "Metal",
+      "Quoted USD",
+      "Gold estimate g",
+      "Single-item delivered USD",
+      "Known shipping USD",
+      "Comparability warning"
+    ],
+    "note": "Original workbook tab QUOTE BENCHMARKS. Blank fields reflect the source.",
+    "rows": [
+      [
+        "Tonglin (Fannie)",
+        "2026-11-11",
+        "2.02ct E VS2 IGI",
+        "Pendant only",
+        "14K YG",
+        "447.88",
+        "1.5",
+        "",
+        "45",
+        "Quote; gold-only vs finished weight not clearly settled; $45 shipping quoted for combined order"
+      ],
+      [
+        "Tonglin (Fannie)",
+        "2026-11-11",
+        "2.02ct E VS2 IGI",
+        "Pendant only",
+        "18K YG",
+        "543.47",
+        "2",
+        "",
+        "45",
+        "Quote; 18K weight estimate"
+      ],
+      [
+        "Better Star (Jerry)",
+        "2026-11-11",
+        "2ct D VS2, IGI claimed",
+        "Pendant only",
+        "14K YG",
+        "412",
+        "1",
+        "",
+        "",
+        "Gold weight ~1g estimated; 50% deposit"
+      ],
+      [
+        "Hanchen / Good Century",
+        "2026-11-10",
+        "2ct D VS1, IGI claimed",
+        "Pendant only",
+        "14K YG",
+        "470",
+        "",
+        "",
+        "",
+        "Single personal quote"
+      ],
+      [
+        "Hanchen / Good Century",
+        "2026-11-10",
+        "2ct D VS1, IGI claimed",
+        "Pendant + chain",
+        "14K YG",
+        "695",
+        "",
+        "",
+        "",
+        "Chain specifications unclear"
+      ],
+      [
+        "PDM Gems",
+        "2026-11-11",
+        "DE VS2 IGI claimed, size confirm",
+        "Pendant only",
+        "Metal not confirmed",
+        "390",
+        "",
+        "",
+        "",
+        "Metal/size/chain unclear; cannot compare as 14K until verified"
+      ],
+      [
+        "PDM Gems",
+        "2026-11-11",
+        "DE VS1 IGI claimed, size confirm",
+        "Pendant only",
+        "Metal not confirmed",
+        "415",
+        "",
+        "",
+        "",
+        "Metal/size/chain unclear"
+      ],
+      [
+        "Wuzhou Qianao / Provence claim",
+        "2026-11-10",
+        "2ct oval IGI claimed",
+        "Pendant only",
+        "14K YG claimed",
+        "235",
+        "",
+        "",
+        "0",
+        "Shipping included seller claim; extraordinary price; verify report, gold weight, identity"
+      ],
+      [
+        "Zhuangyee (John)",
+        "2026-11-11",
+        "2ct D VS1 IGI claimed",
+        "Pendant only",
+        "14K YG",
+        "688",
+        "",
+        "",
+        "",
+        "Formal IGI report to verify"
+      ],
+      [
+        "LGG (Lynn)",
+        "2026-11-14",
+        "2ct oval, grade confirm",
+        "Pendant only",
+        "14K YG",
+        "629",
+        "",
+        "",
+        "",
+        "Corrected from original misquoted $499"
+      ],
+      [
+        "StarsGem (Annie)",
+        "2026-11-03",
+        "1.5ct, grade confirm",
+        "Pendant only",
+        "14K YG",
+        "462",
+        "",
+        "",
+        "",
+        "Smaller diamond; not like-for-like"
+      ],
+      [
+        "Provence",
+        "2026-11-01",
+        "1.5ct DEF VS–VVS, IGI claimed",
+        "Pendant only",
+        "14K YG",
+        "409",
+        "",
+        "",
+        "",
+        "Smaller diamond; verify specific representative"
+      ]
+    ]
+  },
+  "district-visits": {
+    "label": "District visitor reports",
+    "columns": [
+      "Year",
+      "Venue / buyer vendor",
+      "What happened",
+      "Limitations",
+      "Original URL"
+    ],
+    "note": "Original workbook tab VISITOR EXPERIENCES. Blank fields reflect the source.",
+    "rows": [
+      [
+        "2020",
+        "Wuzhou Fengyong",
+        "Visited factory; ordered six custom rings via Taobao; buyer says $1600 total and DHL to US",
+        "Moissanite, not IGI lab diamonds",
+        {
+          "text": "https://www.reddit.com/r/Moissanite/comments/er5bw9/",
+          "href": "https://www.reddit.com/r/Moissanite/comments/er5bw9/"
+        }
+      ],
+      [
+        "2025",
+        "Shuibei market",
+        "Traveler bought ring, earrings and gifts, positive follow-up",
+        "No merchant identity, no mail shipment",
+        {
+          "text": "https://www.reddit.com/r/shenzhen/comments/1ipeqfr/",
+          "href": "https://www.reddit.com/r/shenzhen/comments/1ipeqfr/"
+        }
+      ],
+      [
+        "2026",
+        "Shuibei lab diamond shops",
+        "Commenter recommends Jinzhan and interconnected basements and third-party testing",
+        "Single local comment, no named merchant",
+        {
+          "text": "https://www.reddit.com/r/China/comments/1vvtjlh/",
+          "href": "https://www.reddit.com/r/China/comments/1vvtjlh/"
+        }
+      ],
+      [
+        "2023",
+        "Shuibei wholesale trade",
+        "Visitor describes huge underground exchange area, wholesalers willing to talk",
+        "No purchase validation",
+        {
+          "text": "https://www.reddit.com/r/shenzhen/comments/1025azp/",
+          "href": "https://www.reddit.com/r/shenzhen/comments/1025azp/"
+        }
+      ],
+      [
+        "2025",
+        "Guangzhou sourcing",
+        "Commenters suggest Panyu Daluo and Liwan/Hualin for jewelry materials",
+        "General advice, no dealer review",
+        {
+          "text": "https://www.reddit.com/r/guangzhou/comments/1nhsjdb/advice/",
+          "href": "https://www.reddit.com/r/guangzhou/comments/1nhsjdb/advice/"
+        }
+      ],
+      [
+        "2023",
+        "Wuzhou Fancy Allison",
+        "Custom 14K moissanite ring; CAD, shipment and buyer received; satisfaction mixed",
+        "Moissanite not 2ct lab diamond",
+        {
+          "text": "https://www.reddit.com/r/Moissanite/comments/11m1d0u",
+          "href": "https://www.reddit.com/r/Moissanite/comments/11m1d0u"
+        }
+      ],
+      [
+        "2026",
+        "Shuibei visit",
+        "Traveler asks about lab diamond counters; limited response",
+        "Exploratory, not completed purchase",
+        {
+          "text": "https://www.reddit.com/r/labdiamond/comments/1wbw6x6/",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1wbw6x6/"
+        }
+      ]
+    ]
+  },
+  "district-library": {
+    "label": "Workbook source library",
+    "columns": [
+      "Source category",
+      "Description",
+      "Public URL"
+    ],
+    "note": "Original workbook tab SOURCE LIBRARY. Blank fields reflect the source.",
+    "rows": [
+      [
+        "Government",
+        "Shenzhen Shuibei scale and exports",
+        {
+          "text": "https://www.sz.gov.cn/en_szgov/news/infocus/SZCitywalk/Explore/Attractions/content/post_12465458.html",
+          "href": "https://www.sz.gov.cn/en_szgov/news/infocus/SZCitywalk/Explore/Attractions/content/post_12465458.html"
+        }
+      ],
+      [
+        "Firsthand journalism",
+        "Nov 2026 JCK on-site visit to Shuibei",
+        {
+          "text": "https://www.jckonline.com/editorial-article/misunderstood-global-chinese/",
+          "href": "https://www.jckonline.com/editorial-article/misunderstood-global-chinese/"
+        }
+      ],
+      [
+        "Gemologist",
+        "GIA Shenzhen supply chain",
+        {
+          "text": "https://www.gia.edu/gia-news-research/shenzhen-china-gem-jewelry-industry",
+          "href": "https://www.gia.edu/gia-news-research/shenzhen-china-gem-jewelry-industry"
+        }
+      ],
+      [
+        "Industry association",
+        "Panyu jewelry company directory",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6"
+        }
+      ],
+      [
+        "Industry association",
+        "Daluotang manufacturers association",
+        {
+          "text": "https://www.dltjewtown.cn/col.jsp?id=101",
+          "href": "https://www.dltjewtown.cn/col.jsp?id=101"
+        }
+      ],
+      [
+        "Trade show",
+        "HKTDC exporter and factory-location directory",
+        {
+          "text": "https://www.hktdc.com/event/hkjewellery/en/exhibitor-list?countrySymbol=HKG",
+          "href": "https://www.hktdc.com/event/hkjewellery/en/exhibitor-list?countrySymbol=HKG"
+        }
+      ],
+      [
+        "Trade show",
+        "JMA 2026 exhibitor directory",
+        {
+          "text": "https://jewelryshows.org/en/trade/exhibitor_directory.php",
+          "href": "https://jewelryshows.org/en/trade/exhibitor_directory.php"
+        }
+      ],
+      [
+        "Trade show",
+        "Hong Kong jewelry manufacturers list",
+        {
+          "text": "https://www.jewelry.org.hk/en/exhibitions/exhibitor-list.php",
+          "href": "https://www.jewelry.org.hk/en/exhibitions/exhibitor-list.php"
+        }
+      ],
+      [
+        "Gemologist",
+        "GIA lab diamond producer geography",
+        {
+          "text": "https://www.gia.edu/gems-gemology/summer-2024-gia-update-on-laboratory-grown-diamonds",
+          "href": "https://www.gia.edu/gems-gemology/summer-2024-gia-update-on-laboratory-grown-diamonds"
+        }
+      ],
+      [
+        "Customs",
+        "CBP jewelry classification",
+        {
+          "text": "https://www.help.cbp.gov/s/article/Article1137?language=en_US",
+          "href": "https://www.help.cbp.gov/s/article/Article1137?language=en_US"
+        }
+      ],
+      [
+        "Customs",
+        "CBP de minimis suspension",
+        {
+          "text": "https://www.cbp.gov/sites/default/files/2025-08/factsheet_suspension_of_duty-free_de_minimis_treatment.pdf",
+          "href": "https://www.cbp.gov/sites/default/files/2025-08/factsheet_suspension_of_duty-free_de_minimis_treatment.pdf"
+        }
+      ],
+      [
+        "Shipping",
+        "FedEx shipping jewelry and value limits",
+        {
+          "text": "https://www.fedex.com/en-us/shipping/how-to-ship-jewelry.html",
+          "href": "https://www.fedex.com/en-us/shipping/how-to-ship-jewelry.html"
+        }
+      ],
+      [
+        "Shipping",
+        "DHL international restricted goods",
+        {
+          "text": "https://www.dhl.com/us-en/home/express/help-and-support/frequently-asked-questions/getting-started/what-can-i-ship.html",
+          "href": "https://www.dhl.com/us-en/home/express/help-and-support/frequently-asked-questions/getting-started/what-can-i-ship.html"
+        }
+      ],
+      [
+        "Local pricing",
+        "2026 Shenzhen Shuibei 24K retail quotes",
+        {
+          "text": "https://m.bendibao.com/show970347.html",
+          "href": "https://m.bendibao.com/show970347.html"
+        }
+      ],
+      [
+        "Local pricing",
+        "2026 Shenzhen gold labor fees reporting",
+        {
+          "text": "https://finance.eastmoney.com/a/202610093891575839.html",
+          "href": "https://finance.eastmoney.com/a/202610093891575839.html"
+        }
+      ],
+      [
+        "Buying guide",
+        "Shuibei retail purchase methods",
+        {
+          "text": "https://www.szlh.gov.cn/English/Focus-on-Luohu/RegionalHeadlines/Luohu/content/post_11621337.html",
+          "href": "https://www.szlh.gov.cn/English/Focus-on-Luohu/RegionalHeadlines/Luohu/content/post_11621337.html"
+        }
+      ],
+      [
+        "Market",
+        "Yiwu official issuer district details",
+        {
+          "text": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0601/2026060100689.pdf",
+          "href": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0601/2026060100689.pdf"
+        }
+      ],
+      [
+        "Firsthand",
+        "Wuzhou visited factory US delivery",
+        {
+          "text": "https://www.reddit.com/r/Moissanite/comments/er5bw9/",
+          "href": "https://www.reddit.com/r/Moissanite/comments/er5bw9/"
+        }
+      ],
+      [
+        "Sourcing",
+        "1688 reverse image supplier screening",
+        {
+          "text": "https://www.chineseverify.com/blog/article/how-to-screen-real-factories-1688-multiple-suppliers-step-by-step-guide/",
+          "href": "https://www.chineseverify.com/blog/article/how-to-screen-real-factories-1688-multiple-suppliers-step-by-step-guide/"
+        }
+      ],
+      [
+        "Sourcing",
+        "Factory/trader/1688 channel sourcing guide",
+        {
+          "text": "https://www.silkwaysourcing.com/blog/find-wholesale-supplier-china",
+          "href": "https://www.silkwaysourcing.com/blog/find-wholesale-supplier-china"
+        }
+      ]
+    ]
+  },
+  "district-checklist": {
+    "label": "District RFQ checklist",
+    "columns": [
+      "Step",
+      "What to demand",
+      "Why it matters",
+      "Status"
+    ],
+    "note": "Original workbook tab RFQ & CHECKLIST. Blank fields reflect the source.",
+    "rows": [
+      [
+        "1",
+        "Chinese legal name, USCC business code, on-site registered address",
+        "Identify party responsible for purchase and manufacturer",
+        ""
+      ],
+      [
+        "2",
+        "Published official phone/WeChat verified via independent channel",
+        "Reduce salesperson impersonation risk",
+        ""
+      ],
+      [
+        "3",
+        "Single-unit MOQ, 14K + 18K, yellow gold solid 585 or 750",
+        "Avoid silver and plated bait pricing",
+        ""
+      ],
+      [
+        "4",
+        "IGI lab diamond report number, actual video, dimensions and treatment",
+        "Check stone physically matched to certificate",
+        ""
+      ],
+      [
+        "5",
+        "Net gold weight EXCLUDING stone; CAD estimated weight and final tolerance",
+        "Prevent quote ambiguity",
+        ""
+      ],
+      [
+        "6",
+        "Four prongs and visible bail CAD front/side/back, chain excluded",
+        "Verify requested construction",
+        ""
+      ],
+      [
+        "7",
+        "Price broken into stone / metal / labor / CAD / shipping / payment",
+        "Comparable quotes across dealers",
+        ""
+      ],
+      [
+        "8",
+        "Country of manufacture, declared value, HS classification, export paperwork",
+        "US customs compliance",
+        ""
+      ],
+      [
+        "9",
+        "Carrier confirms acceptance of jewelry and declared value; insurance/claims",
+        "DHL/FedEx restrictions and loss",
+        ""
+      ],
+      [
+        "10",
+        "US DAP/DDP breakdown, brokerage and any duty before shipment",
+        "True delivered cost",
+        ""
+      ],
+      [
+        "11",
+        "Deposit due / dispute rights / CAD revision policy / full price cap",
+        "Avoid paying into ambiguous transfer",
+        ""
+      ],
+      [
+        "12",
+        "Photo-video QC and any independent metal verification before balance",
+        "Avoid 14K plating substitution",
+        ""
+      ],
+      [
+        "13",
+        "Return/remake response and who covers international return cost",
+        "Practical recourse",
+        ""
+      ],
+      [
+        "14",
+        "All receipts and approvals stored with exact invoice ID",
+        "Card dispute evidence",
+        ""
+      ]
+    ]
+  },
+  "district-original-shortlist": {
+    "label": "Workbook shortlist",
+    "columns": [
+      "ID",
+      "November 15 evidence check",
+      "Supplier",
+      "City",
+      "Contact",
+      "Strength",
+      "Gap to resolve",
+      "Source"
+    ],
+    "note": "Original workbook tab TARGET FIRST. Blank fields reflect the source. The evidence check records where the later review qualified a claim.",
+    "rows": [
+      [
+        "CN-001",
+        "Company contact and lab-diamond range match. Written MOQ, exact-stone stock, 14K and insured Illinois freight open.",
+        "Wuzhou Changsheng Gems",
+        "Wuzhou",
+        "+86 19172103489; sales@cs-gems.com",
+        "Lab diamonds; moissanite; custom K-gold and platinum",
+        "International delivery not verified",
+        {
+          "text": "https://cs-gems.com/contact-us/",
+          "href": "https://cs-gems.com/contact-us/"
+        }
+      ],
+      [
+        "CN-002",
+        "Firsthand delivery post matches the 2020 moissanite purchase. Current lab-diamond capability and contact authority open.",
+        "Wuzhou Fengyong Gemstone Jewelry",
+        "Wuzhou",
+        "Helen Gong; Instagram @gong4857; search Chinese Taobao seller",
+        "Custom moissanite jewelry",
+        "Buyer reported 6 rings shipped DHL to USA in 2020",
+        {
+          "text": "https://www.reddit.com/r/Moissanite/comments/er5bw9/",
+          "href": "https://www.reddit.com/r/Moissanite/comments/er5bw9/"
+        }
+      ],
+      [
+        "CN-004",
+        "Public phone, name and gold/platinum categories match. Foreign trade, lab diamonds and custom CAD lack support on the cited page.",
+        "Shenzhen Jinxiuxiu Jewelry",
+        "Shenzhen (Shuibei)",
+        "+86 13040868552; contact Lu Jinxiu",
+        "K-gold; PT950; lab diamonds; custom CAD",
+        "Directory explicitly lists support for foreign-trade orders; US shipment not verified",
+        {
+          "text": "https://www.aichangjia.com/factory/45679.html",
+          "href": "https://www.aichangjia.com/factory/45679.html"
+        }
+      ],
+      [
+        "CN-007",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Guangzhou Jijia Jewelry Design",
+        "Guangzhou (Panyu)",
+        "+86 13728071778",
+        "Private custom engagement rings, high-end jewelry",
+        "Not checked",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3"
+        }
+      ],
+      [
+        "CN-008",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Guangzhou Bairui Jewelry",
+        "Guangzhou (Panyu)",
+        "+86 18924183979",
+        "Mid/high-grade OEM/ODM custom jewelry",
+        "Not checked",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3"
+        }
+      ],
+      [
+        "CN-012",
+        "Archived association lead. Current contact and one-piece export terms remain unverified.",
+        "Guangzhou Honeymoon Journey Jewelry",
+        "Guangzhou (Panyu)",
+        "+86 15902036563",
+        "18K gold necklaces, rings, earrings",
+        "Not checked",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=5",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=5"
+        }
+      ],
+      [
+        "CN-014",
+        "Association article supports jewelry processing identity. Workbook phone, one-piece terms and present export open.",
+        "Guangzhou Zuandi Jewelry",
+        "Guangzhou (Panyu)",
+        "+86 13711325730",
+        "Diamond/gem setting, CNC and design",
+        "Not checked",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6"
+        }
+      ],
+      [
+        "CN-016",
+        "Association profile indexed at company_1.html. Phone matches and public email found. Customer-material K-gold work listed.",
+        "Guangzhou Zhengjin Jewelry Design",
+        "Guangzhou (Panyu)",
+        "+86 20 39997518",
+        "K-gold and platinum gem settings",
+        "Not checked",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6"
+        }
+      ],
+      [
+        "CN-017",
+        "No published contact in the workbook. Keep as a discovery lead.",
+        "Guangzhou Guyu Jewelry",
+        "Guangzhou (Panyu)",
+        "Not published in entry",
+        "18K diamond jewelry production, wholesale",
+        "Not checked",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6"
+        }
+      ],
+      [
+        "CN-023",
+        "Indexed company-specific association profile supports name. Confirm 14K and one-piece order. Check exact current contact.",
+        "Guangzhou Jipin Jinzhuan",
+        "Guangzhou (Panyu)",
+        "+86 20 84733302",
+        "8K–18K gold; platinum; diamond/gem settings",
+        "Not checked",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10"
+        }
+      ],
+      [
+        "CN-025",
+        "Indexed association directory supports name, Shawan location and phone. One-piece lab work and export open.",
+        "Guangzhou Kaishaqi Diamond Jewelry",
+        "Guangzhou (Panyu)",
+        "+86 20 34732069",
+        "Diamond jewelry design, manufacturing, processing",
+        "Not checked",
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=9",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=9"
+        }
+      ]
+    ]
+  },
+  "district-audit": {
+    "label": "District source checks",
+    "columns": [
+      "Source",
+      "Origin",
+      "Class",
+      "Access result",
+      "Finding and evidence limit"
+    ],
+    "note": "Checked November 15, 2026. Covers all 56 distinct URLs from the workbook and companion notes, plus added sources.",
+    "rows": [
+      [
+        {
+          "text": "https://cs-gems.com/contact-us/",
+          "href": "https://cs-gems.com/contact-us/"
+        },
+        "Supplied",
+        "Company contact",
+        "Readable",
+        "Wuzhou Gem Building Unit 4-1202, public email and phone match. White/fancy lab-diamond categories and custom work advertised. Verify 14K sample terms, exact IGI inventory and Illinois delivery."
+      ],
+      [
+        {
+          "text": "https://m.gys.cn/wanxiu/wuzhouprovencegems.html",
+          "href": "https://m.gys.cn/wanxiu/wuzhouprovencegems.html"
+        },
+        "Supplied",
+        "Seller marketplace",
+        "Readable",
+        "Chinese legal string, contact and address match. Much of the offer is moissanite and synthetics. No evidence of shared ownership with other Provence sellers."
+      ],
+      [
+        {
+          "text": "https://www.aichangjia.com/factory/45679.html",
+          "href": "https://www.aichangjia.com/factory/45679.html"
+        },
+        "Supplied",
+        "Directory",
+        "Readable with correction",
+        "Jinxiuxiu public number and K-gold/platinum categories matched. The directory invites export-facing firms to add an email. It does not establish foreign-trade support, lab diamonds or CAD for this seller."
+      ],
+      [
+        {
+          "text": "https://shuibeijeweler.com/contact/",
+          "href": "https://shuibeijeweler.com/contact/"
+        },
+        "Supplied",
+        "Company contact",
+        "Indexed; direct open timed out",
+        "Indexed company page matches advertised email and WhatsApp/WeChat. Obtain named legal entity, address and one-piece terms. Distinct spelling from similarly branded sites."
+      ],
+      [
+        {
+          "text": "https://shuibeijeweler.com/about/",
+          "href": "https://shuibeijeweler.com/about/"
+        },
+        "Added during review",
+        "Company FAQ",
+        "Readable",
+        "Says MOQ varies by product and technique. Advertises lab diamonds and international shipping. Order-specific terms open."
+      ],
+      [
+        {
+          "text": "https://www.jewelryshows.org/en/visitor/exhibitor_directory_detail.php?id=586",
+          "href": "https://www.jewelryshows.org/en/visitor/exhibitor_directory_detail.php?id=586"
+        },
+        "Supplied",
+        "Trade-show exhibitor",
+        "Readable",
+        "Pak Wui name, booth listing and sec@pwjewel.com match. Supplier describes a Shawan production base and wholesale export focus. “0202” is insufficient as a phone number. Sample MOQ unknown."
+      ],
+      [
+        {
+          "text": "https://betterstar.en.alibaba.com/",
+          "href": "https://betterstar.en.alibaba.com/"
+        },
+        "Supplied",
+        "Seller storefront",
+        "No readable listing",
+        "Use the alternate public marketplace profile for the entity. $412 remains the archived direct quote before freight."
+      ],
+      [
+        {
+          "text": "https://suppliers.alibaba.com/zhengzhou-better-star-trade-co-ltd_2659398708",
+          "href": "https://suppliers.alibaba.com/zhengzhou-better-star-trade-co-ltd_2659398708"
+        },
+        "Added during review",
+        "Marketplace verification",
+        "Readable",
+        "Platform publishes a Better Star assessment, production and product information. Ask separately for actual stone and one-piece delivered invoice."
+      ],
+      [
+        {
+          "text": "https://tonglinjewel.com/",
+          "href": "https://tonglinjewel.com/"
+        },
+        "Supplied",
+        "Company site",
+        "Readable",
+        "Shatou/Panyu and jewelry services as advertised. Plated products also offered. Relevant historical quote specifies solid 14K. Exact net weight, revised charges and payee remain open."
+      ],
+      [
+        {
+          "text": "https://szhcjewelry.en.alibaba.com/",
+          "href": "https://szhcjewelry.en.alibaba.com/"
+        },
+        "Supplied",
+        "Seller storefront",
+        "No readable listing",
+        "Canonical storefront did not expose details. Indexed branded products provide limited Hanchen identity corroboration."
+      ],
+      [
+        {
+          "text": "https://www.alibaba.com/pla/Good-Century-18K-Gold-Round-Cut_1601912810129.html",
+          "href": "https://www.alibaba.com/pla/Good-Century-18K-Gold-Round-Cut_1601912810129.html"
+        },
+        "Added during review",
+        "Marketplace product",
+        "Indexed",
+        "Good Century-branded ring appears under Shenzhen Hanchen. Different product and no evidence linking separately recorded Good Century contact."
+      ],
+      [
+        {
+          "text": "https://wzqianao.en.alibaba.com/",
+          "href": "https://wzqianao.en.alibaba.com/"
+        },
+        "Supplied",
+        "Seller storefront",
+        "No readable listing",
+        "Use alternate Qianao verification page. The archived $235 is an unconfirmed inclusion and identity check."
+      ],
+      [
+        {
+          "text": "https://suppliers.alibaba.com/wuzhou-qianao-jewelry-co-ltd_2206672450802",
+          "href": "https://suppliers.alibaba.com/wuzhou-qianao-jewelry-co-ltd_2206672450802"
+        },
+        "Added during review",
+        "Marketplace verification",
+        "Readable",
+        "Public platform profile matches Qianao legal string. No conclusion about Provence authorization or individual quote."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=3"
+        },
+        "Supplied",
+        "Association directory",
+        "Indexed; live direct failed",
+        "Yingde row and public phone corroborated by exact indexed profile. Do not infer that the same page independently re-verifies all four archived contacts."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=5",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=5"
+        },
+        "Supplied",
+        "Association directory",
+        "Unavailable",
+        "Archived CN-010 to CN-012 rows retained. Live fetch timed out and direct HTTPS hostname validation failed. Current phone and terms open."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=6"
+        },
+        "Supplied",
+        "Association directory",
+        "Indexed; live direct failed",
+        "Zhengjin exact profile/contact indexed. Zuandi’s company identity has a separate association article. Other CN-013 through CN-017 details remain archive claims unless separately confirmed."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=7",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=7"
+        },
+        "Supplied",
+        "Association directory",
+        "Unavailable",
+        "Archived Jin Gong Fu and Liye rows retained. Hong Kong phone alone cannot establish export service."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=8",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=8"
+        },
+        "Supplied",
+        "Association directory",
+        "Unavailable",
+        "Archived Pinyi and Zhuoer contact records retained. Reconfirm before using."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=9",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=9"
+        },
+        "Supplied",
+        "Association directory",
+        "Indexed; live direct failed",
+        "Indexed result matches Kaishaqi’s Guangzhou company name, Shawan location and phone. Tianlongxin contact still archival."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=10"
+        },
+        "Supplied",
+        "Association directory",
+        "Indexed; live direct failed",
+        "Yiheng and Makayami phone/role indexed. Jipin profile indexed separately. Page is a company list, not proof of a specific Shawan tenant’s capability."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=11",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=11"
+        },
+        "Supplied",
+        "Association directory",
+        "Unavailable",
+        "Boyi’s archived diamond-processing entry retained. Retail loose-stone order and export unknown."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=12",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=12"
+        },
+        "Supplied",
+        "Association directory",
+        "Cached copy readable",
+        "Huiju name, public landline and K-gold/K-silver setting text match. No one-piece assurances. Page also includes other candidates for a later search."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=17",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=17"
+        },
+        "Supplied",
+        "Association directory",
+        "Unavailable",
+        "Yibao archived contact retained. Exact current role and one-piece service unverified."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=2",
+          "href": "https://www.pyjew.com/index.php?act=company_list&app=company_front&cp=2"
+        },
+        "Supplied",
+        "Association directory",
+        "Unavailable",
+        "Jiefei is a freight lead. Insurance, courier and export authorization claims still need a written proposal."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=1",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=1"
+        },
+        "Supplied",
+        "Association directory",
+        "Unavailable",
+        "Baoxing and BideLi remain archived contact routes."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=13",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=13"
+        },
+        "Supplied",
+        "Association directory",
+        "Unavailable",
+        "Jinglue and Jingcheng remain archive leads; resolve precise legal entities."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=15",
+          "href": "https://www.pyjew.com/index.php?act=company_search&app=company_front&cp=15"
+        },
+        "Supplied",
+        "Association directory",
+        "Unavailable",
+        "Shiyao archived name and number not jointly reconfirmed."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/company_218.html",
+          "href": "https://www.pyjew.com/company_218.html"
+        },
+        "Added during review",
+        "Association company profile",
+        "Indexed; live direct failed",
+        "Yingde exact name, public phone and customer-material processing plus K-gold setting, listed as a processing workshop. No export evidence."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/company_1.html",
+          "href": "https://www.pyjew.com/company_1.html"
+        },
+        "Added during review",
+        "Association company profile",
+        "Indexed; live direct failed",
+        "Zhengjin lists K-gold and platinum setting using customer material or samples, 020-39997518 and zhengjinjewellery@163.com. Own directory description mentions overseas clients. MOQ and US delivery unconfirmed."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/news_1078.html",
+          "href": "https://www.pyjew.com/news_1078.html"
+        },
+        "Added during review",
+        "Association member article",
+        "Indexed; live direct failed",
+        "Zuandi identity and jewelry processing described. Article historical, contact and one-piece offer unconfirmed."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/company_50.html",
+          "href": "https://www.pyjew.com/company_50.html"
+        },
+        "Added during review",
+        "Association company profile",
+        "Indexed; live direct failed",
+        "Matches Jipin legal string. Indexed description includes design, wholesale, retail/franchise. Gold/IGI and purchaser MOQ still must be confirmed."
+      ],
+      [
+        {
+          "text": "https://www.pyjew.com/company_29.html",
+          "href": "https://www.pyjew.com/company_29.html"
+        },
+        "Added during review",
+        "Association company profile",
+        "Indexed",
+        "Yiheng entity and 020-34878889 match. Supplier describes brand service and Hong Kong parent; no single-piece terms."
+      ],
+      [
+        {
+          "text": "https://www.sz.gov.cn/en_szgov/news/infocus/SZCitywalk/Explore/Attractions/content/post_12465458.html",
+          "href": "https://www.sz.gov.cn/en_szgov/news/infocus/SZCitywalk/Explore/Attractions/content/post_12465458.html"
+        },
+        "Supplied",
+        "Municipal venue page",
+        "Unavailable",
+        "Wanshan original page failed. Independent site visit describes Wanshan area. Separate Luohu notice supports district scale, not buyer eligibility."
+      ],
+      [
+        {
+          "text": "https://www.szlh.gov.cn/English/news/content/post_10925509.html",
+          "href": "https://www.szlh.gov.cn/English/news/content/post_10925509.html"
+        },
+        "Added during review",
+        "Municipal news",
+        "Indexed",
+        "Luohu reported roughly 7,000 enterprises in 2023. Historical district scale, not a current count of suppliers."
+      ],
+      [
+        {
+          "text": "https://www.szlh.gov.cn/English/news/content/mpost_13010201.html",
+          "href": "https://www.szlh.gov.cn/English/news/content/mpost_13010201.html"
+        },
+        "Added during review",
+        "Municipal news",
+        "Indexed",
+        "October 2026 page corroborates Shuibei wholesale role. No supplier-level terms."
+      ],
+      [
+        {
+          "text": "https://www.szlh.gov.cn/English/chill-in-luohu/business-districts/content/post_11903738.html",
+          "href": "https://www.szlh.gov.cn/English/chill-in-luohu/business-districts/content/post_11903738.html"
+        },
+        "Supplied",
+        "Municipal venue page",
+        "Unavailable",
+        "Jinli/Jinzhan entries retained; verify building access and tenant on a live map or current operator directory."
+      ],
+      [
+        {
+          "text": "https://www.szlh.gov.cn/English/chill-in-luohu/hot-spots/art/content/mpost_11905923.html",
+          "href": "https://www.szlh.gov.cn/English/chill-in-luohu/hot-spots/art/content/mpost_11905923.html"
+        },
+        "Supplied",
+        "Municipal venue page",
+        "Indexed; live direct failed",
+        "Indexed result confirms the trading center and 2004 establishment. It is venue evidence."
+      ],
+      [
+        {
+          "text": "https://www.szlh.gov.cn/English/Focus-on-Luohu/RegionalHeadlines/Luohu/content/post_11621337.html",
+          "href": "https://www.szlh.gov.cn/English/Focus-on-Luohu/RegionalHeadlines/Luohu/content/post_11621337.html"
+        },
+        "Supplied",
+        "Municipal guide",
+        "Unavailable",
+        "General retail gold context. Original was unavailable; current component costs require a written quote."
+      ],
+      [
+        {
+          "text": "https://city.shenchuang.com/whjy/20250324/1682482.shtml",
+          "href": "https://city.shenchuang.com/whjy/20250324/1682482.shtml"
+        },
+        "Supplied",
+        "Local media directory",
+        "Readable, weak match",
+        "General cultural park list. Reviewed text did not support a verified jewelry counter or resolve the Yihao/Yinzuo address on its own."
+      ],
+      [
+        {
+          "text": "https://post.smzdm.com/p/a95gxem0/",
+          "href": "https://post.smzdm.com/p/a95gxem0/"
+        },
+        "Supplied",
+        "Consumer article",
+        "Readable",
+        "Consumer experience for buying gold jewelry. Use for orientation and plain-gold context rather than gem-set pendant rates."
+      ],
+      [
+        {
+          "text": "https://m.bendibao.com/show970347.html",
+          "href": "https://m.bendibao.com/show970347.html"
+        },
+        "Supplied",
+        "Local price aggregator",
+        "Readable",
+        "November 12 table reports Shuibei jewelry-gold reference prices from an app. Mixed stores, volatile, unrelated to a 585 mounting quote."
+      ],
+      [
+        {
+          "text": "https://finance.eastmoney.com/a/202610093891575839.html",
+          "href": "https://finance.eastmoney.com/a/202610093891575839.html"
+        },
+        "Supplied",
+        "Local reporting",
+        "Readable",
+        "October gold-market labor anecdotes concern retail gold styles. No evidence for a single 14K gem-set pendant making fee."
+      ],
+      [
+        {
+          "text": "https://www.dltjewtown.cn/col.jsp?id=101",
+          "href": "https://www.dltjewtown.cn/col.jsp?id=101"
+        },
+        "Supplied",
+        "District organization",
+        "Unavailable",
+        "Original export-oriented description retained. Panyu industry plan and government sources corroborate the district’s manufacturing focus."
+      ],
+      [
+        {
+          "text": "https://www.dltjewtown.cn/col.jsp?id=108",
+          "href": "https://www.dltjewtown.cn/col.jsp?id=108"
+        },
+        "Supplied",
+        "District organization",
+        "Unavailable",
+        "Yinjian and Daluo City venue rows retained. Exact tenant, hours and maker status still need checking."
+      ],
+      [
+        {
+          "text": "https://sthjj.gz.gov.cn/attachment/7/7641/7641593/9781822.pdf",
+          "href": "https://sthjj.gz.gov.cn/attachment/7/7641/7641593/9781822.pdf"
+        },
+        "Supplied",
+        "Municipal filing",
+        "Unavailable",
+        "Original attachment timed out. Government Juying approval is a readable independent location/industrial-use corroboration."
+      ],
+      [
+        {
+          "text": "https://www.panyu.gov.cn/attachment/7/7724/7724987/9991623.pdf",
+          "href": "https://www.panyu.gov.cn/attachment/7/7724/7724987/9991623.pdf"
+        },
+        "Added during review",
+        "Government approval",
+        "Readable",
+        "Juying center approval at 格田大街2号 names the property company and jewelry operations. It does not identify which tenant makes the requested item."
+      ],
+      [
+        {
+          "text": "https://www.panyu.gov.cn/attachment/7/7553/7553028/9493716.pdf",
+          "href": "https://www.panyu.gov.cn/attachment/7/7553/7553028/9493716.pdf"
+        },
+        "Added during review",
+        "Government planning document",
+        "Indexed",
+        "Daluotang and Shawan are named production and supply-chain clusters. Policy evidence rather than current output or shop terms."
+      ],
+      [
+        {
+          "text": "https://www.gia.edu/gia-news-research/shenzhen-china-gem-jewelry-industry",
+          "href": "https://www.gia.edu/gia-news-research/shenzhen-china-gem-jewelry-industry"
+        },
+        "Supplied",
+        "GIA field report",
+        "Readable",
+        "2016 industry field report supports a diverse Shenzhen trading and production ecosystem. Historic, no current price or seller terms."
+      ],
+      [
+        {
+          "text": "https://www.jckonline.com/editorial-article/misunderstood-global-chinese/",
+          "href": "https://www.jckonline.com/editorial-article/misunderstood-global-chinese/"
+        },
+        "Supplied",
+        "Firsthand journalism",
+        "Readable",
+        "November 13, 2026 story describes July visit, a vendor with trays of gold ring mountings, and WeChat-facilitated trading. No pendant price, current seller roster or export process."
+      ],
+      [
+        {
+          "text": "https://sourcing.worldfirst.com/categories/jewelry",
+          "href": "https://sourcing.worldfirst.com/categories/jewelry"
+        },
+        "Supplied",
+        "Payment-provider guide",
+        "Readable",
+        "Useful market and category discovery. Commercial guide provides no supplier-level validation."
+      ],
+      [
+        {
+          "text": "https://www.gia.edu/gems-gemology/summer-2024-gia-update-on-laboratory-grown-diamonds",
+          "href": "https://www.gia.edu/gems-gemology/summer-2024-gia-update-on-laboratory-grown-diamonds"
+        },
+        "Supplied",
+        "GIA research",
+        "Readable",
+        "Supports Chinese HPHT production context and methods. Cannot independently confirm a particular vendor’s source or offer."
+      ],
+      [
+        {
+          "text": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0601/2026060100689.pdf",
+          "href": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0601/2026060100689.pdf"
+        },
+        "Supplied",
+        "Issuer filing",
+        "Readable via local text extraction",
+        "Yiwu District 1 section describes second-floor hair ornaments and jewelry, with jewelry/accessories in the east extension. No solid-gold custom sourcing claims."
+      ],
+      [
+        {
+          "text": "https://paper.people.com.cn/rmrb/pc/content/202507/17/content_30088304.html",
+          "href": "https://paper.people.com.cn/rmrb/pc/content/202507/17/content_30088304.html"
+        },
+        "Supplied",
+        "On-site reporting",
+        "Readable",
+        "Primary reporting on Zhuji’s pearl trade. Relevant to pearl sourcing and adjacent routes."
+      ],
+      [
+        {
+          "text": "https://www.hktdc.com/event/hkjewellery/en/exhibitor-list?countrySymbol=HKG",
+          "href": "https://www.hktdc.com/event/hkjewellery/en/exhibitor-list?countrySymbol=HKG"
+        },
+        "Supplied",
+        "Trade-show directory",
+        "Readable",
+        "Exhibitor list supports discovery of contacts. Cannot establish mainland factory involvement or small MOQ."
+      ],
+      [
+        {
+          "text": "https://jewelryshows.org/en/trade/exhibitor_directory.php",
+          "href": "https://jewelryshows.org/en/trade/exhibitor_directory.php"
+        },
+        "Supplied",
+        "Trade-show directory",
+        "Readable",
+        "JMA 2026 exhibitor directory. Check seller profile rather than assuming retail sample availability."
+      ],
+      [
+        {
+          "text": "https://www.jewelry.org.hk/en/exhibitions/exhibitor-list.php",
+          "href": "https://www.jewelry.org.hk/en/exhibitions/exhibitor-list.php"
+        },
+        "Supplied",
+        "Industry directory",
+        "Readable",
+        "Alphabetic Hong Kong exhibitor index. Discovery evidence only."
+      ],
+      [
+        {
+          "text": "https://www.chineseverify.com/blog/article/how-to-screen-real-factories-1688-multiple-suppliers-step-by-step-guide/",
+          "href": "https://www.chineseverify.com/blog/article/how-to-screen-real-factories-1688-multiple-suppliers-step-by-step-guide/"
+        },
+        "Supplied",
+        "Commercial sourcing guide",
+        "Readable",
+        "Reverse-image and supplier verification methods; useful for screening, no proof about a specific vendor."
+      ],
+      [
+        {
+          "text": "https://www.silkwaysourcing.com/blog/find-wholesale-supplier-china",
+          "href": "https://www.silkwaysourcing.com/blog/find-wholesale-supplier-china"
+        },
+        "Supplied",
+        "Commercial sourcing guide",
+        "Readable",
+        "General 1688/factory/trader screening. Agency has commercial incentive."
+      ],
+      [
+        {
+          "text": "https://www.reddit.com/r/Moissanite/comments/er5bw9/",
+          "href": "https://www.reddit.com/r/Moissanite/comments/er5bw9/"
+        },
+        "Supplied",
+        "Firsthand buyer",
+        "Readable",
+        "Buyer disclosed approx. $1,600 for six Taobao custom rings with DHL delivery to US in 2020. An old moissanite example, no present price or export authorization."
+      ],
+      [
+        {
+          "text": "https://www.reddit.com/r/shenzhen/comments/1ipeqfr/",
+          "href": "https://www.reddit.com/r/shenzhen/comments/1ipeqfr/"
+        },
+        "Supplied",
+        "Visitor report",
+        "Readable",
+        "Market shopping signals, no named purchase counter or mail-export trail."
+      ],
+      [
+        {
+          "text": "https://www.reddit.com/r/China/comments/1vvtjlh/",
+          "href": "https://www.reddit.com/r/China/comments/1vvtjlh/"
+        },
+        "Supplied",
+        "Visitor discussion",
+        "Readable",
+        "Jinzhan and testing lead from comments. Individual advice, not named supplier verification."
+      ],
+      [
+        {
+          "text": "https://www.reddit.com/r/shenzhen/comments/1025azp/",
+          "href": "https://www.reddit.com/r/shenzhen/comments/1025azp/"
+        },
+        "Supplied",
+        "Visitor discussion",
+        "Readable",
+        "Historical description of wholesale markets; no sale or export validation."
+      ],
+      [
+        {
+          "text": "https://www.reddit.com/r/guangzhou/comments/1nhsjdb/advice/",
+          "href": "https://www.reddit.com/r/guangzhou/comments/1nhsjdb/advice/"
+        },
+        "Supplied",
+        "Visitor discussion",
+        "Readable",
+        "General Guangzhou sourcing tips. Discovery only."
+      ],
+      [
+        {
+          "text": "https://www.reddit.com/r/Moissanite/comments/11m1d0u",
+          "href": "https://www.reddit.com/r/Moissanite/comments/11m1d0u"
+        },
+        "Supplied",
+        "Firsthand buyer",
+        "Readable",
+        "Received Wuzhou Fancy moissanite custom piece and described experience. Different stone, time and scope."
+      ],
+      [
+        {
+          "text": "https://www.reddit.com/r/labdiamond/comments/1wbw6x6/",
+          "href": "https://www.reddit.com/r/labdiamond/comments/1wbw6x6/"
+        },
+        "Supplied",
+        "Visitor discussion",
+        "Readable",
+        "Exploratory lab-diamond sourcing thread. No completed transaction evidence."
+      ],
+      [
+        {
+          "text": "https://www.cbp.gov/sites/default/files/2025-08/factsheet_suspension_of_duty-free_de_minimis_treatment.pdf",
+          "href": "https://www.cbp.gov/sites/default/files/2025-08/factsheet_suspension_of_duty-free_de_minimis_treatment.pdf"
+        },
+        "Supplied",
+        "Customs agency",
+        "Indexed; direct open denied",
+        "Dated de minimis fact sheet. Confirm live entry rules; historical rate examples need their own date."
+      ],
+      [
+        {
+          "text": "https://www.help.cbp.gov/s/article/Article1137?language=en_US",
+          "href": "https://www.help.cbp.gov/s/article/Article1137?language=en_US"
+        },
+        "Supplied",
+        "Customs agency",
+        "Indexed; direct shell only",
+        "Agency article covers jewelry and gemstones. Classification, origin, actual invoice and importer terms still matter."
+      ],
+      [
+        {
+          "text": "https://www.help.cbp.gov/s/article/Article-1050?language=en_US",
+          "href": "https://www.help.cbp.gov/s/article/Article-1050?language=en_US"
+        },
+        "Added during review",
+        "Customs agency",
+        "Indexed",
+        "CBP February 2026 guidance describes suspension of low-value duty-free treatment. Obtain item-specific entry estimate rather than assuming a duty rate."
+      ],
+      [
+        {
+          "text": "https://www.dhl.com/us-en/home/express/help-and-support/frequently-asked-questions/getting-started/what-can-i-ship.html",
+          "href": "https://www.dhl.com/us-en/home/express/help-and-support/frequently-asked-questions/getting-started/what-can-i-ship.html"
+        },
+        "Supplied",
+        "Carrier policy",
+        "Readable",
+        "US help page lists jewelry, metals and stones in prohibited or special handling examples. Seller must substantiate route/account acceptance with carrier and separately document coverage."
+      ],
+      [
+        {
+          "text": "https://www.fedex.com/en-us/shipping/how-to-ship-jewelry.html",
+          "href": "https://www.fedex.com/en-us/shipping/how-to-ship-jewelry.html"
+        },
+        "Supplied",
+        "Carrier policy",
+        "Readable",
+        "FedEx jewelry guide distinguishes declared value and insurance and describes service-specific limits. Generic US guidance is not proof of a mainland originating route."
+      ],
+      [
+        {
+          "text": "https://www.gsxt.gov.cn/",
+          "href": "https://www.gsxt.gov.cn/"
+        },
+        "Added during review",
+        "Official enterprise registry",
+        "Access denied",
+        "Use official registered-name and USCC lookup where available. No registry outcome for the shortlist in this review."
+      ],
+      [
+        {
+          "text": "https://www.alphajewelry.com/pages/about-us/",
+          "href": "https://www.alphajewelry.com/pages/about-us/"
+        },
+        "Added during review",
+        "Company capabilities",
+        "Readable",
+        "Guangzhou Guya / Alpha names Panyu workshop, public WhatsApp/email, finished and semi-mount services and one-piece MOQ. Test with one Illinois order and exact written terms."
+      ],
+      [
+        {
+          "text": "https://www.alphajewelry.com/services/lab-grown-diamond-jewelry/",
+          "href": "https://www.alphajewelry.com/services/lab-grown-diamond-jewelry/"
+        },
+        "Added during review",
+        "Company product services",
+        "Readable",
+        "Advertises IGI stones, lab diamond custom setting and 9K–22K materials. No comparable binding public pendant price."
+      ],
+      [
+        {
+          "text": "https://www.alphajewelry.com/contact/",
+          "href": "https://www.alphajewelry.com/contact/"
+        },
+        "Added during review",
+        "Company contact",
+        "Readable",
+        "Official contact channel for itemized custom quote."
+      ],
+      [
+        {
+          "text": "https://psjewelrymanufacturer.com/faqs/",
+          "href": "https://psjewelrymanufacturer.com/faqs/"
+        },
+        "Added during review",
+        "Company FAQ",
+        "Readable",
+        "Peishang advertises solid 14K/18K and one-piece gold MOQ, with design-specific OEM terms. Most public offerings emphasize silver/brass. Get exact solid-alloy scope and stone-acceptance terms."
+      ],
+      [
+        {
+          "text": "https://psjewelrymanufacturer.com/contact-us/",
+          "href": "https://psjewelrymanufacturer.com/contact-us/"
+        },
+        "Added during review",
+        "Company contact",
+        "Readable",
+        "Public contact and Daluotang address match commissioned assessment header."
+      ],
+      [
+        {
+          "text": "https://psjewelrymanufacturer.com/wp-content/uploads/2025/05/Supplier-Assessment-Report-Guangzhou-Peishang-Jewelry-Co.-Ltd.-3.pdf",
+          "href": "https://psjewelrymanufacturer.com/wp-content/uploads/2025/05/Supplier-Assessment-Report-Guangzhou-Peishang-Jewelry-Co.-Ltd.-3.pdf"
+        },
+        "Added during review",
+        "Commissioned facility assessment",
+        "Readable",
+        "SGS/Alibaba report published on Peishang site names Guangzhou Peishang and supplies matching address/phone. Scope and assessment date do not establish this order’s material or terms."
+      ],
+      [
+        {
+          "text": "https://groenstone.com/faq-questions-about-jewelry-factory-orders/",
+          "href": "https://groenstone.com/faq-questions-about-jewelry-factory-orders/"
+        },
+        "Added during review",
+        "Company-linked FAQ",
+        "Readable",
+        "Repeats one-piece solid gold claim, regular-style sample fee context. Links to main Peishang site."
+      ],
+      [
+        {
+          "text": "https://bjmjewelry.com/",
+          "href": "https://bjmjewelry.com/"
+        },
+        "Added during review",
+        "Company capability and MOQ",
+        "Readable, weak fit",
+        "Current FAQ shows brass/silver emphasis, mixed wholesale 5/$100 and OEM 10/$500. Earlier 1/$99 search result is insufficient for a 14K sample. Bairui identity match not established."
+      ],
+      [
+        {
+          "text": "https://fdi-jewellery.com/",
+          "href": "https://fdi-jewellery.com/"
+        },
+        "Added during review",
+        "Company capability and MOQ",
+        "Indexed",
+        "Panyu production lead, but published pendant MOQ 30. Excluded from single-piece first wave."
+      ],
+      [
+        {
+          "text": "https://www.stuller.com/products/28427/21447258/",
+          "href": "https://www.stuller.com/products/28427/21447258/"
+        },
+        "Added during review",
+        "Manufacturer SKU",
+        "Indexed",
+        "28427:1113:S uses solid 14K YG, nominal 10 × 7 mm oval, four prongs, approx. 0.53 g mount. Price requires trade login. Ask bench jeweler to confirm stone fit and finishing."
+      ],
+      [
+        {
+          "text": "https://veyaradiamonds.com/inventory/VY-02019397",
+          "href": "https://veyaradiamonds.com/inventory/VY-02019397"
+        },
+        "Added during review",
+        "Retail exact-stone listing",
+        "Readable",
+        "2.00 ct E VS2 IGI LG779638042 at $692 during check; representative media disclosed. A retail loose ask above finished pendant anchor."
+      ],
+      [
+        {
+          "text": "https://veyaradiamonds.com/inventory/VY-63188488",
+          "href": "https://veyaradiamonds.com/inventory/VY-63188488"
+        },
+        "Added during review",
+        "Retail exact-stone listing",
+        "Sold",
+        "2.00 ct E VS2, former $480 ask. Sold-status page gives no transaction price."
+      ],
+      [
+        {
+          "text": "https://www.loosegrowndiamond.com/diamond/763616698/",
+          "href": "https://www.loosegrowndiamond.com/diamond/763616698/"
+        },
+        "Added during review",
+        "Retail exact-stone listing",
+        "404 after index result",
+        "2.00 ct E VS2 $552 indexed, unavailable on open. Historic discovery reference only."
+      ],
+      [
+        {
+          "text": "https://sthjj.gz.gov.cn/hjgl/jsxm/hpspqgs/content/post_9980790.html",
+          "href": "https://sthjj.gz.gov.cn/hjgl/jsxm/hpspqgs/content/post_9980790.html"
+        },
+        "Added during review",
+        "Municipal filing",
+        "Readable",
+        "Named Shawan jewelry project lists 14K and 18K inlaid production; environmental filing is not a quote channel."
+      ]
+    ]
+  },
+  "district-new-leads": {
+    "label": "New leads from the review",
+    "columns": [
+      "Supplier",
+      "Location",
+      "Ask for",
+      "Evidence and gap",
+      "Contact"
+    ],
+    "note": "Two newly identified quote routes. Published one-piece terms need an order-specific confirmation.",
+    "rows": [
+      [
+        {
+          "text": "Alpha Jewelry / Guangzhou Guya",
+          "href": "district-sourcing.html#alpha"
+        },
+        "JuYing, Panyu",
+        "One finished 14K or 18K IGI lab-diamond pendant and a semi-mount price",
+        "Company advertises one-piece MOQ, certified center stones and express shipping. Exact price and consumer shipment unconfirmed.",
+        {
+          "text": "Company contact",
+          "href": "https://www.alphajewelry.com/contact/"
+        }
+      ],
+      [
+        {
+          "text": "Peishang / 广州市尚饰有限公司",
+          "href": "district-sourcing.html#peishang"
+        },
+        "Daluotang, Panyu",
+        "Solid 585 and 750 mounting, customer-stone setting, and sample fees",
+        "Company advertises one-piece solid-gold MOQ. Published contact matches a prior assessment. Product scope and consumer shipment unconfirmed.",
+        {
+          "text": "Company contact",
+          "href": "https://psjewelrymanufacturer.com/contact-us/"
+        }
+      ]
+    ]
+  }
+}

@@ -45,6 +45,11 @@ const sourceLinks = [
     note: "Closest heavier two-stone construction benchmark; no report is stated.",
   },
   {
+    name: "StarsGem 10K white 1.031 ct pear pendant",
+    url: "https://starsgemmall.com/#/detail?=24178_10K+White+Gold+Lab+Diamond+Pendant+1.031ct+AuDP1033395-2.html",
+    note: "Certified pendant-only benchmark with supplier-stated IGI report 34J773422604; no chain is included.",
+  },
+  {
     name: "r/Moissanite vendor list",
     url: "https://www.reddit.com/r/Moissanite/wiki/list/",
     note: "Community vendor directory used to validate which overseas/custom vendors are commonly tracked by buyers.",
@@ -670,7 +675,7 @@ This package is for sourcing a solid 14k yellow gold two-stone lab diamond neckl
 ## Start here
 
 1. Read [docs/01_reference_spec.md](docs/01_reference_spec.md) and adjust any preferences, especially chain length, clasp, IGI requirement, and budget ceiling.
-2. Compare the five live StarsGem options in [docs/07_starsgem_listing_comparison.md](docs/07_starsgem_listing_comparison.md).
+2. Compare the six live StarsGem options in [docs/07_starsgem_listing_comparison.md](docs/07_starsgem_listing_comparison.md).
 3. Use [docs/08_gold_alloy_color_guide.md](docs/08_gold_alloy_color_guide.md) to choose 14K vs 18K and yellow vs white gold.
 4. Send the message in [docs/03_rfq_message_templates.md](docs/03_rfq_message_templates.md) to the first-wave suppliers: Tianyu, Paston, Fiorese, LGG, Provence, and StarsGem.
 5. Track replies in [outputs/necklace-rfq/Necklace_RFQ_Tracker.xlsx](outputs/necklace-rfq/Necklace_RFQ_Tracker.xlsx).
@@ -689,10 +694,13 @@ This package is for sourcing a solid 14k yellow gold two-stone lab diamond neckl
 ## Files
 
 - \`docs/\` - Markdown research and sourcing workflow.
-- \`docs/07_starsgem_listing_comparison.md\` - five-listing StarsGem specification and currency comparison.
+- \`docs/07_starsgem_listing_comparison.md\` - six-listing StarsGem specification and currency comparison.
 - \`docs/08_gold_alloy_color_guide.md\` - short 14K/18K and yellow/white gold decision guide.
+- \`docs/09_starsgem_AUDP0008894_price_audit.md\` - standalone audit of why the 2.53 ctw 18K StarsGem necklace is priced at $1,413.85 and which parts of the quote to challenge.
+- \`docs/10_starsgem_AuDP1033291-1_pendant_audit.md\` - standalone audit of the 1.07 ct certified 10K white-gold pendant, including its lighter mounting and comparison with AuDP1033395-2.
+- \`docs/11_general_necklace_research_notebook.md\` - general link inbox, preference map, shortlist, candidate template, decision log, and research queue.
 - \`data/\` - editable CSV source tables.
-- \`data/starsgem_listings.csv\` - machine-readable five-listing specifications and currency calculations.
+- \`data/starsgem_listings.csv\` - machine-readable six-listing specifications and currency calculations.
 - \`dashboard/\` - local HTML tracker with browser-saved RFQ state, notes, conversation logs, and CSV export.
 - \`outputs/necklace-rfq/Necklace_RFQ_Tracker.xlsx\` - main workbook with scoring formulas.
 
@@ -727,7 +735,7 @@ Create a delicate two-stone drop necklace in solid yellow gold:
 
 ## Direct StarsGem comparison set
 
-Four additional live StarsGem listings provide certified 10K solitaire benchmarks and a heavier 18K two-stone comparator. See [07 - StarsGem Listing Comparison and Currency Audit](07_starsgem_listing_comparison.md) for complete live specifications, CNY and USD conversion analysis, certificate-number notes, and quote implications.
+Five additional live StarsGem listings provide certified 10K solitaire benchmarks, a certified pendant-only benchmark, and a heavier 18K two-stone comparator. See [07 - StarsGem Listing Comparison and Currency Audit](07_starsgem_listing_comparison.md) for complete live specifications, CNY and USD conversion analysis, certificate-number notes, and quote implications.
 
 Metal decision guide: [08 - 14K vs 18K and Yellow vs White Gold](08_gold_alloy_color_guide.md).
 
@@ -845,11 +853,11 @@ Before I pay the deposit, please send the Alibaba order/spec sheet or invoice sh
 
 ## StarsGem multi-listing and currency follow-up
 
-I am comparing StarsGem SKUs AuDP0000190Y-P2, AuDP1033281Y-12, AuDP0003441-1, AuDP0003421-5, and AuDP4011413(p1). Please quote each available piece in both CNY and USD, state the exchange rate used, and confirm which currency will actually be charged.
+I am comparing StarsGem SKUs AuDP0000190Y-P2, AuDP1033281Y-12, AuDP0003441-1, AuDP0003421-5, AuDP4011413(p1), and AuDP1033395-2. Please quote each available piece in both CNY and USD, state the exchange rate used, and confirm which currency will actually be charged. For AuDP1033395-2, please confirm that the price and 0.93 g product weight are for the pendant only and quote a compatible chain separately.
 
 For my preferred two-stone design, please also quote AuDP4011413(p1)'s heavier construction in unplated solid 14k yellow gold, using a 0.935-1.02 ct pear near 5.3 x 8.3 to 5.5 x 9 mm and the original 0.16 ct / 3.4 mm round. Please keep at least 2.79 g gross finished weight and confirm the chain's measured width, thickness, chain-only weight, and clasp.
 
-For listings that state IGI 19J161052602, 77J062772510, or 59J521952508, please send the matching digital report and confirm that the report belongs to the exact stone that will ship. Please also translate the listing notes “方1.0mm,” “圆O 1.0mm,” “方0.95mm,” and “圆1.2mm” into the factory chain code and measured dimensions.
+For listings that state IGI 19J161052602, 77J062772510, 59J521952508, or 34J773422604, please send the matching digital report and confirm that the report belongs to the exact stone that will ship. Please also translate the listing notes “方1.0mm,” “圆O 1.0mm,” “方0.95mm,” and “圆1.2mm” into the factory chain code and measured dimensions.
 `;
 
   const workflow = `# 04 - Negotiation and QC Flow

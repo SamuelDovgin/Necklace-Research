@@ -66,8 +66,8 @@ Before I pay the deposit, please send the Alibaba order/spec sheet or invoice sh
 
 ## StarsGem multi-listing and currency follow-up
 
-I am comparing StarsGem SKUs AuDP0000190Y-P2, AuDP1033281Y-12, AuDP0003441-1, AuDP0003421-5, and AuDP4011413(p1). Please quote each available piece in both CNY and USD, state the exchange rate used, and confirm which currency will actually be charged.
+I am comparing StarsGem SKUs AuDP0000190Y-P2, AuDP1033281Y-12, AuDP0003441-1, AuDP0003421-5, AuDP4011413(p1), and AuDP1033395-2. Please quote each available piece in both CNY and USD, state the exchange rate used, and confirm which currency will actually be charged. For AuDP1033395-2, please confirm that the price and 0.93 g product weight are for the pendant only and quote a compatible chain separately.
 
 For my preferred two-stone design, please also quote AuDP4011413(p1)'s heavier construction in unplated solid 14k yellow gold, using a 0.935-1.02 ct pear near 5.3 x 8.3 to 5.5 x 9 mm and the original 0.16 ct / 3.4 mm round. Please keep at least 2.79 g gross finished weight and confirm the chain's measured width, thickness, chain-only weight, and clasp.
 
-For listings that state IGI 19J161052602, 77J062772510, or 59J521952508, please send the matching digital report and confirm that the report belongs to the exact stone that will ship. Please also translate the listing notes “方1.0mm,” “圆O 1.0mm,” “方0.95mm,” and “圆1.2mm” into the factory chain code and measured dimensions.
+For listings that state IGI 19J161052602, 77J062772510, 59J521952508, or 34J773422604, please send the matching digital report and confirm that the report belongs to the exact stone that will ship. Please also translate the listing notes “方1.0mm,” “圆O 1.0mm,” “方0.95mm,” and “圆1.2mm” into the factory chain code and measured dimensions.
